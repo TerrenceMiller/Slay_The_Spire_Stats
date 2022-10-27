@@ -1,0 +1,1517 @@
+play_id,enemy,damage_taken,floor,turns
+02be86b6-8687-4d42-9102-c10b61a7b245,2 Louse,0,1,1
+02be86b6-8687-4d42-9102-c10b61a7b245,Cultist,0,5,2
+02be86b6-8687-4d42-9102-c10b61a7b245,Gremlin Nob,0,6,1
+02be86b6-8687-4d42-9102-c10b61a7b245,Lagavulin,16,8,7
+02be86b6-8687-4d42-9102-c10b61a7b245,Small Slimes,0,11,1
+02be86b6-8687-4d42-9102-c10b61a7b245,Gremlin Nob,0,13,3
+02be86b6-8687-4d42-9102-c10b61a7b245,Looter,4,14,2
+02be86b6-8687-4d42-9102-c10b61a7b245,The Guardian,9,16,7
+02be86b6-8687-4d42-9102-c10b61a7b245,2 Thieves,13,18,3
+02be86b6-8687-4d42-9102-c10b61a7b245,Spheric Guardian,1,20,3
+02be86b6-8687-4d42-9102-c10b61a7b245,Shelled Parasite and Fungi,11,22,7
+02be86b6-8687-4d42-9102-c10b61a7b245,Slavers,23,23,5
+02be86b6-8687-4d42-9102-c10b61a7b245,Gremlin Leader,18,25,4
+02be86b6-8687-4d42-9102-c10b61a7b245,Slavers,11,27,2
+02be86b6-8687-4d42-9102-c10b61a7b245,Colosseum Slavers,13,29,2
+02be86b6-8687-4d42-9102-c10b61a7b245,Colosseum Nobs,7,29,5
+02be86b6-8687-4d42-9102-c10b61a7b245,Gremlin Leader,2,30,4
+02be86b6-8687-4d42-9102-c10b61a7b245,Centurion and Healer,2,31,11
+02be86b6-8687-4d42-9102-c10b61a7b245,Automaton,32,33,9
+02be86b6-8687-4d42-9102-c10b61a7b245,3 Darklings,6,35,5
+02be86b6-8687-4d42-9102-c10b61a7b245,Mind Bloom Boss Battle,15,36,6
+02be86b6-8687-4d42-9102-c10b61a7b245,Orb Walker,6,37,4
+02be86b6-8687-4d42-9102-c10b61a7b245,Writhing Mass,5,39,4
+02be86b6-8687-4d42-9102-c10b61a7b245,Giant Head,2,40,6
+02be86b6-8687-4d42-9102-c10b61a7b245,4 Shapes,10,41,12
+02be86b6-8687-4d42-9102-c10b61a7b245,Nemesis,8,42,9
+02be86b6-8687-4d42-9102-c10b61a7b245,Jaw Worm Horde,7,44,3
+02be86b6-8687-4d42-9102-c10b61a7b245,Reptomancer,4,45,6
+02be86b6-8687-4d42-9102-c10b61a7b245,Sphere and 2 Shapes,6,47,5
+02be86b6-8687-4d42-9102-c10b61a7b245,Giant Head,8,48,7
+02be86b6-8687-4d42-9102-c10b61a7b245,Time Eater,2,50,7
+02be86b6-8687-4d42-9102-c10b61a7b245,Awakened One,19,51,11
+02be86b6-8687-4d42-9102-c10b61a7b245,Shield and Spear,11,55,6
+02be86b6-8687-4d42-9102-c10b61a7b245,The Heart,16,56,7
+8a36d361-b285-442a-b60f-e7ac22e0598d,Small Slimes,10,1,4
+8a36d361-b285-442a-b60f-e7ac22e0598d,Jaw Worm,14,4,4
+8a36d361-b285-442a-b60f-e7ac22e0598d,Cultist,7,7,4
+8a36d361-b285-442a-b60f-e7ac22e0598d,Lagavulin,17,8,7
+8a36d361-b285-442a-b60f-e7ac22e0598d,Gremlin Nob,31,10,4
+8a36d361-b285-442a-b60f-e7ac22e0598d,Looter,11,11,1
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,2 Louse,6,1,5
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Small Slimes,10,2,3
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Cultist,1,4,3
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Gremlin Nob,10,6,3
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,3 Louse,8,7,3
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,3 Sentries,22,8,7
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Blue Slaver,9,11,3
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Gremlin Gang,0,12,1
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Gremlin Nob,8,13,3
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,2 Fungi Beasts,3,14,3
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Slime Boss,44,16,7
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Spheric Guardian,7,18,3
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Chosen,18,19,6
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Gremlin Leader,18,23,5
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Slavers,16,25,5
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Gremlin Leader,6,28,5
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Snake Plant,6,29,3
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Slavers,29,30,4
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Centurion and Healer,21,31,5
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Collector,4,33,6
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Orb Walker,8,35,3
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,3 Shapes,20,37,7
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,3 Darklings,0,38,6
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Reptomancer,3,41,6
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Maw,0,42,5
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Giant Head,5,44,3
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Transient,2,46,4
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Nemesis,3,47,3
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,3 Darklings,0,48,3
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Donu and Deca,44,50,4
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Time Eater,13,51,6
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,Shield and Spear,6,55,3
+c499fd7e-f334-4232-a8ff-e6a41031c2ba,The Heart,26,56,6
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Small Slimes,4,1,4
+c8d23175-f597-4d40-aeea-b1dc82af0a29,2 Louse,3,2,3
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Cultist,1,3,4
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Exordium Thugs,24,5,5
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Gremlin Nob,8,6,3
+c8d23175-f597-4d40-aeea-b1dc82af0a29,3 Sentries,20,8,6
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Lagavulin,17,11,7
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Gremlin Nob,12,13,4
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Large Slime,13,14,5
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Slime Boss,6,16,11
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Chosen,0,18,3
+c8d23175-f597-4d40-aeea-b1dc82af0a29,2 Thieves,21,20,3
+c8d23175-f597-4d40-aeea-b1dc82af0a29,3 Cultists,15,22,5
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Slavers,32,23,9
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Shelled Parasite and Fungi,15,25,4
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Sentry and Sphere,2,27,5
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Gremlin Leader,17,29,5
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Collector,0,33,5
+c8d23175-f597-4d40-aeea-b1dc82af0a29,3 Shapes,0,35,3
+c8d23175-f597-4d40-aeea-b1dc82af0a29,3 Darklings,0,37,5
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Writhing Mass,9,39,5
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Reptomancer,28,40,6
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Transient,10,41,3
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Giant Head,1,42,5
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Mind Bloom Boss Battle,4,44,4
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Maw,0,45,4
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Nemesis,0,46,3
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Writhing Mass,0,48,7
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Donu and Deca,12,50,4
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Awakened One,23,51,4
+c8d23175-f597-4d40-aeea-b1dc82af0a29,Shield and Spear,3,55,3
+c8d23175-f597-4d40-aeea-b1dc82af0a29,The Heart,8,56,6
+db375d67-e0fa-41a0-ad78-b7d5eafa1dfa,2 Louse,0,1,4
+db375d67-e0fa-41a0-ad78-b7d5eafa1dfa,Cultist,2,2,4
+db375d67-e0fa-41a0-ad78-b7d5eafa1dfa,Jaw Worm,4,3,3
+db375d67-e0fa-41a0-ad78-b7d5eafa1dfa,Exordium Thugs,13,5,5
+db375d67-e0fa-41a0-ad78-b7d5eafa1dfa,Lagavulin,27,6,8
+db375d67-e0fa-41a0-ad78-b7d5eafa1dfa,Blue Slaver,6,10,5
+db375d67-e0fa-41a0-ad78-b7d5eafa1dfa,Gremlin Nob,26,12,4
+db375d67-e0fa-41a0-ad78-b7d5eafa1dfa,Hexaghost,30,16,9
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Small Slimes,7,1,3
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Jaw Worm,2,4,4
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,2 Louse,3,5,3
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Gremlin Nob,27,6,4
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Large Slime,15,7,4
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,3 Sentries,9,8,5
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Gremlin Nob,29,10,4
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Exordium Wildlife,0,12,1
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,3 Sentries,0,14,3
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Slime Boss,46,16,11
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Shell Parasite,6,18,3
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,2 Thieves,0,19,1
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Book of Stabbing,16,23,6
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Gremlin Leader,0,25,4
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Book of Stabbing,6,28,5
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Snake Plant,1,29,3
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Centurion and Healer,6,30,1
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Cultist and Chosen,6,31,2
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Collector,11,33,6
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,3 Darklings,6,35,1
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Orb Walker,6,37,3
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Jaw Worm Horde,6,39,2
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Reptomancer,13,40,3
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Nemesis,6,42,7
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Reptomancer,0,44,2
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Maw,12,45,4
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Giant Head,6,46,4
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Reptomancer,6,48,1
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Awakened One,12,50,4
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Donu and Deca,9,51,4
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,Shield and Spear,0,55,3
+0b9700cf-bcd7-4961-a7bc-964c228d4e6e,The Heart,13,56,6
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,2 Louse,2,1,4
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Jaw Worm,21,3,5
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Small Slimes,0,4,4
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Red Slaver,1,5,5
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Blue Slaver,5,7,5
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,2 Fungi Beasts,1,11,3
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,3 Sentries,10,12,6
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Looter,3,13,3
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Gremlin Nob,17,14,4
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,The Guardian,12,16,10
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,3 Byrds,0,18,5
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Shell Parasite,0,23,2
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Gremlin Leader,0,25,3
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Centurion and Healer,6,27,4
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Snake Plant,0,28,2
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Slavers,3,29,4
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Gremlin Leader,10,31,4
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Collector,0,33,4
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,3 Shapes,25,35,7
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Orb Walker,6,36,4
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,3 Darklings,0,37,1
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Transient,0,39,6
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Nemesis,0,40,7
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Reptomancer,23,42,6
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Nemesis,13,44,5
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Maw,0,45,5
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Jaw Worm Horde,7,46,4
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Reptomancer,3,47,4
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Writhing Mass,0,48,7
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Awakened One,38,50,11
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Time Eater,12,51,10
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,Shield and Spear,14,55,6
+f6ef3240-6abc-4bf8-bc24-b1cdd636f029,The Heart,12,56,6
+60928f51-ee59-4d6c-bffd-2916faf11475,Jaw Worm,9,1,4
+60928f51-ee59-4d6c-bffd-2916faf11475,2 Louse,6,2,2
+60928f51-ee59-4d6c-bffd-2916faf11475,Small Slimes,2,4,3
+60928f51-ee59-4d6c-bffd-2916faf11475,3 Louse,2,5,4
+60928f51-ee59-4d6c-bffd-2916faf11475,Lagavulin,7,7,5
+60928f51-ee59-4d6c-bffd-2916faf11475,3 Sentries,9,10,6
+60928f51-ee59-4d6c-bffd-2916faf11475,Large Slime,4,11,4
+60928f51-ee59-4d6c-bffd-2916faf11475,2 Fungi Beasts,3,13,3
+60928f51-ee59-4d6c-bffd-2916faf11475,Lots of Slimes,2,14,8
+60928f51-ee59-4d6c-bffd-2916faf11475,The Guardian,45,16,15
+60928f51-ee59-4d6c-bffd-2916faf11475,2 Thieves,9,18,3
+60928f51-ee59-4d6c-bffd-2916faf11475,3 Byrds,16,20,6
+60928f51-ee59-4d6c-bffd-2916faf11475,Sentry and Sphere,7,21,4
+60928f51-ee59-4d6c-bffd-2916faf11475,Shelled Parasite and Fungi,15,22,4
+60928f51-ee59-4d6c-bffd-2916faf11475,Gremlin Leader,10,24,4
+60928f51-ee59-4d6c-bffd-2916faf11475,Centurion and Healer,19,25,5
+60928f51-ee59-4d6c-bffd-2916faf11475,Masked Bandits,9,27,3
+60928f51-ee59-4d6c-bffd-2916faf11475,Cultist and Chosen,0,30,4
+60928f51-ee59-4d6c-bffd-2916faf11475,Book of Stabbing,7,31,3
+60928f51-ee59-4d6c-bffd-2916faf11475,Champ,6,33,5
+60928f51-ee59-4d6c-bffd-2916faf11475,3 Shapes,0,35,3
+60928f51-ee59-4d6c-bffd-2916faf11475,Orb Walker,0,38,3
+60928f51-ee59-4d6c-bffd-2916faf11475,Giant Head,4,40,4
+60928f51-ee59-4d6c-bffd-2916faf11475,4 Shapes,2,41,5
+60928f51-ee59-4d6c-bffd-2916faf11475,Reptomancer,9,42,1
+60928f51-ee59-4d6c-bffd-2916faf11475,Nemesis,6,45,3
+60928f51-ee59-4d6c-bffd-2916faf11475,2 Orb Walkers,9,46,4
+60928f51-ee59-4d6c-bffd-2916faf11475,Reptomancer,2,48,2
+60928f51-ee59-4d6c-bffd-2916faf11475,Awakened One,0,50,4
+60928f51-ee59-4d6c-bffd-2916faf11475,Time Eater,35,51,6
+60928f51-ee59-4d6c-bffd-2916faf11475,Shield and Spear,6,55,2
+60928f51-ee59-4d6c-bffd-2916faf11475,The Heart,34,56,9
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Small Slimes,10,1,5
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,2 Louse,0,3,3
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Jaw Worm,4,4,5
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,3 Louse,10,7,5
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Gremlin Nob,11,8,3
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Lagavulin,25,10,6
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Red Slaver,1,11,4
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Gremlin Nob,11,12,3
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,The Guardian,20,16,14
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Shell Parasite,15,18,5
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Chosen,0,22,6
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Slavers,78,23,9
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Snecko,9,24,5
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Gremlin Leader,0,28,8
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Book of Stabbing,0,30,5
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Sentry and Sphere,0,31,6
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Collector,60,33,6
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,3 Darklings,0,35,4
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Orb Walker,0,37,5
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Spire Growth,0,39,4
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Nemesis,14,40,7
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Writhing Mass,12,41,6
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Giant Head,3,42,2
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Nemesis,9,45,5
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Reptomancer,33,48,4
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Time Eater,10,50,7
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Awakened One,66,51,6
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,Shield and Spear,29,55,6
+0bf7d587-6064-4aa0-ab5b-aad381615b2d,The Heart,97,56,8
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Jaw Worm,13,1,6
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,2 Louse,11,2,3
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Small Slimes,0,3,2
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Exordium Thugs,8,4,4
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Gremlin Nob,29,6,4
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Lagavulin,6,8,7
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,3 Sentries,30,10,6
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Looter,8,11,4
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Exordium Wildlife,2,12,6
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,2 Fungi Beasts,4,14,4
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,The Guardian,16,16,12
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,2 Thieves,14,18,4
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Spheric Guardian,6,19,3
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Snecko,20,21,5
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Snake Plant,21,22,4
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,3 Cultists,0,25,7
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Shelled Parasite and Fungi,17,27,6
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Slavers,12,30,7
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Cultist and Chosen,12,31,8
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Champ,20,33,31
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,3 Shapes,11,35,8
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Orb Walker,8,37,5
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Writhing Mass,0,38,7
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Jaw Worm Horde,31,39,6
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Nemesis,17,40,11
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Sphere and 2 Shapes,1,44,10
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Mind Bloom Boss Battle,0,45,6
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Giant Head,0,46,6
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,3 Darklings,3,47,7
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Maw,0,48,4
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Awakened One,0,50,8
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Donu and Deca,18,51,9
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,Shield and Spear,6,55,6
+0f9132cc-10b2-4525-a5f4-2a783e3a5622,The Heart,39,56,8
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Cultist,0,1,3
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Jaw Worm,2,4,3
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,3 Sentries,15,6,6
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Small Slimes,11,7,3
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Lagavulin,23,8,10
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,2 Fungi Beasts,0,10,1
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Gremlin Nob,9,11,3
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Blue Slaver,0,12,1
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Lots of Slimes,17,14,4
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,The Guardian,24,16,10
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Chosen,9,18,3
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,2 Thieves,22,19,3
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Cultist and Chosen,1,22,3
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Slavers,8,27,5
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Snake Plant,1,28,2
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Gremlin Leader,27,30,4
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Centurion and Healer,20,31,10
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Automaton,41,33,7
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,3 Shapes,16,35,7
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Orb Walker,2,36,3
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Reptomancer,12,40,5
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Jaw Worm Horde,48,42,4
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Mind Bloom Boss Battle,6,44,7
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Giant Head,0,47,4
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Writhing Mass,0,48,7
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Time Eater,18,50,10
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Donu and Deca,40,51,4
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,Shield and Spear,25,55,3
+a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,The Heart,61,56,6
+7f5f4f7b-0cd7-45cd-b048-33102f1d6f5a,2 Louse,3,1,4
+7f5f4f7b-0cd7-45cd-b048-33102f1d6f5a,Jaw Worm,12,2,5
+7f5f4f7b-0cd7-45cd-b048-33102f1d6f5a,Cultist,0,4,3
+7f5f4f7b-0cd7-45cd-b048-33102f1d6f5a,3 Sentries,20,8,8
+7f5f4f7b-0cd7-45cd-b048-33102f1d6f5a,Gremlin Nob,23,10,4
+7f5f4f7b-0cd7-45cd-b048-33102f1d6f5a,Large Slime,8,11,4
+7f5f4f7b-0cd7-45cd-b048-33102f1d6f5a,3 Sentries,15,12,5
+7f5f4f7b-0cd7-45cd-b048-33102f1d6f5a,Looter,0,13,4
+7f5f4f7b-0cd7-45cd-b048-33102f1d6f5a,Gremlin Gang,15,14,5
+7f5f4f7b-0cd7-45cd-b048-33102f1d6f5a,The Guardian,32,16,7
+7f5f4f7b-0cd7-45cd-b048-33102f1d6f5a,Chosen,12,18,6
+7f5f4f7b-0cd7-45cd-b048-33102f1d6f5a,2 Thieves,15,19,4
+7f5f4f7b-0cd7-45cd-b048-33102f1d6f5a,Centurion and Healer,44,22,10
+7f5f4f7b-0cd7-45cd-b048-33102f1d6f5a,Gremlin Leader,40,23,5
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Small Slimes,4,1,3
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,2 Louse,0,4,3
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Jaw Worm,0,5,3
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Gremlin Nob,10,6,3
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Exordium Thugs,0,7,5
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,3 Louse,0,8,2
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Lagavulin,4,10,7
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,2 Fungi Beasts,0,11,4
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Red Slaver,0,13,3
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Gremlin Nob,9,14,3
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Slime Boss,47,16,9
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Shell Parasite,0,18,2
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Chosen,0,21,2
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Gremlin Leader,0,24,3
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Book of Stabbing,14,27,3
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Shelled Parasite and Fungi,0,28,3
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Snecko,0,29,3
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Gremlin Leader,0,30,3
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Collector,72,33,10
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,3 Shapes,1,35,1
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,3 Darklings,5,36,3
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Jaw Worm Horde,1,38,1
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Writhing Mass,29,39,6
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Reptomancer,4,40,1
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,4 Shapes,1,42,2
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Nemesis,5,44,3
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Spire Growth,9,45,3
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Maw,1,46,4
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Writhing Mass,2,47,4
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Reptomancer,6,48,5
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Time Eater,6,50,7
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Awakened One,21,51,10
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,Shield and Spear,12,55,5
+5ffbe030-7d23-4340-ac74-a3375c07f9d7,The Heart,30,56,8
+7bb92161-a4db-40e2-8371-206d0f68d443,Small Slimes,7,1,5
+7bb92161-a4db-40e2-8371-206d0f68d443,Cultist,1,2,3
+7bb92161-a4db-40e2-8371-206d0f68d443,2 Louse,7,4,3
+7bb92161-a4db-40e2-8371-206d0f68d443,Blue Slaver,17,5,5
+7bb92161-a4db-40e2-8371-206d0f68d443,Gremlin Nob,46,6,5
+7bb92161-a4db-40e2-8371-206d0f68d443,3 Louse,10,8,4
+7bb92161-a4db-40e2-8371-206d0f68d443,Large Slime,0,10,4
+7bb92161-a4db-40e2-8371-206d0f68d443,Looter,0,12,2
+7bb92161-a4db-40e2-8371-206d0f68d443,3 Sentries,10,14,10
+7bb92161-a4db-40e2-8371-206d0f68d443,The Guardian,2,16,13
+7bb92161-a4db-40e2-8371-206d0f68d443,Spheric Guardian,4,18,4
+7bb92161-a4db-40e2-8371-206d0f68d443,2 Thieves,12,19,4
+7bb92161-a4db-40e2-8371-206d0f68d443,Chosen and Byrds,1,20,6
+7bb92161-a4db-40e2-8371-206d0f68d443,3 Cultists,11,22,6
+7bb92161-a4db-40e2-8371-206d0f68d443,Gremlin Leader,14,23,9
+7bb92161-a4db-40e2-8371-206d0f68d443,Centurion and Healer,0,30,8
+7bb92161-a4db-40e2-8371-206d0f68d443,Book of Stabbing,0,31,5
+7bb92161-a4db-40e2-8371-206d0f68d443,Collector,70,33,14
+7bb92161-a4db-40e2-8371-206d0f68d443,3 Shapes,5,35,6
+7bb92161-a4db-40e2-8371-206d0f68d443,Orb Walker,15,36,5
+7bb92161-a4db-40e2-8371-206d0f68d443,2 Orb Walkers,43,38,4
+7bb92161-a4db-40e2-8371-206d0f68d443,Jaw Worm Horde,43,39,3
+f6bc6896-38d1-4bb1-9011-5c9162019084,2 Louse,6,1,3
+f6bc6896-38d1-4bb1-9011-5c9162019084,Cultist,1,4,4
+f6bc6896-38d1-4bb1-9011-5c9162019084,Small Slimes,0,5,2
+f6bc6896-38d1-4bb1-9011-5c9162019084,3 Sentries,5,7,6
+f6bc6896-38d1-4bb1-9011-5c9162019084,Gremlin Nob,0,10,3
+f6bc6896-38d1-4bb1-9011-5c9162019084,Exordium Wildlife,0,13,2
+f6bc6896-38d1-4bb1-9011-5c9162019084,Slime Boss,7,16,7
+f6bc6896-38d1-4bb1-9011-5c9162019084,Spheric Guardian,0,18,3
+f6bc6896-38d1-4bb1-9011-5c9162019084,Chosen,0,20,3
+f6bc6896-38d1-4bb1-9011-5c9162019084,Centurion and Healer,5,21,3
+f6bc6896-38d1-4bb1-9011-5c9162019084,Cultist and Chosen,0,25,4
+f6bc6896-38d1-4bb1-9011-5c9162019084,Book of Stabbing,0,27,5
+f6bc6896-38d1-4bb1-9011-5c9162019084,3 Cultists,0,29,3
+f6bc6896-38d1-4bb1-9011-5c9162019084,Slavers,6,30,3
+f6bc6896-38d1-4bb1-9011-5c9162019084,Snake Plant,5,31,4
+f6bc6896-38d1-4bb1-9011-5c9162019084,Collector,50,33,8
+f6bc6896-38d1-4bb1-9011-5c9162019084,3 Shapes,0,35,2
+f6bc6896-38d1-4bb1-9011-5c9162019084,Mind Bloom Boss Battle,3,36,6
+f6bc6896-38d1-4bb1-9011-5c9162019084,2 Orb Walkers,10,38,4
+f6bc6896-38d1-4bb1-9011-5c9162019084,Reptomancer,13,40,6
+f6bc6896-38d1-4bb1-9011-5c9162019084,3 Darklings,11,44,4
+f6bc6896-38d1-4bb1-9011-5c9162019084,Giant Head,10,45,7
+f6bc6896-38d1-4bb1-9011-5c9162019084,Nemesis,3,48,5
+f6bc6896-38d1-4bb1-9011-5c9162019084,Donu and Deca,45,50,8
+f6bc6896-38d1-4bb1-9011-5c9162019084,Time Eater,22,51,11
+f6bc6896-38d1-4bb1-9011-5c9162019084,Shield and Spear,40,55,5
+f6bc6896-38d1-4bb1-9011-5c9162019084,The Heart,32,56,8
+336fa949-f526-4226-a44f-274b1f8dbccc,2 Louse,0,1,5
+336fa949-f526-4226-a44f-274b1f8dbccc,Cultist,1,2,4
+336fa949-f526-4226-a44f-274b1f8dbccc,3 Sentries,17,7,5
+336fa949-f526-4226-a44f-274b1f8dbccc,Gremlin Nob,0,10,3
+336fa949-f526-4226-a44f-274b1f8dbccc,Jaw Worm,0,12,2
+336fa949-f526-4226-a44f-274b1f8dbccc,3 Sentries,6,13,7
+336fa949-f526-4226-a44f-274b1f8dbccc,Large Slime,0,14,4
+336fa949-f526-4226-a44f-274b1f8dbccc,The Guardian,31,16,10
+336fa949-f526-4226-a44f-274b1f8dbccc,2 Thieves,4,18,4
+336fa949-f526-4226-a44f-274b1f8dbccc,Shell Parasite,4,21,5
+336fa949-f526-4226-a44f-274b1f8dbccc,Shelled Parasite and Fungi,5,24,5
+336fa949-f526-4226-a44f-274b1f8dbccc,Book of Stabbing,12,25,6
+336fa949-f526-4226-a44f-274b1f8dbccc,Centurion and Healer,35,27,7
+336fa949-f526-4226-a44f-274b1f8dbccc,Slavers,4,28,6
+336fa949-f526-4226-a44f-274b1f8dbccc,Snake Plant,5,29,5
+336fa949-f526-4226-a44f-274b1f8dbccc,Book of Stabbing,15,30,6
+336fa949-f526-4226-a44f-274b1f8dbccc,Champ,39,33,9
+17baa90f-8295-441f-a095-2ac9602cc869,Jaw Worm,6,1,6
+17baa90f-8295-441f-a095-2ac9602cc869,2 Louse,6,4,4
+17baa90f-8295-441f-a095-2ac9602cc869,Small Slimes,0,5,4
+17baa90f-8295-441f-a095-2ac9602cc869,3 Sentries,19,6,8
+17baa90f-8295-441f-a095-2ac9602cc869,Lagavulin,5,8,8
+17baa90f-8295-441f-a095-2ac9602cc869,3 Sentries,0,13,6
+17baa90f-8295-441f-a095-2ac9602cc869,Blue Slaver,0,14,3
+17baa90f-8295-441f-a095-2ac9602cc869,Slime Boss,10,16,7
+17baa90f-8295-441f-a095-2ac9602cc869,3 Byrds,5,18,1
+17baa90f-8295-441f-a095-2ac9602cc869,Chosen,0,22,5
+17baa90f-8295-441f-a095-2ac9602cc869,Book of Stabbing,4,23,6
+17baa90f-8295-441f-a095-2ac9602cc869,Slavers,0,27,6
+17baa90f-8295-441f-a095-2ac9602cc869,Centurion and Healer,2,28,8
+17baa90f-8295-441f-a095-2ac9602cc869,Sentry and Sphere,5,29,9
+17baa90f-8295-441f-a095-2ac9602cc869,Snake Plant,16,30,5
+17baa90f-8295-441f-a095-2ac9602cc869,Collector,15,33,9
+17baa90f-8295-441f-a095-2ac9602cc869,3 Darklings,7,35,8
+17baa90f-8295-441f-a095-2ac9602cc869,Giant Head,16,40,7
+17baa90f-8295-441f-a095-2ac9602cc869,2 Orb Walkers,2,42,4
+17baa90f-8295-441f-a095-2ac9602cc869,Orb Walker,1,47,3
+17baa90f-8295-441f-a095-2ac9602cc869,Jaw Worm Horde,4,48,4
+17baa90f-8295-441f-a095-2ac9602cc869,Time Eater,23,50,10
+17baa90f-8295-441f-a095-2ac9602cc869,Donu and Deca,13,51,8
+17baa90f-8295-441f-a095-2ac9602cc869,Shield and Spear,6,55,8
+17baa90f-8295-441f-a095-2ac9602cc869,The Heart,57,56,9
+85c60dcb-7be5-450a-bbd6-249611210f10,2 Louse,0,1,2
+85c60dcb-7be5-450a-bbd6-249611210f10,Small Slimes,2,2,4
+85c60dcb-7be5-450a-bbd6-249611210f10,Jaw Worm,1,5,2
+85c60dcb-7be5-450a-bbd6-249611210f10,3 Sentries,12,7,8
+85c60dcb-7be5-450a-bbd6-249611210f10,Gremlin Nob,3,10,3
+85c60dcb-7be5-450a-bbd6-249611210f10,The Mushroom Lair,10,11,4
+85c60dcb-7be5-450a-bbd6-249611210f10,3 Louse,13,12,7
+85c60dcb-7be5-450a-bbd6-249611210f10,Lagavulin,11,14,6
+85c60dcb-7be5-450a-bbd6-249611210f10,The Guardian,10,16,11
+85c60dcb-7be5-450a-bbd6-249611210f10,3 Byrds,0,18,2
+85c60dcb-7be5-450a-bbd6-249611210f10,2 Thieves,4,21,4
+85c60dcb-7be5-450a-bbd6-249611210f10,3 Cultists,1,22,6
+85c60dcb-7be5-450a-bbd6-249611210f10,Gremlin Leader,2,24,5
+85c60dcb-7be5-450a-bbd6-249611210f10,Book of Stabbing,1,30,4
+85c60dcb-7be5-450a-bbd6-249611210f10,Snake Plant,0,31,2
+85c60dcb-7be5-450a-bbd6-249611210f10,Champ,41,33,11
+c7194565-6685-45c0-83c7-38c33cb45577,Jaw Worm,5,1,8
+c7194565-6685-45c0-83c7-38c33cb45577,2 Louse,0,3,3
+c7194565-6685-45c0-83c7-38c33cb45577,Small Slimes,0,5,3
+c7194565-6685-45c0-83c7-38c33cb45577,Lagavulin,34,7,10
+4da4f472-755c-4009-8a3c-fcf4ee153685,Small Slimes,5,1,8
+4da4f472-755c-4009-8a3c-fcf4ee153685,Cultist,3,4,4
+4da4f472-755c-4009-8a3c-fcf4ee153685,2 Louse,0,7,2
+4da4f472-755c-4009-8a3c-fcf4ee153685,Lagavulin,30,8,8
+4da4f472-755c-4009-8a3c-fcf4ee153685,Gremlin Nob,12,10,4
+4da4f472-755c-4009-8a3c-fcf4ee153685,Blue Slaver,0,11,4
+4da4f472-755c-4009-8a3c-fcf4ee153685,Exordium Wildlife,21,12,5
+4da4f472-755c-4009-8a3c-fcf4ee153685,Hexaghost,8,16,8
+4da4f472-755c-4009-8a3c-fcf4ee153685,Shell Parasite,6,18,6
+4da4f472-755c-4009-8a3c-fcf4ee153685,Masked Bandits,14,19,5
+4da4f472-755c-4009-8a3c-fcf4ee153685,2 Thieves,0,20,5
+4da4f472-755c-4009-8a3c-fcf4ee153685,Shelled Parasite and Fungi,19,22,7
+4da4f472-755c-4009-8a3c-fcf4ee153685,Centurion and Healer,1,23,6
+4da4f472-755c-4009-8a3c-fcf4ee153685,Snake Plant,0,25,5
+4da4f472-755c-4009-8a3c-fcf4ee153685,Gremlin Leader,3,28,6
+4da4f472-755c-4009-8a3c-fcf4ee153685,Snecko,2,30,4
+4da4f472-755c-4009-8a3c-fcf4ee153685,Cultist and Chosen,2,31,7
+4da4f472-755c-4009-8a3c-fcf4ee153685,Collector,6,33,10
+4da4f472-755c-4009-8a3c-fcf4ee153685,Orb Walker,0,35,4
+4da4f472-755c-4009-8a3c-fcf4ee153685,3 Shapes,0,39,6
+4da4f472-755c-4009-8a3c-fcf4ee153685,Reptomancer,0,40,6
+4da4f472-755c-4009-8a3c-fcf4ee153685,Mind Bloom Boss Battle,0,41,6
+4da4f472-755c-4009-8a3c-fcf4ee153685,Nemesis,0,42,9
+4da4f472-755c-4009-8a3c-fcf4ee153685,Reptomancer,11,44,8
+4da4f472-755c-4009-8a3c-fcf4ee153685,Maw,0,46,6
+4da4f472-755c-4009-8a3c-fcf4ee153685,Spire Growth,0,47,6
+4da4f472-755c-4009-8a3c-fcf4ee153685,Transient,0,48,6
+4da4f472-755c-4009-8a3c-fcf4ee153685,Donu and Deca,7,50,11
+4da4f472-755c-4009-8a3c-fcf4ee153685,Time Eater,19,51,15
+4da4f472-755c-4009-8a3c-fcf4ee153685,Shield and Spear,11,55,6
+4da4f472-755c-4009-8a3c-fcf4ee153685,The Heart,51,56,9
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Cultist,0,1,3
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,2 Louse,0,2,4
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Jaw Worm,1,4,3
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Exordium Wildlife,1,5,4
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,3 Sentries,6,7,9
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,3 Louse,1,8,2
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Gremlin Nob,0,10,3
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Lagavulin,17,12,7
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,The Guardian,29,16,10
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Chosen,0,18,3
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,3 Byrds,3,20,5
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Snecko,1,21,7
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Centurion and Healer,0,22,6
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Slavers,18,23,10
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Book of Stabbing,0,25,5
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Snake Plant,3,28,5
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Slavers,9,29,4
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Sentry and Sphere,11,31,4
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Collector,17,33,8
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,3 Darklings,0,35,4
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,3 Shapes,2,36,4
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Jaw Worm Horde,1,37,4
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Sphere and 2 Shapes,0,39,6
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,2 Orb Walkers,2,41,4
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Transient,2,42,6
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Writhing Mass,3,45,6
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Giant Head,0,46,5
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,4 Shapes,0,47,6
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,3 Darklings,0,48,8
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Donu and Deca,0,50,7
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Time Eater,4,51,12
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,Shield and Spear,8,55,11
+9c14a52a-fcfa-4957-83c2-59917e9f1f52,The Heart,15,56,11
+c5e08caa-de96-4fe7-98bf-201ba4c044a8,Jaw Worm,2,1,5
+c5e08caa-de96-4fe7-98bf-201ba4c044a8,Cultist,0,2,3
+c5e08caa-de96-4fe7-98bf-201ba4c044a8,2 Louse,0,3,1
+c5e08caa-de96-4fe7-98bf-201ba4c044a8,3 Sentries,12,6,5
+c5e08caa-de96-4fe7-98bf-201ba4c044a8,Red Slaver,0,8,2
+c5e08caa-de96-4fe7-98bf-201ba4c044a8,Lagavulin,14,11,5
+c5e08caa-de96-4fe7-98bf-201ba4c044a8,3 Sentries,15,13,7
+c5e08caa-de96-4fe7-98bf-201ba4c044a8,Exordium Wildlife,1,14,3
+c5e08caa-de96-4fe7-98bf-201ba4c044a8,The Guardian,51,16,15
+c5e08caa-de96-4fe7-98bf-201ba4c044a8,Chosen,0,18,2
+c5e08caa-de96-4fe7-98bf-201ba4c044a8,3 Byrds,0,22,3
+c5e08caa-de96-4fe7-98bf-201ba4c044a8,Slavers,20,23,6
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Cultist,1,1,3
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,2 Louse,0,3,3
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Jaw Worm,0,5,1
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Gremlin Nob,6,7,3
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,3 Sentries,0,10,6
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Gremlin Nob,1,11,3
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Exordium Wildlife,1,12,4
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Gremlin Nob,0,13,2
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,3 Louse,0,14,3
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,The Guardian,18,16,14
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Spheric Guardian,0,18,3
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Chosen,6,21,4
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Slavers,33,23,11
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,3 Cultists,0,25,4
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Book of Stabbing,21,28,4
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Slavers,0,30,3
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Automaton,68,33,8
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,3 Shapes,0,35,8
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,3 Darklings,0,37,5
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Maw,2,38,5
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Reptomancer,27,40,6
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Giant Head,32,42,6
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Reptomancer,1,44,3
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Jaw Worm Horde,0,45,5
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Transient,2,47,6
+8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,Time Eater,31,50,3
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Small Slimes,0,1,1
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Lagavulin,0,6,1
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Gremlin Nob,0,10,1
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Cultist,0,11,3
+dc595644-f916-4db0-b2ea-d516ce24c5ac,2 Louse,0,12,2
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Lagavulin,0,14,6
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Slime Boss,15,16,6
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Chosen,3,18,5
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Shell Parasite,0,19,4
+dc595644-f916-4db0-b2ea-d516ce24c5ac,3 Cultists,7,20,4
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Centurion and Healer,0,22,7
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Gremlin Leader,7,23,4
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Book of Stabbing,0,27,4
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Cultist and Chosen,0,28,7
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Sentry and Sphere,3,30,6
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Slavers,0,31,8
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Champ,24,33,15
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Orb Walker,0,35,7
+dc595644-f916-4db0-b2ea-d516ce24c5ac,3 Shapes,0,36,6
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Writhing Mass,0,37,6
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Giant Head,0,41,5
+dc595644-f916-4db0-b2ea-d516ce24c5ac,2 Orb Walkers,0,42,6
+dc595644-f916-4db0-b2ea-d516ce24c5ac,3 Darklings,0,44,6
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Reptomancer,0,45,5
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Giant Head,0,47,7
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Time Eater,0,50,7
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Awakened One,6,51,11
+dc595644-f916-4db0-b2ea-d516ce24c5ac,Shield and Spear,0,55,6
+dc595644-f916-4db0-b2ea-d516ce24c5ac,The Heart,7,56,7
+363f7704-3e26-44a2-b377-6258aff89d2c,Jaw Worm,0,1,1
+363f7704-3e26-44a2-b377-6258aff89d2c,2 Louse,0,4,1
+363f7704-3e26-44a2-b377-6258aff89d2c,3 Sentries,0,7,1
+363f7704-3e26-44a2-b377-6258aff89d2c,Lagavulin,9,11,5
+363f7704-3e26-44a2-b377-6258aff89d2c,Cultist,0,12,2
+363f7704-3e26-44a2-b377-6258aff89d2c,3 Sentries,2,13,6
+363f7704-3e26-44a2-b377-6258aff89d2c,Looter,0,14,2
+363f7704-3e26-44a2-b377-6258aff89d2c,The Guardian,0,16,10
+363f7704-3e26-44a2-b377-6258aff89d2c,Shell Parasite,0,18,5
+363f7704-3e26-44a2-b377-6258aff89d2c,2 Thieves,1,20,4
+363f7704-3e26-44a2-b377-6258aff89d2c,Sentry and Sphere,0,21,5
+363f7704-3e26-44a2-b377-6258aff89d2c,Centurion and Healer,0,24,6
+363f7704-3e26-44a2-b377-6258aff89d2c,Gremlin Leader,0,27,3
+363f7704-3e26-44a2-b377-6258aff89d2c,Book of Stabbing,0,29,5
+363f7704-3e26-44a2-b377-6258aff89d2c,Snake Plant,6,30,4
+363f7704-3e26-44a2-b377-6258aff89d2c,Slavers,15,31,4
+363f7704-3e26-44a2-b377-6258aff89d2c,Automaton,0,33,8
+363f7704-3e26-44a2-b377-6258aff89d2c,Orb Walker,0,35,6
+363f7704-3e26-44a2-b377-6258aff89d2c,3 Shapes,0,39,3
+363f7704-3e26-44a2-b377-6258aff89d2c,Nemesis,0,40,5
+363f7704-3e26-44a2-b377-6258aff89d2c,Reptomancer,0,42,3
+363f7704-3e26-44a2-b377-6258aff89d2c,3 Darklings,0,45,4
+363f7704-3e26-44a2-b377-6258aff89d2c,2 Orb Walkers,1,46,4
+363f7704-3e26-44a2-b377-6258aff89d2c,Giant Head,0,48,4
+363f7704-3e26-44a2-b377-6258aff89d2c,Time Eater,9,50,8
+363f7704-3e26-44a2-b377-6258aff89d2c,Awakened One,0,51,14
+363f7704-3e26-44a2-b377-6258aff89d2c,Shield and Spear,0,55,6
+363f7704-3e26-44a2-b377-6258aff89d2c,The Heart,0,56,7
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Cultist,4,1,6
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Small Slimes,4,5,4
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Jaw Worm,2,7,5
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,3 Sentries,12,10,6
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,2 Fungi Beasts,0,12,3
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Lagavulin,1,13,7
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Blue Slaver,0,14,4
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,The Guardian,3,16,11
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,2 Thieves,0,18,4
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Shell Parasite,0,22,5
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Book of Stabbing,4,24,6
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Gremlin Leader,0,27,6
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Centurion and Healer,0,28,7
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Book of Stabbing,13,30,4
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Cultist and Chosen,4,31,5
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Collector,26,33,9
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,3 Darklings,6,35,5
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,3 Shapes,3,36,4
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Writhing Mass,14,38,8
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Reptomancer,1,41,5
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Nemesis,9,45,9
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Transient,0,46,6
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Jaw Worm Horde,5,47,5
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Reptomancer,0,48,4
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Time Eater,19,50,9
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Awakened One,26,51,26
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,Shield and Spear,3,55,6
+3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,The Heart,30,56,9
+381f055c-e3cd-4a0f-8963-69b0cced27bf,Jaw Worm,30,1,9
+381f055c-e3cd-4a0f-8963-69b0cced27bf,2 Louse,0,2,4
+381f055c-e3cd-4a0f-8963-69b0cced27bf,Cultist,0,5,3
+381f055c-e3cd-4a0f-8963-69b0cced27bf,Exordium Wildlife,9,7,4
+381f055c-e3cd-4a0f-8963-69b0cced27bf,3 Sentries,10,8,8
+381f055c-e3cd-4a0f-8963-69b0cced27bf,3 Louse,0,10,4
+381f055c-e3cd-4a0f-8963-69b0cced27bf,Gremlin Nob,4,12,3
+381f055c-e3cd-4a0f-8963-69b0cced27bf,Slime Boss,0,16,7
+381f055c-e3cd-4a0f-8963-69b0cced27bf,Shell Parasite,9,18,4
+381f055c-e3cd-4a0f-8963-69b0cced27bf,Chosen,0,19,3
+381f055c-e3cd-4a0f-8963-69b0cced27bf,Shelled Parasite and Fungi,22,20,4
+381f055c-e3cd-4a0f-8963-69b0cced27bf,Slavers,23,24,11
+381f055c-e3cd-4a0f-8963-69b0cced27bf,Centurion and Healer,0,25,7
+381f055c-e3cd-4a0f-8963-69b0cced27bf,Snake Plant,10,27,6
+381f055c-e3cd-4a0f-8963-69b0cced27bf,Book of Stabbing,5,29,7
+381f055c-e3cd-4a0f-8963-69b0cced27bf,Collector,41,33,13
+381f055c-e3cd-4a0f-8963-69b0cced27bf,Orb Walker,14,35,5
+381f055c-e3cd-4a0f-8963-69b0cced27bf,3 Darklings,46,36,8
+f10c7159-4168-413d-9a50-de28316f9963,2 Louse,0,1,5
+f10c7159-4168-413d-9a50-de28316f9963,Jaw Worm,0,2,4
+f10c7159-4168-413d-9a50-de28316f9963,Cultist,0,5,4
+f10c7159-4168-413d-9a50-de28316f9963,Gremlin Nob,1,7,3
+f10c7159-4168-413d-9a50-de28316f9963,Large Slime,1,8,8
+f10c7159-4168-413d-9a50-de28316f9963,3 Louse,0,12,1
+f10c7159-4168-413d-9a50-de28316f9963,Lagavulin,15,14,6
+f10c7159-4168-413d-9a50-de28316f9963,The Guardian,0,16,8
+f10c7159-4168-413d-9a50-de28316f9963,Chosen,0,18,3
+f10c7159-4168-413d-9a50-de28316f9963,Book of Stabbing,15,23,7
+f10c7159-4168-413d-9a50-de28316f9963,Spheric Guardian,0,25,4
+f10c7159-4168-413d-9a50-de28316f9963,Centurion and Healer,0,27,9
+f10c7159-4168-413d-9a50-de28316f9963,Slavers,0,29,1
+f10c7159-4168-413d-9a50-de28316f9963,3 Cultists,0,31,3
+f10c7159-4168-413d-9a50-de28316f9963,Champ,0,33,10
+f10c7159-4168-413d-9a50-de28316f9963,3 Shapes,0,35,9
+f10c7159-4168-413d-9a50-de28316f9963,2 Orb Walkers,0,36,2
+f10c7159-4168-413d-9a50-de28316f9963,3 Darklings,0,39,4
+f10c7159-4168-413d-9a50-de28316f9963,4 Shapes,1,44,5
+f10c7159-4168-413d-9a50-de28316f9963,Nemesis,0,48,7
+f10c7159-4168-413d-9a50-de28316f9963,Awakened One,18,50,15
+f10c7159-4168-413d-9a50-de28316f9963,Time Eater,7,51,8
+f10c7159-4168-413d-9a50-de28316f9963,Shield and Spear,0,55,8
+f10c7159-4168-413d-9a50-de28316f9963,The Heart,19,56,8
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Cultist,4,1,5
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Small Slimes,0,4,6
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,2 Louse,0,5,3
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Lots of Slimes,0,7,3
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Gremlin Nob,9,8,4
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Lagavulin,18,10,6
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Large Slime,0,11,3
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,3 Sentries,12,12,11
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Looter,0,13,2
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Lagavulin,0,14,7
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Slime Boss,32,16,9
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Shell Parasite,6,18,5
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,2 Thieves,2,21,3
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Gremlin Leader,11,23,4
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Book of Stabbing,0,25,2
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Chosen and Byrds,0,31,4
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Collector,0,33,5
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,3 Darklings,7,35,3
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Orb Walker,0,38,4
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Spire Growth,0,39,4
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Giant Head,3,40,7
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,2 Orb Walkers,5,42,3
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Nemesis,0,44,5
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,4 Shapes,0,46,4
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Reptomancer,0,47,3
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Transient,10,48,6
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Time Eater,11,50,4
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Awakened One,20,51,9
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,Shield and Spear,0,55,4
+b0a4ace2-7e08-4e2a-a625-7110d549bb5b,The Heart,35,56,10
+629f4e75-b22c-4588-b246-30cc3650075b,Cultist,10,1,5
+629f4e75-b22c-4588-b246-30cc3650075b,2 Louse,7,2,3
+629f4e75-b22c-4588-b246-30cc3650075b,Jaw Worm,2,4,4
+629f4e75-b22c-4588-b246-30cc3650075b,3 Sentries,24,7,10
+629f4e75-b22c-4588-b246-30cc3650075b,Gremlin Nob,6,11,3
+629f4e75-b22c-4588-b246-30cc3650075b,3 Louse,2,13,4
+629f4e75-b22c-4588-b246-30cc3650075b,Blue Slaver,0,14,3
+629f4e75-b22c-4588-b246-30cc3650075b,Hexaghost,15,16,9
+629f4e75-b22c-4588-b246-30cc3650075b,Chosen,7,18,6
+629f4e75-b22c-4588-b246-30cc3650075b,Spheric Guardian,7,20,3
+629f4e75-b22c-4588-b246-30cc3650075b,Centurion and Healer,10,21,7
+629f4e75-b22c-4588-b246-30cc3650075b,Gremlin Leader,3,23,6
+629f4e75-b22c-4588-b246-30cc3650075b,Book of Stabbing,0,25,4
+629f4e75-b22c-4588-b246-30cc3650075b,Masked Bandits,1,27,5
+629f4e75-b22c-4588-b246-30cc3650075b,Snake Plant,0,28,4
+629f4e75-b22c-4588-b246-30cc3650075b,3 Cultists,0,29,5
+629f4e75-b22c-4588-b246-30cc3650075b,Centurion and Healer,0,30,3
+629f4e75-b22c-4588-b246-30cc3650075b,Slavers,7,31,3
+629f4e75-b22c-4588-b246-30cc3650075b,Collector,2,33,6
+629f4e75-b22c-4588-b246-30cc3650075b,Orb Walker,0,35,3
+629f4e75-b22c-4588-b246-30cc3650075b,3 Shapes,0,38,3
+629f4e75-b22c-4588-b246-30cc3650075b,Giant Head,0,41,6
+629f4e75-b22c-4588-b246-30cc3650075b,Nemesis,0,44,3
+629f4e75-b22c-4588-b246-30cc3650075b,Maw,0,45,6
+629f4e75-b22c-4588-b246-30cc3650075b,Giant Head,0,46,4
+629f4e75-b22c-4588-b246-30cc3650075b,Transient,0,47,6
+629f4e75-b22c-4588-b246-30cc3650075b,Writhing Mass,1,48,5
+629f4e75-b22c-4588-b246-30cc3650075b,Awakened One,2,50,15
+629f4e75-b22c-4588-b246-30cc3650075b,Time Eater,26,51,15
+629f4e75-b22c-4588-b246-30cc3650075b,Shield and Spear,0,55,6
+629f4e75-b22c-4588-b246-30cc3650075b,The Heart,84,56,10
+a5f96644-770a-4dca-bcfe-b6ad5b88b482,2 Louse,0,1,2
+a5f96644-770a-4dca-bcfe-b6ad5b88b482,Cultist,0,3,3
+a5f96644-770a-4dca-bcfe-b6ad5b88b482,Jaw Worm,3,4,3
+a5f96644-770a-4dca-bcfe-b6ad5b88b482,Blue Slaver,13,5,3
+a5f96644-770a-4dca-bcfe-b6ad5b88b482,Gremlin Nob,35,7,4
+a5f96644-770a-4dca-bcfe-b6ad5b88b482,Lagavulin,0,10,7
+a5f96644-770a-4dca-bcfe-b6ad5b88b482,Hexaghost,25,16,8
+a5f96644-770a-4dca-bcfe-b6ad5b88b482,2 Thieves,10,18,3
+a5f96644-770a-4dca-bcfe-b6ad5b88b482,Spheric Guardian,0,21,3
+a5f96644-770a-4dca-bcfe-b6ad5b88b482,Book of Stabbing,10,24,6
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Small Slimes,0,1,2
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Cultist,1,2,3
+c01ea4c9-9d23-4647-a08c-e81c22a55432,2 Louse,1,3,2
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Large Slime,0,5,4
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Gremlin Nob,0,6,2
+c01ea4c9-9d23-4647-a08c-e81c22a55432,3 Louse,9,7,4
+c01ea4c9-9d23-4647-a08c-e81c22a55432,3 Sentries,10,8,7
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Gremlin Nob,4,11,3
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Looter,4,12,2
+c01ea4c9-9d23-4647-a08c-e81c22a55432,3 Sentries,2,14,4
+c01ea4c9-9d23-4647-a08c-e81c22a55432,The Guardian,3,16,11
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Shell Parasite,1,18,6
+c01ea4c9-9d23-4647-a08c-e81c22a55432,3 Byrds,13,20,4
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Snecko,2,22,6
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Slavers,17,23,5
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Book of Stabbing,1,25,4
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Gremlin Leader,2,27,5
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Chosen and Byrds,0,29,6
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Slavers,4,30,3
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Centurion and Healer,5,31,9
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Automaton,31,33,15
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Orb Walker,0,35,5
+c01ea4c9-9d23-4647-a08c-e81c22a55432,3 Shapes,0,36,6
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Sphere and 2 Shapes,8,38,3
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Nemesis,1,40,7
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Giant Head,1,42,8
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Transient,1,46,6
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Reptomancer,1,47,4
+c01ea4c9-9d23-4647-a08c-e81c22a55432,3 Darklings,1,48,2
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Awakened One,5,50,19
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Time Eater,1,51,7
+c01ea4c9-9d23-4647-a08c-e81c22a55432,Shield and Spear,1,55,5
+c01ea4c9-9d23-4647-a08c-e81c22a55432,The Heart,22,56,8
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Small Slimes,3,1,3
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,2 Louse,0,4,2
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Cultist,2,5,4
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,2 Fungi Beasts,1,7,3
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Gremlin Nob,8,8,3
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Lots of Slimes,9,11,5
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,3 Louse,0,13,3
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Hexaghost,15,16,9
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,2 Thieves,11,18,3
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Spheric Guardian,22,21,4
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Centurion and Healer,13,22,8
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Book of Stabbing,21,24,4
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Shelled Parasite and Fungi,12,25,8
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Gremlin Leader,40,29,9
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Slavers,38,31,13
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Champ,14,33,13
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,3 Darklings,41,35,11
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Orb Walker,10,36,3
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Sphere and 2 Shapes,0,37,4
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Transient,27,38,6
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Maw,29,39,9
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Reptomancer,14,40,14
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Spire Growth,7,42,6
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,4 Shapes,35,44,8
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Nemesis,0,45,9
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Writhing Mass,15,46,8
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Spire Growth,0,47,7
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Maw,6,48,7
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Donu and Deca,17,50,13
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Time Eater,20,51,12
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,Shield and Spear,47,55,16
+98ac8d7d-5572-4a0f-8f1f-4ca37776367f,The Heart,47,56,9
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Jaw Worm,2,1,4
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Cultist,1,3,3
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Small Slimes,5,5,3
+83b1113b-baef-44b1-86d8-f57bd1389f8b,3 Sentries,20,6,4
+83b1113b-baef-44b1-86d8-f57bd1389f8b,2 Fungi Beasts,2,7,3
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Gremlin Nob,6,8,3
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Lagavulin,10,11,5
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Looter,6,12,2
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Hexaghost,15,16,6
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Spheric Guardian,17,18,4
+83b1113b-baef-44b1-86d8-f57bd1389f8b,2 Thieves,17,20,4
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Chosen and Byrds,1,21,4
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Cultist and Chosen,17,25,7
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Slavers,0,27,4
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Masked Bandits,0,28,4
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Book of Stabbing,0,29,5
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Snecko,0,30,4
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Slavers,1,31,4
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Automaton,0,33,8
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Orb Walker,7,35,3
+83b1113b-baef-44b1-86d8-f57bd1389f8b,3 Darklings,0,36,6
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Maw,2,37,9
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Writhing Mass,0,38,5
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Sphere and 2 Shapes,2,39,7
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Giant Head,10,41,15
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Maw,0,44,6
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Nemesis,0,46,9
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Awakened One,8,50,21
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Time Eater,0,51,15
+83b1113b-baef-44b1-86d8-f57bd1389f8b,Shield and Spear,0,55,9
+83b1113b-baef-44b1-86d8-f57bd1389f8b,The Heart,10,56,10
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Small Slimes,10,1,4
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Cultist,1,2,3
+0fc88d87-08ac-4167-ac56-c284bf1d3837,2 Louse,8,5,3
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Lagavulin,0,7,7
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Large Slime,8,8,4
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Gremlin Nob,16,10,4
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Lagavulin,8,12,7
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Exordium Thugs,10,14,5
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Hexaghost,5,16,9
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Spheric Guardian,0,18,3
+0fc88d87-08ac-4167-ac56-c284bf1d3837,3 Byrds,3,19,7
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Snecko,16,21,6
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Slavers,15,23,7
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Shelled Parasite and Fungi,6,25,5
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Book of Stabbing,5,29,5
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Snake Plant,0,30,7
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Centurion and Healer,0,31,9
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Automaton,3,33,9
+0fc88d87-08ac-4167-ac56-c284bf1d3837,3 Darklings,2,35,6
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Orb Walker,0,36,3
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Spire Growth,4,38,6
+0fc88d87-08ac-4167-ac56-c284bf1d3837,4 Shapes,0,39,6
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Reptomancer,7,40,10
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Jaw Worm Horde,0,42,5
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Transient,0,44,6
+0fc88d87-08ac-4167-ac56-c284bf1d3837,3 Darklings,5,45,9
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Giant Head,0,46,9
+0fc88d87-08ac-4167-ac56-c284bf1d3837,4 Shapes,3,47,6
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Writhing Mass,6,48,9
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Awakened One,0,50,9
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Time Eater,22,51,11
+0fc88d87-08ac-4167-ac56-c284bf1d3837,Shield and Spear,7,55,9
+0fc88d87-08ac-4167-ac56-c284bf1d3837,The Heart,30,56,10
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,2 Louse,0,1,2
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Jaw Worm,2,4,2
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Cultist,1,5,3
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Lagavulin,6,6,7
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,3 Sentries,13,8,10
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Looter,2,10,3
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Gremlin Nob,0,12,2
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,3 Louse,0,13,2
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Slime Boss,33,16,7
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,2 Thieves,17,18,2
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Spheric Guardian,11,21,3
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Snecko,0,22,2
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Book of Stabbing,9,23,3
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Gremlin Leader,0,25,4
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Book of Stabbing,1,27,3
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Centurion and Healer,5,28,4
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Gremlin Leader,0,29,4
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Colosseum Slavers,0,30,3
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Colosseum Nobs,2,30,3
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Masked Bandits,1,31,3
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Collector,26,33,10
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,3 Darklings,0,35,3
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Orb Walker,0,39,2
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Jaw Worm Horde,2,41,3
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Giant Head,0,44,3
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Maw,0,45,6
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,2 Orb Walkers,4,46,5
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Reptomancer,0,48,7
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Time Eater,22,50,11
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Donu and Deca,1,51,10
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,Shield and Spear,28,55,5
+3dd2c068-e359-4de5-b87f-dd5d42a15a93,The Heart,82,56,7
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,Small Slimes,10,1,3
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,Jaw Worm,4,2,5
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,3 Sentries,25,6,4
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,Lagavulin,17,8,7
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,3 Sentries,7,10,3
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,2 Louse,2,13,2
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,Looter,0,14,2
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,Slime Boss,0,16,5
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,Chosen,0,18,2
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,2 Thieves,20,22,4
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,Book of Stabbing,12,24,3
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,Gremlin Leader,0,27,3
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,Slavers,0,29,3
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,Shelled Parasite and Fungi,9,30,3
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,Champ,48,33,11
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,3 Shapes,9,35,3
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,Orb Walker,0,36,3
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,2 Orb Walkers,0,39,2
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,Reptomancer,0,40,2
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,Nemesis,31,41,5
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,3 Darklings,16,44,4
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,Reptomancer,8,45,4
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,4 Shapes,0,47,4
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,Awakened One,27,50,24
+460e3f5c-fb44-46ea-9b5c-a509aec9334c,Time Eater,22,51,1
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,2 Louse,0,1,1
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Small Slimes,0,2,2
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Jaw Worm,7,4,2
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,2 Fungi Beasts,1,5,2
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Gremlin Nob,0,7,2
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Red Slaver,0,8,1
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Blue Slaver,0,10,3
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Lagavulin,4,11,6
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,3 Sentries,5,13,3
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,3 Louse,17,14,5
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Slime Boss,24,16,7
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,3 Byrds,7,18,5
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,2 Thieves,3,20,4
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Cultist and Chosen,9,22,5
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Snake Plant,0,24,2
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Book of Stabbing,4,29,4
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Chosen and Byrds,2,30,5
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Slavers,2,31,5
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Collector,0,33,7
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Orb Walker,0,35,3
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,2 Orb Walkers,30,36,4
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,3 Darklings,0,37,4
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Sphere and 2 Shapes,0,38,3
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Spire Growth,0,39,4
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Giant Head,41,40,7
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Reptomancer,0,42,6
+82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,Nemesis,32,44,2
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Small Slimes,2,1,3
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,2 Louse,0,2,1
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Jaw Worm,1,5,4
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Looter,3,11,2
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Lagavulin,13,12,8
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,3 Louse,6,13,3
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Gremlin Nob,0,14,2
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,The Guardian,8,16,10
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,3 Byrds,0,18,2
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Shell Parasite,1,24,5
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Book of Stabbing,1,25,5
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Snake Plant,0,27,2
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Colosseum Slavers,0,29,3
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Colosseum Nobs,0,29,5
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Slavers,0,31,1
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Collector,0,33,8
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Orb Walker,0,35,2
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,3 Darklings,1,38,5
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Reptomancer,3,41,5
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Giant Head,6,42,14
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Nemesis,2,44,25
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Sphere and 2 Shapes,0,45,16
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Giant Head,0,47,7
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Jaw Worm Horde,0,48,5
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Time Eater,0,50,23
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Donu and Deca,37,51,20
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,Shield and Spear,1,55,9
+8b2d5da0-3923-4e6a-b13d-77b3e01dba57,The Heart,0,56,9
+e14018c5-838d-431c-b1a4-6d0b7dae2f06,Cultist,0,1,1
+e14018c5-838d-431c-b1a4-6d0b7dae2f06,2 Louse,0,3,1
+e14018c5-838d-431c-b1a4-6d0b7dae2f06,Jaw Worm,0,5,1
+e14018c5-838d-431c-b1a4-6d0b7dae2f06,Gremlin Nob,32,6,4
+e14018c5-838d-431c-b1a4-6d0b7dae2f06,3 Sentries,18,11,7
+e14018c5-838d-431c-b1a4-6d0b7dae2f06,Large Slime,1,12,5
+e14018c5-838d-431c-b1a4-6d0b7dae2f06,Lots of Slimes,0,13,4
+e14018c5-838d-431c-b1a4-6d0b7dae2f06,The Guardian,4,16,13
+e14018c5-838d-431c-b1a4-6d0b7dae2f06,Spheric Guardian,0,18,5
+e14018c5-838d-431c-b1a4-6d0b7dae2f06,Chosen,1,24,5
+e14018c5-838d-431c-b1a4-6d0b7dae2f06,Slavers,14,27,7
+e14018c5-838d-431c-b1a4-6d0b7dae2f06,3 Cultists,14,28,6
+e14018c5-838d-431c-b1a4-6d0b7dae2f06,Snake Plant,0,29,5
+e14018c5-838d-431c-b1a4-6d0b7dae2f06,Shelled Parasite and Fungi,3,30,5
+e14018c5-838d-431c-b1a4-6d0b7dae2f06,Collector,55,33,9
+390ddb2a-db32-4851-9fc1-f9e3d558b758,Cultist,3,1,4
+390ddb2a-db32-4851-9fc1-f9e3d558b758,Small Slimes,10,2,3
+390ddb2a-db32-4851-9fc1-f9e3d558b758,Jaw Worm,0,4,3
+390ddb2a-db32-4851-9fc1-f9e3d558b758,Looter,8,5,4
+390ddb2a-db32-4851-9fc1-f9e3d558b758,Lagavulin,30,6,7
+390ddb2a-db32-4851-9fc1-f9e3d558b758,Gremlin Nob,8,8,3
+390ddb2a-db32-4851-9fc1-f9e3d558b758,3 Sentries,36,10,6
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Cultist,2,1,4
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Small Slimes,2,3,3
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,2 Louse,0,5,2
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,3 Sentries,11,6,5
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Lagavulin,9,8,6
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,3 Sentries,0,10,4
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,2 Fungi Beasts,0,11,2
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Exordium Wildlife,0,12,2
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Exordium Thugs,4,14,4
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,The Guardian,16,16,9
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,2 Thieves,0,18,3
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,3 Byrds,0,21,2
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Book of Stabbing,24,23,4
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Slavers,10,25,4
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Cultist and Chosen,23,27,6
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Centurion and Healer,8,28,8
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Book of Stabbing,2,30,4
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Sentry and Sphere,0,31,4
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Collector,3,33,8
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Orb Walker,0,35,2
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,3 Shapes,4,39,6
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Reptomancer,0,40,4
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Spire Growth,7,41,5
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Nemesis,16,42,9
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,3 Darklings,0,44,3
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Giant Head,0,47,6
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Donu and Deca,3,50,11
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Awakened One,4,51,16
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,Shield and Spear,1,55,6
+93fd92d8-3e88-440d-bd4c-2dab1e0943b4,The Heart,71,56,5
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Jaw Worm,2,1,5
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Cultist,2,3,4
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,3 Sentries,19,6,8
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,2 Louse,1,10,2
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Gremlin Gang,0,11,1
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,3 Louse,8,12,2
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Lagavulin,12,13,5
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Red Slaver,9,14,3
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Hexaghost,5,16,6
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Shell Parasite,30,18,4
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,3 Byrds,12,21,4
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Book of Stabbing,33,24,4
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Centurion and Healer,7,29,3
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Sentry and Sphere,0,31,6
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Champ,16,33,16
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,3 Darklings,8,35,6
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,3 Shapes,0,38,6
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Sphere and 2 Shapes,0,39,4
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Giant Head,4,40,8
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Spire Growth,7,42,4
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,3 Darklings,7,44,5
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Mind Bloom Boss Battle,0,45,9
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Nemesis,16,46,13
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Sphere and 2 Shapes,0,47,9
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Time Eater,9,50,29
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Awakened One,28,51,25
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,Shield and Spear,0,55,12
+2fe6d411-dcc0-448e-99c3-e48a0f63a29e,The Heart,37,56,10
+bd810493-7bc5-470e-8692-b6bbe8299672,Cultist,2,1,4
+bd810493-7bc5-470e-8692-b6bbe8299672,2 Louse,6,2,2
+bd810493-7bc5-470e-8692-b6bbe8299672,Jaw Worm,0,5,2
+bd810493-7bc5-470e-8692-b6bbe8299672,Lagavulin,17,7,5
+bd810493-7bc5-470e-8692-b6bbe8299672,Exordium Wildlife,2,10,2
+bd810493-7bc5-470e-8692-b6bbe8299672,Gremlin Nob,23,11,4
+bd810493-7bc5-470e-8692-b6bbe8299672,Exordium Thugs,0,13,3
+bd810493-7bc5-470e-8692-b6bbe8299672,2 Fungi Beasts,0,14,2
+bd810493-7bc5-470e-8692-b6bbe8299672,The Guardian,5,16,13
+bd810493-7bc5-470e-8692-b6bbe8299672,Chosen,0,18,3
+bd810493-7bc5-470e-8692-b6bbe8299672,Spheric Guardian,1,19,3
+bd810493-7bc5-470e-8692-b6bbe8299672,Chosen and Byrds,1,21,4
+bd810493-7bc5-470e-8692-b6bbe8299672,Slavers,19,23,4
+bd810493-7bc5-470e-8692-b6bbe8299672,Book of Stabbing,24,25,5
+bd810493-7bc5-470e-8692-b6bbe8299672,Gremlin Leader,0,27,5
+bd810493-7bc5-470e-8692-b6bbe8299672,Shelled Parasite and Fungi,6,29,4
+bd810493-7bc5-470e-8692-b6bbe8299672,Snecko,4,31,3
+bd810493-7bc5-470e-8692-b6bbe8299672,Collector,22,33,8
+bd810493-7bc5-470e-8692-b6bbe8299672,3 Shapes,0,35,5
+bd810493-7bc5-470e-8692-b6bbe8299672,3 Darklings,0,37,4
+bd810493-7bc5-470e-8692-b6bbe8299672,Maw,0,39,5
+bd810493-7bc5-470e-8692-b6bbe8299672,Transient,0,41,6
+bd810493-7bc5-470e-8692-b6bbe8299672,Nemesis,7,42,5
+bd810493-7bc5-470e-8692-b6bbe8299672,Jaw Worm Horde,8,44,4
+bd810493-7bc5-470e-8692-b6bbe8299672,Reptomancer,0,45,5
+bd810493-7bc5-470e-8692-b6bbe8299672,Writhing Mass,2,46,5
+bd810493-7bc5-470e-8692-b6bbe8299672,Transient,0,47,6
+bd810493-7bc5-470e-8692-b6bbe8299672,Donu and Deca,8,50,10
+bd810493-7bc5-470e-8692-b6bbe8299672,Time Eater,32,51,10
+bd810493-7bc5-470e-8692-b6bbe8299672,Shield and Spear,7,55,6
+bd810493-7bc5-470e-8692-b6bbe8299672,The Heart,39,56,8
+9445c3db-ec89-4106-a3c5-df71eb947594,Jaw Worm,2,1,3
+9445c3db-ec89-4106-a3c5-df71eb947594,Cultist,0,4,3
+9445c3db-ec89-4106-a3c5-df71eb947594,2 Louse,0,5,2
+9445c3db-ec89-4106-a3c5-df71eb947594,Lagavulin,15,7,5
+9445c3db-ec89-4106-a3c5-df71eb947594,The Mushroom Lair,6,8,3
+9445c3db-ec89-4106-a3c5-df71eb947594,Gremlin Nob,8,11,3
+9445c3db-ec89-4106-a3c5-df71eb947594,2 Fungi Beasts,3,12,3
+9445c3db-ec89-4106-a3c5-df71eb947594,3 Sentries,2,14,4
+9445c3db-ec89-4106-a3c5-df71eb947594,The Guardian,20,16,9
+9445c3db-ec89-4106-a3c5-df71eb947594,Shell Parasite,14,18,5
+9445c3db-ec89-4106-a3c5-df71eb947594,Gremlin Leader,28,24,5
+9445c3db-ec89-4106-a3c5-df71eb947594,Book of Stabbing,34,27,4
+9445c3db-ec89-4106-a3c5-df71eb947594,2 Thieves,26,29,3
+9445c3db-ec89-4106-a3c5-df71eb947594,Slavers,0,30,3
+9445c3db-ec89-4106-a3c5-df71eb947594,Champ,44,33,17
+9445c3db-ec89-4106-a3c5-df71eb947594,3 Darklings,27,35,5
+9445c3db-ec89-4106-a3c5-df71eb947594,3 Shapes,13,36,4
+9445c3db-ec89-4106-a3c5-df71eb947594,Sphere and 2 Shapes,1,38,4
+9445c3db-ec89-4106-a3c5-df71eb947594,Spire Growth,10,39,3
+9445c3db-ec89-4106-a3c5-df71eb947594,Nemesis,38,44,4
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Small Slimes,0,1,2
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,2 Louse,3,2,5
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Cultist,0,4,3
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Gremlin Nob,16,6,3
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Red Slaver,9,8,3
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Exordium Wildlife,4,10,3
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,3 Sentries,0,11,3
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,2 Fungi Beasts,9,12,2
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Gremlin Nob,0,14,3
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Slime Boss,0,16,4
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,2 Thieves,27,18,4
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Chosen,0,20,3
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Gremlin Leader,15,23,4
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Slavers,3,25,4
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Gremlin Leader,0,27,3
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Snake Plant,0,28,1
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Slavers,6,29,4
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,3 Cultists,0,30,2
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Centurion and Healer,0,31,5
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Collector,19,33,5
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,3 Darklings,0,35,3
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Orb Walker,0,37,2
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Spire Growth,0,39,3
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Nemesis,1,40,4
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Giant Head,0,42,3
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Transient,0,44,5
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Sphere and 2 Shapes,0,46,3
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Writhing Mass,0,48,3
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Awakened One,3,50,4
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Donu and Deca,0,51,3
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,Shield and Spear,0,55,3
+e93ef19d-db53-4a99-93c3-9d936cd5cb17,The Heart,33,56,7
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,Small Slimes,10,1,6
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,Cultist,0,3,4
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,Jaw Worm,0,5,3
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,3 Sentries,21,6,9
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,Lagavulin,24,8,7
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,2 Fungi Beasts,3,10,3
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,Looter,7,12,3
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,Blue Slaver,8,14,2
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,The Guardian,15,16,7
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,Shell Parasite,0,18,1
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,3 Byrds,0,20,3
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,Shelled Parasite and Fungi,18,21,3
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,Snecko,2,22,4
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,Gremlin Leader,15,23,3
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,Snake Plant,0,24,2
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,Slavers,20,25,3
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,Gremlin Leader,0,27,2
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,3 Cultists,0,28,2
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,Shelled Parasite and Fungi,9,29,2
+fb65dde5-66e6-417d-b9c8-cd88a422bc13,Chosen and Byrds,4,30,2
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Jaw Worm,2,1,4
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,2 Louse,7,2,2
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Small Slimes,0,4,2
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Lagavulin,7,7,5
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Looter,1,11,2
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,3 Sentries,2,12,3
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Lagavulin,0,13,4
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Slime Boss,0,16,4
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,2 Thieves,0,18,2
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Shell Parasite,0,20,2
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Cultist and Chosen,0,21,3
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Snake Plant,0,22,2
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Slavers,26,23,2
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Gremlin Leader,10,25,3
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Book of Stabbing,1,27,2
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Centurion and Healer,0,29,2
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Gremlin Leader,0,30,4
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Chosen and Byrds,0,31,3
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Automaton,0,33,4
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Orb Walker,0,35,1
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,3 Shapes,4,37,3
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Writhing Mass,0,38,4
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,4 Shapes,3,39,2
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Giant Head,0,40,4
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Nemesis,0,42,3
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Giant Head,0,47,7
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Nemesis,0,48,5
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Time Eater,38,50,7
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Donu and Deca,10,51,8
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,Shield and Spear,0,55,3
+84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,The Heart,19,56,7
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Small Slimes,1,1,4
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,2 Louse,0,4,1
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Cultist,0,5,3
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Gremlin Nob,16,7,3
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Looter,7,8,2
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,3 Sentries,6,10,4
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Blue Slaver,1,14,2
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Hexaghost,0,16,4
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Spheric Guardian,0,18,1
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Masked Bandits,2,19,7
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Shell Parasite,3,22,3
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Book of Stabbing,3,23,3
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Slavers,9,25,4
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Book of Stabbing,2,28,3
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Centurion and Healer,1,29,5
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Shelled Parasite and Fungi,0,31,3
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Automaton,2,33,5
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,3 Darklings,0,35,5
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Orb Walker,1,38,4
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,3 Darklings,0,39,3
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Nemesis,31,40,6
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Writhing Mass,0,41,5
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Jaw Worm Horde,0,42,8
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Reptomancer,0,44,3
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Transient,0,45,7
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Writhing Mass,6,47,3
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Nemesis,0,48,4
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Awakened One,0,50,11
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Time Eater,0,51,7
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,Shield and Spear,0,55,5
+4008fe5c-012e-4ce7-a627-74b1dfeb6058,The Heart,4,56,6
+02b2752d-11a3-4696-8d3d-2791ef325342,Small Slimes,7,1,4
+02b2752d-11a3-4696-8d3d-2791ef325342,Jaw Worm,4,3,3
+02b2752d-11a3-4696-8d3d-2791ef325342,Cultist,1,4,3
+02b2752d-11a3-4696-8d3d-2791ef325342,Blue Slaver,13,5,4
+02b2752d-11a3-4696-8d3d-2791ef325342,Gremlin Nob,11,6,3
+02b2752d-11a3-4696-8d3d-2791ef325342,Looter,0,8,2
+02b2752d-11a3-4696-8d3d-2791ef325342,3 Sentries,5,11,4
+02b2752d-11a3-4696-8d3d-2791ef325342,Exordium Wildlife,0,12,2
+02b2752d-11a3-4696-8d3d-2791ef325342,Slime Boss,15,16,6
+02b2752d-11a3-4696-8d3d-2791ef325342,Spheric Guardian,0,18,3
+02b2752d-11a3-4696-8d3d-2791ef325342,3 Byrds,4,20,3
+02b2752d-11a3-4696-8d3d-2791ef325342,Centurion and Healer,1,22,3
+02b2752d-11a3-4696-8d3d-2791ef325342,Sentry and Sphere,0,27,3
+02b2752d-11a3-4696-8d3d-2791ef325342,Collector,0,33,4
+02b2752d-11a3-4696-8d3d-2791ef325342,3 Darklings,0,35,2
+02b2752d-11a3-4696-8d3d-2791ef325342,Orb Walker,0,37,2
+02b2752d-11a3-4696-8d3d-2791ef325342,Mind Bloom Boss Battle,0,39,2
+02b2752d-11a3-4696-8d3d-2791ef325342,Giant Head,0,40,2
+02b2752d-11a3-4696-8d3d-2791ef325342,Reptomancer,0,42,2
+02b2752d-11a3-4696-8d3d-2791ef325342,Jaw Worm Horde,0,45,1
+02b2752d-11a3-4696-8d3d-2791ef325342,Transient,0,47,1
+02b2752d-11a3-4696-8d3d-2791ef325342,Writhing Mass,0,48,1
+02b2752d-11a3-4696-8d3d-2791ef325342,Awakened One,0,50,2
+02b2752d-11a3-4696-8d3d-2791ef325342,Time Eater,47,51,6
+02b2752d-11a3-4696-8d3d-2791ef325342,Shield and Spear,0,55,1
+02b2752d-11a3-4696-8d3d-2791ef325342,The Heart,7,56,5
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Cultist,0,1,2
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Small Slimes,13,2,2
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Jaw Worm,0,3,2
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Lagavulin,0,6,4
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,3 Sentries,10,8,4
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Lagavulin,0,10,4
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Exordium Thugs,11,13,3
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,The Guardian,2,16,6
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Spheric Guardian,0,18,2
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,3 Byrds,0,20,4
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Slavers,6,23,3
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Centurion and Healer,0,25,3
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Shelled Parasite and Fungi,0,27,2
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Book of Stabbing,1,31,3
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Champ,1,33,6
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,3 Darklings,0,35,3
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,3 Shapes,0,36,2
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Maw,0,37,5
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Spire Growth,0,39,4
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Reptomancer,0,41,4
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,2 Orb Walkers,1,42,3
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Nemesis,1,45,5
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,3 Darklings,0,46,3
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Reptomancer,9,48,5
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Time Eater,0,50,6
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Awakened One,1,51,7
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,Shield and Spear,0,55,5
+d66b5a40-3f03-4736-80d3-e0b4dcd69a54,The Heart,45,56,8
+8e679b4d-2344-493d-948e-7db9fca739d6,Small Slimes,5,1,5
+8e679b4d-2344-493d-948e-7db9fca739d6,Cultist,0,3,4
+8e679b4d-2344-493d-948e-7db9fca739d6,Lagavulin,9,7,5
+8e679b4d-2344-493d-948e-7db9fca739d6,2 Louse,0,8,2
+8e679b4d-2344-493d-948e-7db9fca739d6,3 Sentries,14,10,5
+8e679b4d-2344-493d-948e-7db9fca739d6,Exordium Wildlife,0,11,2
+8e679b4d-2344-493d-948e-7db9fca739d6,Gremlin Nob,0,12,2
+8e679b4d-2344-493d-948e-7db9fca739d6,2 Fungi Beasts,4,13,2
+8e679b4d-2344-493d-948e-7db9fca739d6,3 Sentries,2,14,5
+8e679b4d-2344-493d-948e-7db9fca739d6,The Guardian,12,16,5
+8e679b4d-2344-493d-948e-7db9fca739d6,Chosen,0,18,2
+8e679b4d-2344-493d-948e-7db9fca739d6,Spheric Guardian,0,21,2
+8e679b4d-2344-493d-948e-7db9fca739d6,Snecko,14,22,4
+8e679b4d-2344-493d-948e-7db9fca739d6,Gremlin Leader,0,23,3
+8e679b4d-2344-493d-948e-7db9fca739d6,Book of Stabbing,2,27,3
+8e679b4d-2344-493d-948e-7db9fca739d6,Sentry and Sphere,0,29,1
+8e679b4d-2344-493d-948e-7db9fca739d6,Shelled Parasite and Fungi,0,31,2
+8e679b4d-2344-493d-948e-7db9fca739d6,Automaton,2,33,4
+8e679b4d-2344-493d-948e-7db9fca739d6,3 Darklings,0,35,3
+8e679b4d-2344-493d-948e-7db9fca739d6,Orb Walker,0,37,1
+8e679b4d-2344-493d-948e-7db9fca739d6,Mind Bloom Boss Battle,0,38,2
+8e679b4d-2344-493d-948e-7db9fca739d6,Nemesis,0,40,1
+8e679b4d-2344-493d-948e-7db9fca739d6,Spire Growth,0,41,1
+8e679b4d-2344-493d-948e-7db9fca739d6,Sphere and 2 Shapes,0,42,2
+8e679b4d-2344-493d-948e-7db9fca739d6,Giant Head,3,44,4
+8e679b4d-2344-493d-948e-7db9fca739d6,Nemesis,0,46,1
+8e679b4d-2344-493d-948e-7db9fca739d6,Maw,0,47,2
+8e679b4d-2344-493d-948e-7db9fca739d6,Time Eater,3,50,4
+8e679b4d-2344-493d-948e-7db9fca739d6,Donu and Deca,0,51,3
+8e679b4d-2344-493d-948e-7db9fca739d6,Shield and Spear,0,55,3
+8e679b4d-2344-493d-948e-7db9fca739d6,The Heart,40,56,8
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Small Slimes,8,1,5
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Jaw Worm,8,2,5
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Cultist,0,3,2
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Looter,6,6,4
+88dd194f-13be-44bd-8337-b2ebc7c6e554,3 Sentries,15,7,5
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Exordium Thugs,4,8,4
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Gremlin Nob,0,10,2
+88dd194f-13be-44bd-8337-b2ebc7c6e554,3 Louse,5,11,3
+88dd194f-13be-44bd-8337-b2ebc7c6e554,3 Sentries,12,12,5
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Lagavulin,0,14,5
+88dd194f-13be-44bd-8337-b2ebc7c6e554,The Guardian,2,16,10
+88dd194f-13be-44bd-8337-b2ebc7c6e554,2 Thieves,0,18,1
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Spheric Guardian,0,20,2
+88dd194f-13be-44bd-8337-b2ebc7c6e554,3 Cultists,0,22,3
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Book of Stabbing,14,24,4
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Centurion and Healer,0,28,3
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Snake Plant,4,29,4
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Gremlin Leader,0,30,3
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Shelled Parasite and Fungi,0,31,3
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Automaton,0,33,2
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Orb Walker,0,35,1
+88dd194f-13be-44bd-8337-b2ebc7c6e554,3 Darklings,4,37,3
+88dd194f-13be-44bd-8337-b2ebc7c6e554,2 Orb Walkers,47,38,4
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Reptomancer,1,40,4
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Giant Head,5,42,6
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Writhing Mass,0,44,5
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Transient,0,46,6
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Reptomancer,0,47,1
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Jaw Worm Horde,13,48,7
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Donu and Deca,4,50,12
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Awakened One,0,51,11
+88dd194f-13be-44bd-8337-b2ebc7c6e554,Shield and Spear,0,55,6
+88dd194f-13be-44bd-8337-b2ebc7c6e554,The Heart,5,56,5
+987954ff-0d4d-472d-809a-6beb43ae15f6,Small Slimes,7,1,3
+987954ff-0d4d-472d-809a-6beb43ae15f6,2 Louse,0,4,1
+987954ff-0d4d-472d-809a-6beb43ae15f6,Gremlin Nob,0,6,2
+987954ff-0d4d-472d-809a-6beb43ae15f6,Cultist,0,7,2
+987954ff-0d4d-472d-809a-6beb43ae15f6,3 Louse,0,11,1
+987954ff-0d4d-472d-809a-6beb43ae15f6,3 Sentries,4,12,3
+987954ff-0d4d-472d-809a-6beb43ae15f6,2 Fungi Beasts,0,13,1
+987954ff-0d4d-472d-809a-6beb43ae15f6,Exordium Wildlife,0,14,1
+987954ff-0d4d-472d-809a-6beb43ae15f6,The Guardian,8,16,8
+987954ff-0d4d-472d-809a-6beb43ae15f6,Chosen,0,18,2
+987954ff-0d4d-472d-809a-6beb43ae15f6,Gremlin Leader,0,24,4
+987954ff-0d4d-472d-809a-6beb43ae15f6,Spheric Guardian,0,25,1
+987954ff-0d4d-472d-809a-6beb43ae15f6,Centurion and Healer,5,27,5
+987954ff-0d4d-472d-809a-6beb43ae15f6,Snake Plant,2,28,5
+987954ff-0d4d-472d-809a-6beb43ae15f6,Slavers,0,31,4
+987954ff-0d4d-472d-809a-6beb43ae15f6,Champ,0,33,5
+987954ff-0d4d-472d-809a-6beb43ae15f6,3 Shapes,0,35,4
+987954ff-0d4d-472d-809a-6beb43ae15f6,2 Orb Walkers,0,38,1
+987954ff-0d4d-472d-809a-6beb43ae15f6,Reptomancer,0,40,4
+987954ff-0d4d-472d-809a-6beb43ae15f6,Orb Walker,0,42,1
+987954ff-0d4d-472d-809a-6beb43ae15f6,Writhing Mass,0,45,4
+987954ff-0d4d-472d-809a-6beb43ae15f6,Giant Head,0,46,4
+987954ff-0d4d-472d-809a-6beb43ae15f6,Transient,0,47,6
+987954ff-0d4d-472d-809a-6beb43ae15f6,Sphere and 2 Shapes,0,48,4
+987954ff-0d4d-472d-809a-6beb43ae15f6,Time Eater,3,50,4
+987954ff-0d4d-472d-809a-6beb43ae15f6,Donu and Deca,18,51,6
+987954ff-0d4d-472d-809a-6beb43ae15f6,Shield and Spear,0,55,3
+987954ff-0d4d-472d-809a-6beb43ae15f6,The Heart,55,56,5
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Small Slimes,0,1,2
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,2 Louse,0,2,2
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Cultist,6,3,4
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,3 Sentries,0,6,3
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,3 Louse,6,7,2
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Lagavulin,20,8,4
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Gremlin Nob,0,10,2
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Large Slime,0,11,4
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Blue Slaver,0,13,1
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Lagavulin,1,14,7
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Slime Boss,0,16,6
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,2 Thieves,7,18,3
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Book of Stabbing,0,24,4
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Spheric Guardian,5,25,3
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Gremlin Leader,0,29,3
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,3 Cultists,0,30,2
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Book of Stabbing,4,31,3
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Collector,23,33,5
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Orb Walker,0,35,2
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,3 Darklings,0,38,2
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Transient,0,39,6
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Nemesis,12,40,5
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Sphere and 2 Shapes,0,41,3
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Giant Head,0,42,6
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Maw,0,44,6
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Jaw Worm Horde,0,46,3
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Nemesis,0,48,2
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Donu and Deca,39,50,9
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Awakened One,10,51,7
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,Shield and Spear,6,55,4
+0c89e69c-e51f-4c56-9a8e-a24280ccb522,The Heart,36,56,7
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Small Slimes,4,1,4
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Cultist,0,2,4
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,3 Sentries,13,6,9
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Jaw Worm,0,10,1
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Gremlin Nob,0,11,2
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,The Mushroom Lair,0,12,2
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,3 Sentries,4,13,5
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,2 Fungi Beasts,0,14,2
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Hexaghost,16,16,6
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Chosen,0,18,2
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Shell Parasite,0,22,2
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Gremlin Leader,0,24,3
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Slavers,0,28,3
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Centurion and Healer,0,29,3
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Snecko,0,30,4
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,3 Cultists,2,31,3
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Automaton,0,33,3
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,3 Shapes,0,35,2
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,3 Darklings,0,38,2
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Giant Head,0,40,4
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Nemesis,1,42,3
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Sphere and 2 Shapes,0,44,3
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Giant Head,0,45,3
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Spire Growth,0,48,2
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Donu and Deca,0,50,5
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Time Eater,0,51,6
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,Shield and Spear,0,55,5
+d46bc2f6-e36a-4da2-beb7-f6236c94fac8,The Heart,23,56,7
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Small Slimes,0,1,2
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Cultist,0,2,2
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Jaw Worm,0,7,1
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,3 Sentries,25,8,5
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Large Slime,7,10,2
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Lagavulin,0,14,2
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Slime Boss,0,16,6
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,3 Byrds,33,18,6
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Shell Parasite,11,21,2
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Chosen and Byrds,0,24,3
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Snake Plant,12,30,2
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Centurion and Healer,2,31,3
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Collector,22,33,4
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,3 Shapes,1,35,3
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,3 Darklings,0,36,3
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Jaw Worm Horde,0,39,4
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Reptomancer,9,40,4
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Maw,0,42,4
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Nemesis,1,44,4
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Transient,7,47,3
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Sphere and 2 Shapes,0,48,3
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Donu and Deca,4,50,3
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Time Eater,48,51,9
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,Shield and Spear,0,55,3
+a24d4e5d-1483-4402-96f0-bf0d51ceeb87,The Heart,4,56,5
+a854b37c-535e-4929-82ee-9568900fa895,Cultist,4,1,4
+a854b37c-535e-4929-82ee-9568900fa895,Small Slimes,10,4,3
+a854b37c-535e-4929-82ee-9568900fa895,2 Louse,0,7,2
+a854b37c-535e-4929-82ee-9568900fa895,Looter,7,8,3
+a854b37c-535e-4929-82ee-9568900fa895,Exordium Wildlife,4,10,2
+a854b37c-535e-4929-82ee-9568900fa895,Gremlin Nob,4,11,3
+a854b37c-535e-4929-82ee-9568900fa895,Lagavulin,29,13,6
+a854b37c-535e-4929-82ee-9568900fa895,Lots of Slimes,4,14,2
+a854b37c-535e-4929-82ee-9568900fa895,Hexaghost,35,16,9
+0f018942-fd29-4052-8572-940cbc3501fe,Jaw Worm,2,1,4
+0f018942-fd29-4052-8572-940cbc3501fe,Small Slimes,3,2,4
+0f018942-fd29-4052-8572-940cbc3501fe,Cultist,0,4,2
+0f018942-fd29-4052-8572-940cbc3501fe,Looter,1,5,3
+0f018942-fd29-4052-8572-940cbc3501fe,Gremlin Nob,17,6,3
+0f018942-fd29-4052-8572-940cbc3501fe,Lagavulin,0,8,2
+0f018942-fd29-4052-8572-940cbc3501fe,Large Slime,2,10,4
+0f018942-fd29-4052-8572-940cbc3501fe,Gremlin Gang,0,11,3
+0f018942-fd29-4052-8572-940cbc3501fe,3 Sentries,16,13,4
+0f018942-fd29-4052-8572-940cbc3501fe,2 Fungi Beasts,0,14,2
+0f018942-fd29-4052-8572-940cbc3501fe,Hexaghost,3,16,5
+0f018942-fd29-4052-8572-940cbc3501fe,Spheric Guardian,0,18,1
+0f018942-fd29-4052-8572-940cbc3501fe,3 Byrds,0,19,3
+0f018942-fd29-4052-8572-940cbc3501fe,Centurion and Healer,9,22,2
+0f018942-fd29-4052-8572-940cbc3501fe,Book of Stabbing,19,28,2
+0f018942-fd29-4052-8572-940cbc3501fe,Snake Plant,0,29,1
+0f018942-fd29-4052-8572-940cbc3501fe,Champ,1,33,5
+0f018942-fd29-4052-8572-940cbc3501fe,3 Shapes,3,35,4
+0f018942-fd29-4052-8572-940cbc3501fe,Orb Walker,0,38,1
+0f018942-fd29-4052-8572-940cbc3501fe,Mind Bloom Boss Battle,0,39,4
+0f018942-fd29-4052-8572-940cbc3501fe,Reptomancer,0,41,3
+0f018942-fd29-4052-8572-940cbc3501fe,4 Shapes,0,44,1
+0f018942-fd29-4052-8572-940cbc3501fe,Nemesis,4,45,3
+0f018942-fd29-4052-8572-940cbc3501fe,Writhing Mass,1,46,2
+0f018942-fd29-4052-8572-940cbc3501fe,Maw,0,47,4
+0f018942-fd29-4052-8572-940cbc3501fe,3 Darklings,0,48,3
+0f018942-fd29-4052-8572-940cbc3501fe,Donu and Deca,13,50,4
+0f018942-fd29-4052-8572-940cbc3501fe,Time Eater,0,51,3
+0f018942-fd29-4052-8572-940cbc3501fe,Shield and Spear,0,55,1
+0f018942-fd29-4052-8572-940cbc3501fe,The Heart,18,56,5
