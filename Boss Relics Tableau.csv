@@ -1,310 +1,1702 @@
 play_Id,character_chosen,boss_relic,br_picked_skipped,victory,floor_reached,Act
-02be86b6-8687-4d42-9102-c10b61a7b245,IRONCLAD,Ectoplasm,Skipped,1,57,1
-02be86b6-8687-4d42-9102-c10b61a7b245,IRONCLAD,Black Blood,Skipped,1,57,1
-02be86b6-8687-4d42-9102-c10b61a7b245,IRONCLAD,Black Star,Picked,1,57,1
-02be86b6-8687-4d42-9102-c10b61a7b245,IRONCLAD,Busted Crown,Skipped,1,57,2
-02be86b6-8687-4d42-9102-c10b61a7b245,IRONCLAD,Sozu,Skipped,1,57,2
-02be86b6-8687-4d42-9102-c10b61a7b245,IRONCLAD,SlaversCollar,Picked,1,57,2
-c499fd7e-f334-4232-a8ff-e6a41031c2ba,IRONCLAD,Pandora's Box,Skipped,1,57,1
-c499fd7e-f334-4232-a8ff-e6a41031c2ba,IRONCLAD,Sozu,Skipped,1,57,1
-c499fd7e-f334-4232-a8ff-e6a41031c2ba,IRONCLAD,Coffee Dripper,Picked,1,57,1
-c499fd7e-f334-4232-a8ff-e6a41031c2ba,IRONCLAD,Black Blood,Skipped,1,57,2
-c499fd7e-f334-4232-a8ff-e6a41031c2ba,IRONCLAD,Empty Cage,Skipped,1,57,2
-c499fd7e-f334-4232-a8ff-e6a41031c2ba,IRONCLAD,Astrolabe,Picked,1,57,2
-c8d23175-f597-4d40-aeea-b1dc82af0a29,IRONCLAD,Velvet Choker,Skipped,1,57,1
-c8d23175-f597-4d40-aeea-b1dc82af0a29,IRONCLAD,Runic Dome,Skipped,1,57,1
-c8d23175-f597-4d40-aeea-b1dc82af0a29,IRONCLAD,Runic Pyramid,Picked,1,57,1
-c8d23175-f597-4d40-aeea-b1dc82af0a29,IRONCLAD,Fusion Hammer,Skipped,1,57,2
-c8d23175-f597-4d40-aeea-b1dc82af0a29,IRONCLAD,Pandora's Box,Skipped,1,57,2
-c8d23175-f597-4d40-aeea-b1dc82af0a29,IRONCLAD,SlaversCollar,Picked,1,57,2
-0b9700cf-bcd7-4961-a7bc-964c228d4e6e,IRONCLAD,Black Star,Skipped,1,57,1
-0b9700cf-bcd7-4961-a7bc-964c228d4e6e,IRONCLAD,Tiny House,Skipped,1,57,1
-0b9700cf-bcd7-4961-a7bc-964c228d4e6e,IRONCLAD,Philosopher's Stone,Picked,1,57,1
-0b9700cf-bcd7-4961-a7bc-964c228d4e6e,IRONCLAD,Empty Cage,Skipped,1,57,2
-0b9700cf-bcd7-4961-a7bc-964c228d4e6e,IRONCLAD,Mark of Pain,Skipped,1,57,2
-0b9700cf-bcd7-4961-a7bc-964c228d4e6e,IRONCLAD,Fusion Hammer,Picked,1,57,2
-f6ef3240-6abc-4bf8-bc24-b1cdd636f029,IRONCLAD,Black Star,Skipped,1,57,1
-f6ef3240-6abc-4bf8-bc24-b1cdd636f029,IRONCLAD,SacredBark,Skipped,1,57,1
-f6ef3240-6abc-4bf8-bc24-b1cdd636f029,IRONCLAD,Snecko Eye,Picked,1,57,1
-f6ef3240-6abc-4bf8-bc24-b1cdd636f029,IRONCLAD,Velvet Choker,Skipped,1,57,2
-f6ef3240-6abc-4bf8-bc24-b1cdd636f029,IRONCLAD,Empty Cage,Skipped,1,57,2
-f6ef3240-6abc-4bf8-bc24-b1cdd636f029,IRONCLAD,Philosopher's Stone,Picked,1,57,2
-60928f51-ee59-4d6c-bffd-2916faf11475,IRONCLAD,Sozu,Skipped,1,57,1
-60928f51-ee59-4d6c-bffd-2916faf11475,IRONCLAD,Runic Pyramid,Skipped,1,57,1
-60928f51-ee59-4d6c-bffd-2916faf11475,IRONCLAD,Philosopher's Stone,Picked,1,57,1
-60928f51-ee59-4d6c-bffd-2916faf11475,IRONCLAD,Empty Cage,Skipped,1,57,2
-60928f51-ee59-4d6c-bffd-2916faf11475,IRONCLAD,Black Blood,Skipped,1,57,2
-60928f51-ee59-4d6c-bffd-2916faf11475,IRONCLAD,Calling Bell,Picked,1,57,2
-0bf7d587-6064-4aa0-ab5b-aad381615b2d,IRONCLAD,SacredBark,Skipped,1,57,1
-0bf7d587-6064-4aa0-ab5b-aad381615b2d,IRONCLAD,Ectoplasm,Skipped,1,57,1
-0bf7d587-6064-4aa0-ab5b-aad381615b2d,IRONCLAD,Astrolabe,Picked,1,57,1
-0bf7d587-6064-4aa0-ab5b-aad381615b2d,IRONCLAD,Busted Crown,Skipped,1,57,2
-0bf7d587-6064-4aa0-ab5b-aad381615b2d,IRONCLAD,Philosopher's Stone,Skipped,1,57,2
-0bf7d587-6064-4aa0-ab5b-aad381615b2d,IRONCLAD,Snecko Eye,Picked,1,57,2
-0f9132cc-10b2-4525-a5f4-2a783e3a5622,IRONCLAD,Velvet Choker,Skipped,1,57,1
-0f9132cc-10b2-4525-a5f4-2a783e3a5622,IRONCLAD,Empty Cage,Skipped,1,57,1
-0f9132cc-10b2-4525-a5f4-2a783e3a5622,IRONCLAD,Coffee Dripper,Picked,1,57,1
-0f9132cc-10b2-4525-a5f4-2a783e3a5622,IRONCLAD,Black Star,Skipped,1,57,2
-0f9132cc-10b2-4525-a5f4-2a783e3a5622,IRONCLAD,Black Blood,Skipped,1,57,2
-0f9132cc-10b2-4525-a5f4-2a783e3a5622,IRONCLAD,Fusion Hammer,Picked,1,57,2
-a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,IRONCLAD,Ectoplasm,Skipped,1,57,1
-a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,IRONCLAD,SacredBark,Skipped,1,57,1
-a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,IRONCLAD,Mark of Pain,Picked,1,57,1
-a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,IRONCLAD,Sozu,Skipped,1,57,2
-a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,IRONCLAD,Black Blood,Skipped,1,57,2
-a4e275c7-22ac-4b65-aaeb-b1db27a69ff5,IRONCLAD,Cursed Key,Picked,1,57,2
-7f5f4f7b-0cd7-45cd-b048-33102f1d6f5a,IRONCLAD,Ectoplasm,Skipped,0,23,1
-7f5f4f7b-0cd7-45cd-b048-33102f1d6f5a,IRONCLAD,Pandora's Box,Skipped,0,23,1
-7f5f4f7b-0cd7-45cd-b048-33102f1d6f5a,IRONCLAD,Calling Bell,Picked,0,23,1
-5ffbe030-7d23-4340-ac74-a3375c07f9d7,IRONCLAD,Black Star,Skipped,1,57,1
-5ffbe030-7d23-4340-ac74-a3375c07f9d7,IRONCLAD,Calling Bell,Skipped,1,57,1
-5ffbe030-7d23-4340-ac74-a3375c07f9d7,IRONCLAD,Snecko Eye,Picked,1,57,1
-5ffbe030-7d23-4340-ac74-a3375c07f9d7,IRONCLAD,Velvet Choker,Skipped,1,57,2
-5ffbe030-7d23-4340-ac74-a3375c07f9d7,IRONCLAD,Black Blood,Skipped,1,57,2
-5ffbe030-7d23-4340-ac74-a3375c07f9d7,IRONCLAD,Fusion Hammer,Picked,1,57,2
-7bb92161-a4db-40e2-8371-206d0f68d443,IRONCLAD,Tiny House,Skipped,0,39,1
-7bb92161-a4db-40e2-8371-206d0f68d443,IRONCLAD,Black Star,Skipped,0,39,1
-7bb92161-a4db-40e2-8371-206d0f68d443,IRONCLAD,Coffee Dripper,Picked,0,39,1
-7bb92161-a4db-40e2-8371-206d0f68d443,IRONCLAD,Astrolabe,Skipped,0,39,2
-7bb92161-a4db-40e2-8371-206d0f68d443,IRONCLAD,Mark of Pain,Skipped,0,39,2
-7bb92161-a4db-40e2-8371-206d0f68d443,IRONCLAD,SacredBark,Picked,0,39,2
-f6bc6896-38d1-4bb1-9011-5c9162019084,IRONCLAD,Runic Cube,Skipped,1,57,1
-f6bc6896-38d1-4bb1-9011-5c9162019084,IRONCLAD,Astrolabe,Skipped,1,57,1
-f6bc6896-38d1-4bb1-9011-5c9162019084,IRONCLAD,Velvet Choker,Picked,1,57,1
-f6bc6896-38d1-4bb1-9011-5c9162019084,IRONCLAD,Cursed Key,Skipped,1,57,2
-f6bc6896-38d1-4bb1-9011-5c9162019084,IRONCLAD,Sozu,Skipped,1,57,2
-f6bc6896-38d1-4bb1-9011-5c9162019084,IRONCLAD,Mark of Pain,Picked,1,57,2
-336fa949-f526-4226-a44f-274b1f8dbccc,THE_SILENT,Tiny House,Skipped,0,33,1
-336fa949-f526-4226-a44f-274b1f8dbccc,THE_SILENT,WristBlade,Skipped,0,33,1
-336fa949-f526-4226-a44f-274b1f8dbccc,THE_SILENT,Astrolabe,Picked,0,33,1
-17baa90f-8295-441f-a095-2ac9602cc869,THE_SILENT,Velvet Choker,Skipped,1,57,1
-17baa90f-8295-441f-a095-2ac9602cc869,THE_SILENT,Sozu,Skipped,1,57,1
-17baa90f-8295-441f-a095-2ac9602cc869,THE_SILENT,SlaversCollar,Picked,1,57,1
-17baa90f-8295-441f-a095-2ac9602cc869,THE_SILENT,Fusion Hammer,Skipped,1,57,2
-17baa90f-8295-441f-a095-2ac9602cc869,THE_SILENT,Pandora's Box,Skipped,1,57,2
-17baa90f-8295-441f-a095-2ac9602cc869,THE_SILENT,Coffee Dripper,Picked,1,57,2
-85c60dcb-7be5-450a-bbd6-249611210f10,THE_SILENT,Astrolabe,Skipped,0,33,1
-85c60dcb-7be5-450a-bbd6-249611210f10,THE_SILENT,Empty Cage,Skipped,0,33,1
-85c60dcb-7be5-450a-bbd6-249611210f10,THE_SILENT,Calling Bell,Picked,0,33,1
-4da4f472-755c-4009-8a3c-fcf4ee153685,THE_SILENT,Astrolabe,Skipped,1,57,1
-4da4f472-755c-4009-8a3c-fcf4ee153685,THE_SILENT,Fusion Hammer,Skipped,1,57,1
-4da4f472-755c-4009-8a3c-fcf4ee153685,THE_SILENT,Runic Pyramid,Picked,1,57,1
-4da4f472-755c-4009-8a3c-fcf4ee153685,THE_SILENT,SlaversCollar,Skipped,1,57,2
-4da4f472-755c-4009-8a3c-fcf4ee153685,THE_SILENT,Tiny House,Skipped,1,57,2
-4da4f472-755c-4009-8a3c-fcf4ee153685,THE_SILENT,Coffee Dripper,Picked,1,57,2
-9c14a52a-fcfa-4957-83c2-59917e9f1f52,THE_SILENT,Cursed Key,Skipped,1,57,1
-9c14a52a-fcfa-4957-83c2-59917e9f1f52,THE_SILENT,Sozu,Skipped,1,57,1
-9c14a52a-fcfa-4957-83c2-59917e9f1f52,THE_SILENT,Fusion Hammer,Picked,1,57,1
-9c14a52a-fcfa-4957-83c2-59917e9f1f52,THE_SILENT,SlaversCollar,Skipped,1,57,2
-9c14a52a-fcfa-4957-83c2-59917e9f1f52,THE_SILENT,WristBlade,Skipped,1,57,2
-9c14a52a-fcfa-4957-83c2-59917e9f1f52,THE_SILENT,Astrolabe,Picked,1,57,2
-c5e08caa-de96-4fe7-98bf-201ba4c044a8,THE_SILENT,Black Star,Skipped,0,24,1
-c5e08caa-de96-4fe7-98bf-201ba4c044a8,THE_SILENT,SlaversCollar,Skipped,0,24,1
-c5e08caa-de96-4fe7-98bf-201ba4c044a8,THE_SILENT,Calling Bell,Picked,0,24,1
-8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,THE_SILENT,Cursed Key,Skipped,0,50,1
-8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,THE_SILENT,Sozu,Skipped,0,50,1
-8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,THE_SILENT,Runic Pyramid,Picked,0,50,1
-8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,THE_SILENT,Empty Cage,Skipped,0,50,2
-8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,THE_SILENT,Tiny House,Skipped,0,50,2
-8ff1ff2f-2a52-41c0-ab91-4d270a887d4b,THE_SILENT,Astrolabe,Picked,0,50,2
-dc595644-f916-4db0-b2ea-d516ce24c5ac,THE_SILENT,Black Star,Skipped,1,57,1
-dc595644-f916-4db0-b2ea-d516ce24c5ac,THE_SILENT,Ectoplasm,Skipped,1,57,1
-dc595644-f916-4db0-b2ea-d516ce24c5ac,THE_SILENT,Philosopher's Stone,Picked,1,57,1
-dc595644-f916-4db0-b2ea-d516ce24c5ac,THE_SILENT,Busted Crown,Skipped,1,57,2
-dc595644-f916-4db0-b2ea-d516ce24c5ac,THE_SILENT,Sozu,Skipped,1,57,2
-dc595644-f916-4db0-b2ea-d516ce24c5ac,THE_SILENT,Calling Bell,Picked,1,57,2
-363f7704-3e26-44a2-b377-6258aff89d2c,THE_SILENT,Calling Bell,Skipped,1,57,1
-363f7704-3e26-44a2-b377-6258aff89d2c,THE_SILENT,Coffee Dripper,Skipped,1,57,1
-363f7704-3e26-44a2-b377-6258aff89d2c,THE_SILENT,Runic Pyramid,Picked,1,57,1
-363f7704-3e26-44a2-b377-6258aff89d2c,THE_SILENT,Sozu,Skipped,1,57,2
-363f7704-3e26-44a2-b377-6258aff89d2c,THE_SILENT,SacredBark,Skipped,1,57,2
-363f7704-3e26-44a2-b377-6258aff89d2c,THE_SILENT,SlaversCollar,Picked,1,57,2
-3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,THE_SILENT,Black Star,Skipped,1,57,1
-3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,THE_SILENT,Sozu,Skipped,1,57,1
-3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,THE_SILENT,Cursed Key,Picked,1,57,1
-3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,THE_SILENT,WristBlade,Skipped,1,57,2
-3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,THE_SILENT,SlaversCollar,Skipped,1,57,2
-3dbf1da7-6f98-4b62-bdeb-cb27cdf97794,THE_SILENT,Coffee Dripper,Picked,1,57,2
-381f055c-e3cd-4a0f-8963-69b0cced27bf,THE_SILENT,Fusion Hammer,Skipped,0,36,1
-381f055c-e3cd-4a0f-8963-69b0cced27bf,THE_SILENT,Velvet Choker,Skipped,0,36,1
-381f055c-e3cd-4a0f-8963-69b0cced27bf,THE_SILENT,Calling Bell,Picked,0,36,1
-381f055c-e3cd-4a0f-8963-69b0cced27bf,THE_SILENT,Busted Crown,Skipped,0,36,2
-381f055c-e3cd-4a0f-8963-69b0cced27bf,THE_SILENT,SacredBark,Skipped,0,36,2
-381f055c-e3cd-4a0f-8963-69b0cced27bf,THE_SILENT,SlaversCollar,Picked,0,36,2
-f10c7159-4168-413d-9a50-de28316f9963,THE_SILENT,Cursed Key,Skipped,1,57,1
-f10c7159-4168-413d-9a50-de28316f9963,THE_SILENT,Ring of the Serpent,Skipped,1,57,1
-f10c7159-4168-413d-9a50-de28316f9963,THE_SILENT,Runic Pyramid,Picked,1,57,1
-f10c7159-4168-413d-9a50-de28316f9963,THE_SILENT,SacredBark,Skipped,1,57,2
-f10c7159-4168-413d-9a50-de28316f9963,THE_SILENT,Runic Dome,Skipped,1,57,2
-f10c7159-4168-413d-9a50-de28316f9963,THE_SILENT,Coffee Dripper,Picked,1,57,2
-b0a4ace2-7e08-4e2a-a625-7110d549bb5b,THE_SILENT,WristBlade,Skipped,1,57,1
-b0a4ace2-7e08-4e2a-a625-7110d549bb5b,THE_SILENT,Runic Dome,Skipped,1,57,1
-b0a4ace2-7e08-4e2a-a625-7110d549bb5b,THE_SILENT,SlaversCollar,Picked,1,57,1
-b0a4ace2-7e08-4e2a-a625-7110d549bb5b,THE_SILENT,Philosopher's Stone,Skipped,1,57,2
-b0a4ace2-7e08-4e2a-a625-7110d549bb5b,THE_SILENT,Calling Bell,Skipped,1,57,2
-b0a4ace2-7e08-4e2a-a625-7110d549bb5b,THE_SILENT,Runic Pyramid,Picked,1,57,2
-629f4e75-b22c-4588-b246-30cc3650075b,THE_SILENT,Ectoplasm,Skipped,1,57,1
-629f4e75-b22c-4588-b246-30cc3650075b,THE_SILENT,Black Star,Skipped,1,57,1
-629f4e75-b22c-4588-b246-30cc3650075b,THE_SILENT,Pandora's Box,Picked,1,57,1
-629f4e75-b22c-4588-b246-30cc3650075b,THE_SILENT,Busted Crown,Skipped,1,57,2
-629f4e75-b22c-4588-b246-30cc3650075b,THE_SILENT,Tiny House,Skipped,1,57,2
-629f4e75-b22c-4588-b246-30cc3650075b,THE_SILENT,Sozu,Picked,1,57,2
-a5f96644-770a-4dca-bcfe-b6ad5b88b482,DEFECT,Ectoplasm,Skipped,0,24,1
-a5f96644-770a-4dca-bcfe-b6ad5b88b482,DEFECT,Fusion Hammer,Skipped,0,24,1
-a5f96644-770a-4dca-bcfe-b6ad5b88b482,DEFECT,Astrolabe,Picked,0,24,1
-c01ea4c9-9d23-4647-a08c-e81c22a55432,DEFECT,FrozenCore,Skipped,1,57,1
-c01ea4c9-9d23-4647-a08c-e81c22a55432,DEFECT,Black Star,Skipped,1,57,1
-c01ea4c9-9d23-4647-a08c-e81c22a55432,DEFECT,Runic Dome,Picked,1,57,1
-c01ea4c9-9d23-4647-a08c-e81c22a55432,DEFECT,SlaversCollar,Skipped,1,57,2
-c01ea4c9-9d23-4647-a08c-e81c22a55432,DEFECT,Fusion Hammer,Skipped,1,57,2
-c01ea4c9-9d23-4647-a08c-e81c22a55432,DEFECT,Pandora's Box,Picked,1,57,2
-98ac8d7d-5572-4a0f-8f1f-4ca37776367f,DEFECT,SlaversCollar,Skipped,1,57,1
-98ac8d7d-5572-4a0f-8f1f-4ca37776367f,DEFECT,Fusion Hammer,Skipped,1,57,1
-98ac8d7d-5572-4a0f-8f1f-4ca37776367f,DEFECT,Nuclear Battery,Picked,1,57,1
-98ac8d7d-5572-4a0f-8f1f-4ca37776367f,DEFECT,Runic Pyramid,Skipped,1,57,2
-98ac8d7d-5572-4a0f-8f1f-4ca37776367f,DEFECT,Empty Cage,Skipped,1,57,2
-98ac8d7d-5572-4a0f-8f1f-4ca37776367f,DEFECT,Philosopher's Stone,Picked,1,57,2
-83b1113b-baef-44b1-86d8-f57bd1389f8b,DEFECT,Ectoplasm,Skipped,1,57,1
-83b1113b-baef-44b1-86d8-f57bd1389f8b,DEFECT,Inserter,Skipped,1,57,1
-83b1113b-baef-44b1-86d8-f57bd1389f8b,DEFECT,Coffee Dripper,Picked,1,57,1
-83b1113b-baef-44b1-86d8-f57bd1389f8b,DEFECT,Pandora's Box,Skipped,1,57,2
-83b1113b-baef-44b1-86d8-f57bd1389f8b,DEFECT,SacredBark,Skipped,1,57,2
-83b1113b-baef-44b1-86d8-f57bd1389f8b,DEFECT,Runic Dome,Picked,1,57,2
-0fc88d87-08ac-4167-ac56-c284bf1d3837,DEFECT,Calling Bell,Skipped,1,57,1
-0fc88d87-08ac-4167-ac56-c284bf1d3837,DEFECT,Tiny House,Skipped,1,57,1
-0fc88d87-08ac-4167-ac56-c284bf1d3837,DEFECT,Coffee Dripper,Picked,1,57,1
-0fc88d87-08ac-4167-ac56-c284bf1d3837,DEFECT,Fusion Hammer,Skipped,1,57,2
-0fc88d87-08ac-4167-ac56-c284bf1d3837,DEFECT,SacredBark,Skipped,1,57,2
-0fc88d87-08ac-4167-ac56-c284bf1d3837,DEFECT,Nuclear Battery,Picked,1,57,2
-3dd2c068-e359-4de5-b87f-dd5d42a15a93,DEFECT,Pandora's Box,Skipped,1,57,1
-3dd2c068-e359-4de5-b87f-dd5d42a15a93,DEFECT,Inserter,Skipped,1,57,1
-3dd2c068-e359-4de5-b87f-dd5d42a15a93,DEFECT,Black Star,Picked,1,57,1
-3dd2c068-e359-4de5-b87f-dd5d42a15a93,DEFECT,Tiny House,Skipped,1,57,2
-3dd2c068-e359-4de5-b87f-dd5d42a15a93,DEFECT,Calling Bell,Skipped,1,57,2
-3dd2c068-e359-4de5-b87f-dd5d42a15a93,DEFECT,Cursed Key,Picked,1,57,2
-460e3f5c-fb44-46ea-9b5c-a509aec9334c,DEFECT,Astrolabe,Skipped,0,51,1
-460e3f5c-fb44-46ea-9b5c-a509aec9334c,DEFECT,Black Star,Skipped,0,51,1
-460e3f5c-fb44-46ea-9b5c-a509aec9334c,DEFECT,Runic Dome,Picked,0,51,1
-460e3f5c-fb44-46ea-9b5c-a509aec9334c,DEFECT,Velvet Choker,Skipped,0,51,2
-460e3f5c-fb44-46ea-9b5c-a509aec9334c,DEFECT,Sozu,Skipped,0,51,2
-460e3f5c-fb44-46ea-9b5c-a509aec9334c,DEFECT,Fusion Hammer,Picked,0,51,2
-82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,DEFECT,Velvet Choker,Skipped,0,44,1
-82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,DEFECT,SacredBark,Skipped,0,44,1
-82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,DEFECT,Calling Bell,Picked,0,44,1
-82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,DEFECT,Inserter,Skipped,0,44,2
-82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,DEFECT,Runic Dome,Skipped,0,44,2
-82f9a5f8-4c6c-4f43-b02e-3a8896604b8f,DEFECT,Coffee Dripper,Picked,0,44,2
-8b2d5da0-3923-4e6a-b13d-77b3e01dba57,DEFECT,Ectoplasm,Skipped,1,57,1
-8b2d5da0-3923-4e6a-b13d-77b3e01dba57,DEFECT,Inserter,Skipped,1,57,1
-8b2d5da0-3923-4e6a-b13d-77b3e01dba57,DEFECT,Pandora's Box,Picked,1,57,1
-8b2d5da0-3923-4e6a-b13d-77b3e01dba57,DEFECT,SacredBark,Skipped,1,57,2
-8b2d5da0-3923-4e6a-b13d-77b3e01dba57,DEFECT,Fusion Hammer,Skipped,1,57,2
-8b2d5da0-3923-4e6a-b13d-77b3e01dba57,DEFECT,Nuclear Battery,Picked,1,57,2
-e14018c5-838d-431c-b1a4-6d0b7dae2f06,DEFECT,Velvet Choker,Skipped,0,33,1
-e14018c5-838d-431c-b1a4-6d0b7dae2f06,DEFECT,Philosopher's Stone,Skipped,0,33,1
-e14018c5-838d-431c-b1a4-6d0b7dae2f06,DEFECT,Runic Dome,Picked,0,33,1
-93fd92d8-3e88-440d-bd4c-2dab1e0943b4,DEFECT,Ectoplasm,Skipped,0,56,1
-93fd92d8-3e88-440d-bd4c-2dab1e0943b4,DEFECT,Astrolabe,Skipped,0,56,1
-93fd92d8-3e88-440d-bd4c-2dab1e0943b4,DEFECT,Fusion Hammer,Picked,0,56,1
-93fd92d8-3e88-440d-bd4c-2dab1e0943b4,DEFECT,Velvet Choker,Skipped,0,56,2
-93fd92d8-3e88-440d-bd4c-2dab1e0943b4,DEFECT,SacredBark,Skipped,0,56,2
-93fd92d8-3e88-440d-bd4c-2dab1e0943b4,DEFECT,Runic Dome,Picked,0,56,2
-2fe6d411-dcc0-448e-99c3-e48a0f63a29e,DEFECT,Tiny House,Skipped,1,57,1
-2fe6d411-dcc0-448e-99c3-e48a0f63a29e,DEFECT,Philosopher's Stone,Skipped,1,57,1
-2fe6d411-dcc0-448e-99c3-e48a0f63a29e,DEFECT,Calling Bell,Picked,1,57,1
-2fe6d411-dcc0-448e-99c3-e48a0f63a29e,DEFECT,Fusion Hammer,Skipped,1,57,2
-2fe6d411-dcc0-448e-99c3-e48a0f63a29e,DEFECT,Cursed Key,Skipped,1,57,2
-2fe6d411-dcc0-448e-99c3-e48a0f63a29e,DEFECT,Runic Dome,Picked,1,57,2
-bd810493-7bc5-470e-8692-b6bbe8299672,DEFECT,Coffee Dripper,Skipped,1,57,1
-bd810493-7bc5-470e-8692-b6bbe8299672,DEFECT,Astrolabe,Skipped,1,57,1
-bd810493-7bc5-470e-8692-b6bbe8299672,DEFECT,Nuclear Battery,Picked,1,57,1
-bd810493-7bc5-470e-8692-b6bbe8299672,DEFECT,Runic Dome,Skipped,1,57,2
-bd810493-7bc5-470e-8692-b6bbe8299672,DEFECT,Velvet Choker,Skipped,1,57,2
-bd810493-7bc5-470e-8692-b6bbe8299672,DEFECT,Runic Pyramid,Picked,1,57,2
-9445c3db-ec89-4106-a3c5-df71eb947594,DEFECT,Tiny House,Skipped,0,44,1
-9445c3db-ec89-4106-a3c5-df71eb947594,DEFECT,Fusion Hammer,Skipped,0,44,1
-9445c3db-ec89-4106-a3c5-df71eb947594,DEFECT,Runic Dome,Picked,0,44,1
-9445c3db-ec89-4106-a3c5-df71eb947594,DEFECT,FrozenCore,Skipped,0,44,2
-9445c3db-ec89-4106-a3c5-df71eb947594,DEFECT,Calling Bell,Skipped,0,44,2
-9445c3db-ec89-4106-a3c5-df71eb947594,DEFECT,Pandora's Box,Picked,0,44,2
-e93ef19d-db53-4a99-93c3-9d936cd5cb17,WATCHER,Philosopher's Stone,Skipped,1,57,1
-e93ef19d-db53-4a99-93c3-9d936cd5cb17,WATCHER,Busted Crown,Skipped,1,57,1
-e93ef19d-db53-4a99-93c3-9d936cd5cb17,WATCHER,Empty Cage,Picked,1,57,1
-e93ef19d-db53-4a99-93c3-9d936cd5cb17,WATCHER,Fusion Hammer,Skipped,1,57,2
-e93ef19d-db53-4a99-93c3-9d936cd5cb17,WATCHER,Tiny House,Skipped,1,57,2
-e93ef19d-db53-4a99-93c3-9d936cd5cb17,WATCHER,Runic Pyramid,Picked,1,57,2
-fb65dde5-66e6-417d-b9c8-cd88a422bc13,WATCHER,Calling Bell,Skipped,0,30,1
-fb65dde5-66e6-417d-b9c8-cd88a422bc13,WATCHER,SlaversCollar,Skipped,0,30,1
-fb65dde5-66e6-417d-b9c8-cd88a422bc13,WATCHER,Runic Dome,Picked,0,30,1
-84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,WATCHER,Pandora's Box,Skipped,1,57,1
-84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,WATCHER,Empty Cage,Skipped,1,57,1
-84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,WATCHER,Runic Pyramid,Picked,1,57,1
-84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,WATCHER,Busted Crown,Skipped,1,57,2
-84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,WATCHER,Calling Bell,Skipped,1,57,2
-84a2f28c-75c7-41e3-a3d5-002bfbd93f6d,WATCHER,Cursed Key,Picked,1,57,2
-4008fe5c-012e-4ce7-a627-74b1dfeb6058,WATCHER,SlaversCollar,Skipped,1,57,1
-4008fe5c-012e-4ce7-a627-74b1dfeb6058,WATCHER,Tiny House,Skipped,1,57,1
-4008fe5c-012e-4ce7-a627-74b1dfeb6058,WATCHER,Runic Pyramid,Picked,1,57,1
-4008fe5c-012e-4ce7-a627-74b1dfeb6058,WATCHER,Sozu,Skipped,1,57,2
-4008fe5c-012e-4ce7-a627-74b1dfeb6058,WATCHER,Fusion Hammer,Skipped,1,57,2
-4008fe5c-012e-4ce7-a627-74b1dfeb6058,WATCHER,VioletLotus,Picked,1,57,2
-02b2752d-11a3-4696-8d3d-2791ef325342,WATCHER,Ectoplasm,Skipped,1,57,1
-02b2752d-11a3-4696-8d3d-2791ef325342,WATCHER,Busted Crown,Skipped,1,57,1
-02b2752d-11a3-4696-8d3d-2791ef325342,WATCHER,VioletLotus,Picked,1,57,1
-02b2752d-11a3-4696-8d3d-2791ef325342,WATCHER,Snecko Eye,Skipped,1,57,2
-02b2752d-11a3-4696-8d3d-2791ef325342,WATCHER,Calling Bell,Skipped,1,57,2
-02b2752d-11a3-4696-8d3d-2791ef325342,WATCHER,SlaversCollar,Picked,1,57,2
-d66b5a40-3f03-4736-80d3-e0b4dcd69a54,WATCHER,SacredBark,Skipped,1,57,1
-d66b5a40-3f03-4736-80d3-e0b4dcd69a54,WATCHER,Tiny House,Skipped,1,57,1
-d66b5a40-3f03-4736-80d3-e0b4dcd69a54,WATCHER,Astrolabe,Picked,1,57,1
-d66b5a40-3f03-4736-80d3-e0b4dcd69a54,WATCHER,Black Star,Skipped,1,57,2
-d66b5a40-3f03-4736-80d3-e0b4dcd69a54,WATCHER,HolyWater,Skipped,1,57,2
-d66b5a40-3f03-4736-80d3-e0b4dcd69a54,WATCHER,Cursed Key,Picked,1,57,2
-8e679b4d-2344-493d-948e-7db9fca739d6,WATCHER,Pandora's Box,Skipped,0,56,1
-8e679b4d-2344-493d-948e-7db9fca739d6,WATCHER,Snecko Eye,Skipped,0,56,1
-8e679b4d-2344-493d-948e-7db9fca739d6,WATCHER,Fusion Hammer,Picked,0,56,1
-8e679b4d-2344-493d-948e-7db9fca739d6,WATCHER,Velvet Choker,Skipped,0,56,2
-8e679b4d-2344-493d-948e-7db9fca739d6,WATCHER,Busted Crown,Skipped,0,56,2
-8e679b4d-2344-493d-948e-7db9fca739d6,WATCHER,Astrolabe,Picked,0,56,2
-88dd194f-13be-44bd-8337-b2ebc7c6e554,WATCHER,Empty Cage,Skipped,1,57,1
-88dd194f-13be-44bd-8337-b2ebc7c6e554,WATCHER,Tiny House,Skipped,1,57,1
-88dd194f-13be-44bd-8337-b2ebc7c6e554,WATCHER,Astrolabe,Picked,1,57,1
-88dd194f-13be-44bd-8337-b2ebc7c6e554,WATCHER,Snecko Eye,Skipped,1,57,2
-88dd194f-13be-44bd-8337-b2ebc7c6e554,WATCHER,Fusion Hammer,Skipped,1,57,2
-88dd194f-13be-44bd-8337-b2ebc7c6e554,WATCHER,Coffee Dripper,Picked,1,57,2
-987954ff-0d4d-472d-809a-6beb43ae15f6,WATCHER,Snecko Eye,Skipped,0,56,1
-987954ff-0d4d-472d-809a-6beb43ae15f6,WATCHER,Sozu,Skipped,0,56,1
-987954ff-0d4d-472d-809a-6beb43ae15f6,WATCHER,SacredBark,Picked,0,56,1
-987954ff-0d4d-472d-809a-6beb43ae15f6,WATCHER,Cursed Key,Skipped,0,56,2
-987954ff-0d4d-472d-809a-6beb43ae15f6,WATCHER,HolyWater,Skipped,0,56,2
-987954ff-0d4d-472d-809a-6beb43ae15f6,WATCHER,SlaversCollar,Picked,0,56,2
-0c89e69c-e51f-4c56-9a8e-a24280ccb522,WATCHER,Velvet Choker,Skipped,1,57,1
-0c89e69c-e51f-4c56-9a8e-a24280ccb522,WATCHER,Tiny House,Skipped,1,57,1
-0c89e69c-e51f-4c56-9a8e-a24280ccb522,WATCHER,Black Star,Picked,1,57,1
-0c89e69c-e51f-4c56-9a8e-a24280ccb522,WATCHER,Snecko Eye,Skipped,1,57,2
-0c89e69c-e51f-4c56-9a8e-a24280ccb522,WATCHER,Runic Dome,Skipped,1,57,2
-0c89e69c-e51f-4c56-9a8e-a24280ccb522,WATCHER,Empty Cage,Picked,1,57,2
-d46bc2f6-e36a-4da2-beb7-f6236c94fac8,WATCHER,Fusion Hammer,Skipped,1,57,1
-d46bc2f6-e36a-4da2-beb7-f6236c94fac8,WATCHER,SlaversCollar,Skipped,1,57,1
-d46bc2f6-e36a-4da2-beb7-f6236c94fac8,WATCHER,Runic Pyramid,Picked,1,57,1
-d46bc2f6-e36a-4da2-beb7-f6236c94fac8,WATCHER,Busted Crown,Skipped,1,57,2
-d46bc2f6-e36a-4da2-beb7-f6236c94fac8,WATCHER,SacredBark,Skipped,1,57,2
-d46bc2f6-e36a-4da2-beb7-f6236c94fac8,WATCHER,VioletLotus,Picked,1,57,2
-a24d4e5d-1483-4402-96f0-bf0d51ceeb87,WATCHER,Cursed Key,Skipped,1,57,1
-a24d4e5d-1483-4402-96f0-bf0d51ceeb87,WATCHER,HolyWater,Skipped,1,57,1
-a24d4e5d-1483-4402-96f0-bf0d51ceeb87,WATCHER,VioletLotus,Picked,1,57,1
-a24d4e5d-1483-4402-96f0-bf0d51ceeb87,WATCHER,Philosopher's Stone,Skipped,1,57,2
-a24d4e5d-1483-4402-96f0-bf0d51ceeb87,WATCHER,Runic Dome,Skipped,1,57,2
-a24d4e5d-1483-4402-96f0-bf0d51ceeb87,WATCHER,SacredBark,Picked,1,57,2
-0f018942-fd29-4052-8572-940cbc3501fe,WATCHER,Sozu,Skipped,1,57,1
-0f018942-fd29-4052-8572-940cbc3501fe,WATCHER,Runic Dome,Skipped,1,57,1
-0f018942-fd29-4052-8572-940cbc3501fe,WATCHER,Astrolabe,Picked,1,57,1
-0f018942-fd29-4052-8572-940cbc3501fe,WATCHER,Tiny House,Skipped,1,57,2
-0f018942-fd29-4052-8572-940cbc3501fe,WATCHER,SacredBark,Skipped,1,57,2
-0f018942-fd29-4052-8572-940cbc3501fe,WATCHER,Empty Cage,Picked,1,57,2
-bac7690a-2d36-437b-9d2b-72e4efd0f8cf,WATCHER,Philosopher's Stone,Skipped,0,50,1
-bac7690a-2d36-437b-9d2b-72e4efd0f8cf,WATCHER,SlaversCollar,Skipped,0,50,1
-bac7690a-2d36-437b-9d2b-72e4efd0f8cf,WATCHER,Astrolabe,Picked,0,50,1
-bac7690a-2d36-437b-9d2b-72e4efd0f8cf,WATCHER,Fusion Hammer,Skipped,0,50,2
-bac7690a-2d36-437b-9d2b-72e4efd0f8cf,WATCHER,Runic Dome,Skipped,0,50,2
-bac7690a-2d36-437b-9d2b-72e4efd0f8cf,WATCHER,Coffee Dripper,Picked,0,50,2
+932ad893-58b6-46d9-8c77-3b05cb71b3cd,IRONCLAD,Mark of Pain,Skipped,1,57,1
+932ad893-58b6-46d9-8c77-3b05cb71b3cd,IRONCLAD,Black Star,Skipped,1,57,1
+932ad893-58b6-46d9-8c77-3b05cb71b3cd,IRONCLAD,Philosopher's Stone,Picked,1,57,1
+932ad893-58b6-46d9-8c77-3b05cb71b3cd,IRONCLAD,Pandora's Box,Skipped,1,57,2
+932ad893-58b6-46d9-8c77-3b05cb71b3cd,IRONCLAD,Empty Cage,Skipped,1,57,2
+932ad893-58b6-46d9-8c77-3b05cb71b3cd,IRONCLAD,Astrolabe,Picked,1,57,2
+552571f4-a742-4e79-8f1a-94bff813f3af,IRONCLAD,Busted Crown,Skipped,1,57,1
+552571f4-a742-4e79-8f1a-94bff813f3af,IRONCLAD,Ectoplasm,Skipped,1,57,1
+552571f4-a742-4e79-8f1a-94bff813f3af,IRONCLAD,Calling Bell,Picked,1,57,1
+552571f4-a742-4e79-8f1a-94bff813f3af,IRONCLAD,Velvet Choker,Skipped,1,57,2
+552571f4-a742-4e79-8f1a-94bff813f3af,IRONCLAD,SacredBark,Skipped,1,57,2
+552571f4-a742-4e79-8f1a-94bff813f3af,IRONCLAD,Astrolabe,Picked,1,57,2
+0e99c963-845f-4c3a-b8d8-4732c0ef8484,IRONCLAD,SacredBark,Skipped,1,57,1
+0e99c963-845f-4c3a-b8d8-4732c0ef8484,IRONCLAD,Empty Cage,Skipped,1,57,1
+0e99c963-845f-4c3a-b8d8-4732c0ef8484,IRONCLAD,Snecko Eye,Picked,1,57,1
+0e99c963-845f-4c3a-b8d8-4732c0ef8484,IRONCLAD,Sozu,Skipped,1,57,2
+0e99c963-845f-4c3a-b8d8-4732c0ef8484,IRONCLAD,Runic Cube,Skipped,1,57,2
+0e99c963-845f-4c3a-b8d8-4732c0ef8484,IRONCLAD,Runic Dome,Picked,1,57,2
+871692ed-1dc1-4566-b06d-515d565fc843,IRONCLAD,Astrolabe,Skipped,1,57,1
+871692ed-1dc1-4566-b06d-515d565fc843,IRONCLAD,SlaversCollar,Skipped,1,57,1
+871692ed-1dc1-4566-b06d-515d565fc843,IRONCLAD,Philosopher's Stone,Picked,1,57,1
+871692ed-1dc1-4566-b06d-515d565fc843,IRONCLAD,SacredBark,Skipped,1,57,2
+871692ed-1dc1-4566-b06d-515d565fc843,IRONCLAD,Calling Bell,Skipped,1,57,2
+871692ed-1dc1-4566-b06d-515d565fc843,IRONCLAD,Runic Pyramid,Picked,1,57,2
+90c31d4c-0648-4e2d-80cc-2a74ade22fab,IRONCLAD,Black Blood,Skipped,0,24,1
+90c31d4c-0648-4e2d-80cc-2a74ade22fab,IRONCLAD,Mark of Pain,Skipped,0,24,1
+90c31d4c-0648-4e2d-80cc-2a74ade22fab,IRONCLAD,SlaversCollar,Picked,0,24,1
+50d09535-c1d6-4345-a387-ba55b2c445ec,IRONCLAD,Calling Bell,Skipped,0,42,1
+50d09535-c1d6-4345-a387-ba55b2c445ec,IRONCLAD,Ectoplasm,Skipped,0,42,1
+50d09535-c1d6-4345-a387-ba55b2c445ec,IRONCLAD,Black Blood,Picked,0,42,1
+50d09535-c1d6-4345-a387-ba55b2c445ec,IRONCLAD,Philosopher's Stone,Skipped,0,42,2
+50d09535-c1d6-4345-a387-ba55b2c445ec,IRONCLAD,SlaversCollar,Skipped,0,42,2
+50d09535-c1d6-4345-a387-ba55b2c445ec,IRONCLAD,Runic Dome,Picked,0,42,2
+347fc094-4914-4c0b-8f37-3d4e013997aa,IRONCLAD,Empty Cage,Skipped,0,56,1
+347fc094-4914-4c0b-8f37-3d4e013997aa,IRONCLAD,Ectoplasm,Skipped,0,56,1
+347fc094-4914-4c0b-8f37-3d4e013997aa,IRONCLAD,Velvet Choker,Picked,0,56,1
+347fc094-4914-4c0b-8f37-3d4e013997aa,IRONCLAD,Pandora's Box,Skipped,0,56,2
+347fc094-4914-4c0b-8f37-3d4e013997aa,IRONCLAD,Black Star,Skipped,0,56,2
+347fc094-4914-4c0b-8f37-3d4e013997aa,IRONCLAD,Fusion Hammer,Picked,0,56,2
+87568b73-a56a-498f-b248-839a79a85e1c,IRONCLAD,Velvet Choker,Skipped,1,57,1
+87568b73-a56a-498f-b248-839a79a85e1c,IRONCLAD,Philosopher's Stone,Skipped,1,57,1
+87568b73-a56a-498f-b248-839a79a85e1c,IRONCLAD,Runic Dome,Picked,1,57,1
+87568b73-a56a-498f-b248-839a79a85e1c,IRONCLAD,Calling Bell,Skipped,1,57,2
+87568b73-a56a-498f-b248-839a79a85e1c,IRONCLAD,Tiny House,Skipped,1,57,2
+87568b73-a56a-498f-b248-839a79a85e1c,IRONCLAD,Coffee Dripper,Picked,1,57,2
+3d107bb1-40ef-4175-990a-437476e73421,IRONCLAD,Velvet Choker,Skipped,0,27,1
+3d107bb1-40ef-4175-990a-437476e73421,IRONCLAD,Snecko Eye,Skipped,0,27,1
+3d107bb1-40ef-4175-990a-437476e73421,IRONCLAD,Coffee Dripper,Picked,0,27,1
+4a2e745d-fefe-4131-8893-56e994760056,IRONCLAD,Sozu,Skipped,1,57,1
+4a2e745d-fefe-4131-8893-56e994760056,IRONCLAD,Runic Cube,Skipped,1,57,1
+4a2e745d-fefe-4131-8893-56e994760056,IRONCLAD,SlaversCollar,Picked,1,57,1
+4a2e745d-fefe-4131-8893-56e994760056,IRONCLAD,Calling Bell,Skipped,1,57,2
+4a2e745d-fefe-4131-8893-56e994760056,IRONCLAD,Empty Cage,Skipped,1,57,2
+4a2e745d-fefe-4131-8893-56e994760056,IRONCLAD,Busted Crown,Picked,1,57,2
+79b2f366-9151-46cb-b1ea-c927541db0df,IRONCLAD,SlaversCollar,Skipped,1,57,1
+79b2f366-9151-46cb-b1ea-c927541db0df,IRONCLAD,SacredBark,Skipped,1,57,1
+79b2f366-9151-46cb-b1ea-c927541db0df,IRONCLAD,Pandora's Box,Picked,1,57,1
+79b2f366-9151-46cb-b1ea-c927541db0df,IRONCLAD,Coffee Dripper,Skipped,1,57,2
+79b2f366-9151-46cb-b1ea-c927541db0df,IRONCLAD,Runic Pyramid,Skipped,1,57,2
+79b2f366-9151-46cb-b1ea-c927541db0df,IRONCLAD,Cursed Key,Picked,1,57,2
+86b5c7f2-38d3-43aa-81c6-25f83ad56115,IRONCLAD,SacredBark,Skipped,1,57,1
+86b5c7f2-38d3-43aa-81c6-25f83ad56115,IRONCLAD,Busted Crown,Skipped,1,57,1
+86b5c7f2-38d3-43aa-81c6-25f83ad56115,IRONCLAD,Ectoplasm,Picked,1,57,1
+86b5c7f2-38d3-43aa-81c6-25f83ad56115,IRONCLAD,Black Star,Skipped,1,57,2
+86b5c7f2-38d3-43aa-81c6-25f83ad56115,IRONCLAD,Tiny House,Skipped,1,57,2
+86b5c7f2-38d3-43aa-81c6-25f83ad56115,IRONCLAD,Coffee Dripper,Picked,1,57,2
+3486ec09-257d-42d7-b676-10c59f5e05f1,IRONCLAD,Runic Cube,Skipped,1,57,1
+3486ec09-257d-42d7-b676-10c59f5e05f1,IRONCLAD,SacredBark,Skipped,1,57,1
+3486ec09-257d-42d7-b676-10c59f5e05f1,IRONCLAD,Astrolabe,Picked,1,57,1
+3486ec09-257d-42d7-b676-10c59f5e05f1,IRONCLAD,SlaversCollar,Skipped,1,57,2
+3486ec09-257d-42d7-b676-10c59f5e05f1,IRONCLAD,Sozu,Skipped,1,57,2
+3486ec09-257d-42d7-b676-10c59f5e05f1,IRONCLAD,Fusion Hammer,Picked,1,57,2
+49b7440f-db4c-4667-ae05-8db46ee82422,IRONCLAD,SlaversCollar,Skipped,0,23,1
+49b7440f-db4c-4667-ae05-8db46ee82422,IRONCLAD,Calling Bell,Skipped,0,23,1
+49b7440f-db4c-4667-ae05-8db46ee82422,IRONCLAD,Cursed Key,Picked,0,23,1
+d53e443c-16e6-4165-ad8f-d55021c238f9,IRONCLAD,Black Star,Skipped,1,57,1
+d53e443c-16e6-4165-ad8f-d55021c238f9,IRONCLAD,Ectoplasm,Skipped,1,57,1
+d53e443c-16e6-4165-ad8f-d55021c238f9,IRONCLAD,Pandora's Box,Picked,1,57,1
+d53e443c-16e6-4165-ad8f-d55021c238f9,IRONCLAD,Snecko Eye,Skipped,1,57,2
+d53e443c-16e6-4165-ad8f-d55021c238f9,IRONCLAD,Tiny House,Skipped,1,57,2
+d53e443c-16e6-4165-ad8f-d55021c238f9,IRONCLAD,Runic Pyramid,Picked,1,57,2
+90dcded9-bb9b-49b0-8c41-49a5cc77fc89,IRONCLAD,Sozu,Skipped,1,57,1
+90dcded9-bb9b-49b0-8c41-49a5cc77fc89,IRONCLAD,Astrolabe,Skipped,1,57,1
+90dcded9-bb9b-49b0-8c41-49a5cc77fc89,IRONCLAD,Coffee Dripper,Picked,1,57,1
+90dcded9-bb9b-49b0-8c41-49a5cc77fc89,IRONCLAD,SacredBark,Skipped,1,57,2
+90dcded9-bb9b-49b0-8c41-49a5cc77fc89,IRONCLAD,Runic Cube,Skipped,1,57,2
+90dcded9-bb9b-49b0-8c41-49a5cc77fc89,IRONCLAD,Black Blood,Picked,1,57,2
+5ec400cb-c905-43da-befa-cc8e36846658,IRONCLAD,Sozu,Skipped,1,57,1
+5ec400cb-c905-43da-befa-cc8e36846658,IRONCLAD,Ectoplasm,Skipped,1,57,1
+5ec400cb-c905-43da-befa-cc8e36846658,IRONCLAD,Mark of Pain,Picked,1,57,1
+5ec400cb-c905-43da-befa-cc8e36846658,IRONCLAD,Runic Pyramid,Skipped,1,57,2
+5ec400cb-c905-43da-befa-cc8e36846658,IRONCLAD,Busted Crown,Skipped,1,57,2
+5ec400cb-c905-43da-befa-cc8e36846658,IRONCLAD,SlaversCollar,Picked,1,57,2
+ee6854a3-e0e6-41de-bee1-d6baf422d0bc,IRONCLAD,SacredBark,Skipped,0,50,1
+ee6854a3-e0e6-41de-bee1-d6baf422d0bc,IRONCLAD,Tiny House,Skipped,0,50,1
+ee6854a3-e0e6-41de-bee1-d6baf422d0bc,IRONCLAD,Black Blood,Picked,0,50,1
+ee6854a3-e0e6-41de-bee1-d6baf422d0bc,IRONCLAD,Mark of Pain,Skipped,0,50,2
+ee6854a3-e0e6-41de-bee1-d6baf422d0bc,IRONCLAD,Philosopher's Stone,Skipped,0,50,2
+ee6854a3-e0e6-41de-bee1-d6baf422d0bc,IRONCLAD,Empty Cage,Picked,0,50,2
+9f504e6a-0210-451e-ab67-ffbc6f74d5d2,IRONCLAD,Runic Cube,Skipped,1,57,1
+9f504e6a-0210-451e-ab67-ffbc6f74d5d2,IRONCLAD,Runic Dome,Skipped,1,57,1
+9f504e6a-0210-451e-ab67-ffbc6f74d5d2,IRONCLAD,Runic Pyramid,Picked,1,57,1
+9f504e6a-0210-451e-ab67-ffbc6f74d5d2,IRONCLAD,Black Blood,Skipped,1,57,2
+9f504e6a-0210-451e-ab67-ffbc6f74d5d2,IRONCLAD,Tiny House,Skipped,1,57,2
+9f504e6a-0210-451e-ab67-ffbc6f74d5d2,IRONCLAD,Pandora's Box,Picked,1,57,2
+564fb9d1-1f7e-4f67-bff6-74578d9f138b,IRONCLAD,Ectoplasm,Skipped,1,57,1
+564fb9d1-1f7e-4f67-bff6-74578d9f138b,IRONCLAD,Velvet Choker,Skipped,1,57,1
+564fb9d1-1f7e-4f67-bff6-74578d9f138b,IRONCLAD,SlaversCollar,Picked,1,57,1
+564fb9d1-1f7e-4f67-bff6-74578d9f138b,IRONCLAD,Coffee Dripper,Skipped,1,57,2
+564fb9d1-1f7e-4f67-bff6-74578d9f138b,IRONCLAD,Black Star,Skipped,1,57,2
+564fb9d1-1f7e-4f67-bff6-74578d9f138b,IRONCLAD,Snecko Eye,Picked,1,57,2
+6a47cc19-f6fd-4f87-9b33-5b4ecec62bcc,IRONCLAD,Calling Bell,Skipped,1,57,1
+6a47cc19-f6fd-4f87-9b33-5b4ecec62bcc,IRONCLAD,Tiny House,Skipped,1,57,1
+6a47cc19-f6fd-4f87-9b33-5b4ecec62bcc,IRONCLAD,Fusion Hammer,Picked,1,57,1
+6a47cc19-f6fd-4f87-9b33-5b4ecec62bcc,IRONCLAD,Mark of Pain,Skipped,1,57,2
+6a47cc19-f6fd-4f87-9b33-5b4ecec62bcc,IRONCLAD,Runic Dome,Skipped,1,57,2
+6a47cc19-f6fd-4f87-9b33-5b4ecec62bcc,IRONCLAD,SacredBark,Picked,1,57,2
+ad3c5954-b4ce-410e-aa42-fe03dbc5d91d,IRONCLAD,SlaversCollar,Skipped,1,57,1
+ad3c5954-b4ce-410e-aa42-fe03dbc5d91d,IRONCLAD,Black Blood,Skipped,1,57,1
+ad3c5954-b4ce-410e-aa42-fe03dbc5d91d,IRONCLAD,Coffee Dripper,Picked,1,57,1
+ad3c5954-b4ce-410e-aa42-fe03dbc5d91d,IRONCLAD,Velvet Choker,Skipped,1,57,2
+ad3c5954-b4ce-410e-aa42-fe03dbc5d91d,IRONCLAD,Snecko Eye,Skipped,1,57,2
+ad3c5954-b4ce-410e-aa42-fe03dbc5d91d,IRONCLAD,Runic Pyramid,Picked,1,57,2
+0c82fae6-be26-4913-b1d7-1ed79c354250,IRONCLAD,Tiny House,Skipped,1,57,1
+0c82fae6-be26-4913-b1d7-1ed79c354250,IRONCLAD,Runic Dome,Skipped,1,57,1
+0c82fae6-be26-4913-b1d7-1ed79c354250,IRONCLAD,SacredBark,Picked,1,57,1
+0c82fae6-be26-4913-b1d7-1ed79c354250,IRONCLAD,Empty Cage,Skipped,1,57,2
+0c82fae6-be26-4913-b1d7-1ed79c354250,IRONCLAD,Fusion Hammer,Skipped,1,57,2
+0c82fae6-be26-4913-b1d7-1ed79c354250,IRONCLAD,Runic Pyramid,Picked,1,57,2
+76d138b6-c5d9-4881-b7b9-ccac91ae9fa5,IRONCLAD,Sozu,Skipped,1,57,1
+76d138b6-c5d9-4881-b7b9-ccac91ae9fa5,IRONCLAD,Runic Cube,Skipped,1,57,1
+76d138b6-c5d9-4881-b7b9-ccac91ae9fa5,IRONCLAD,Astrolabe,Picked,1,57,1
+76d138b6-c5d9-4881-b7b9-ccac91ae9fa5,IRONCLAD,Cursed Key,Skipped,1,57,2
+76d138b6-c5d9-4881-b7b9-ccac91ae9fa5,IRONCLAD,Mark of Pain,Skipped,1,57,2
+76d138b6-c5d9-4881-b7b9-ccac91ae9fa5,IRONCLAD,Fusion Hammer,Picked,1,57,2
+bc4b7dff-16ae-4db2-805d-3692b0de657f,IRONCLAD,Cursed Key,Skipped,1,57,1
+bc4b7dff-16ae-4db2-805d-3692b0de657f,IRONCLAD,Mark of Pain,Skipped,1,57,1
+bc4b7dff-16ae-4db2-805d-3692b0de657f,IRONCLAD,Runic Cube,Picked,1,57,1
+bc4b7dff-16ae-4db2-805d-3692b0de657f,IRONCLAD,Astrolabe,Skipped,1,57,2
+bc4b7dff-16ae-4db2-805d-3692b0de657f,IRONCLAD,Fusion Hammer,Skipped,1,57,2
+bc4b7dff-16ae-4db2-805d-3692b0de657f,IRONCLAD,Snecko Eye,Picked,1,57,2
+0120db50-1c60-48d4-9f12-945451f97f57,IRONCLAD,Black Star,Skipped,1,57,1
+0120db50-1c60-48d4-9f12-945451f97f57,IRONCLAD,Ectoplasm,Skipped,1,57,1
+0120db50-1c60-48d4-9f12-945451f97f57,IRONCLAD,Cursed Key,Picked,1,57,1
+0120db50-1c60-48d4-9f12-945451f97f57,IRONCLAD,SacredBark,Skipped,1,57,2
+0120db50-1c60-48d4-9f12-945451f97f57,IRONCLAD,Astrolabe,Skipped,1,57,2
+0120db50-1c60-48d4-9f12-945451f97f57,IRONCLAD,Sozu,Picked,1,57,2
+882bfb1d-0224-413a-8179-6704325200e9,IRONCLAD,SlaversCollar,Skipped,1,57,1
+882bfb1d-0224-413a-8179-6704325200e9,IRONCLAD,Velvet Choker,Skipped,1,57,1
+882bfb1d-0224-413a-8179-6704325200e9,IRONCLAD,Runic Cube,Picked,1,57,1
+882bfb1d-0224-413a-8179-6704325200e9,IRONCLAD,Tiny House,Skipped,1,57,2
+882bfb1d-0224-413a-8179-6704325200e9,IRONCLAD,Busted Crown,Skipped,1,57,2
+882bfb1d-0224-413a-8179-6704325200e9,IRONCLAD,Coffee Dripper,Picked,1,57,2
+1e7e2eae-7ff1-44cf-9ffb-df6cdd859403,IRONCLAD,Philosopher's Stone,Skipped,1,57,1
+1e7e2eae-7ff1-44cf-9ffb-df6cdd859403,IRONCLAD,Runic Cube,Skipped,1,57,1
+1e7e2eae-7ff1-44cf-9ffb-df6cdd859403,IRONCLAD,SacredBark,Picked,1,57,1
+1e7e2eae-7ff1-44cf-9ffb-df6cdd859403,IRONCLAD,Velvet Choker,Skipped,1,57,2
+1e7e2eae-7ff1-44cf-9ffb-df6cdd859403,IRONCLAD,Runic Dome,Skipped,1,57,2
+1e7e2eae-7ff1-44cf-9ffb-df6cdd859403,IRONCLAD,Cursed Key,Picked,1,57,2
+db5a6ed5-a58e-4261-8177-b26bc2f5e34f,IRONCLAD,Runic Cube,Skipped,0,22,1
+db5a6ed5-a58e-4261-8177-b26bc2f5e34f,IRONCLAD,Mark of Pain,Skipped,0,22,1
+db5a6ed5-a58e-4261-8177-b26bc2f5e34f,IRONCLAD,Runic Pyramid,Picked,0,22,1
+48783f1a-0880-47a0-958b-e8c94a7dcf2c,IRONCLAD,Tiny House,Skipped,0,33,1
+48783f1a-0880-47a0-958b-e8c94a7dcf2c,IRONCLAD,Mark of Pain,Skipped,0,33,1
+48783f1a-0880-47a0-958b-e8c94a7dcf2c,IRONCLAD,Cursed Key,Picked,0,33,1
+e58bf2fb-6cb1-4378-a3af-9b858ba7b5fd,IRONCLAD,SacredBark,Skipped,1,57,1
+e58bf2fb-6cb1-4378-a3af-9b858ba7b5fd,IRONCLAD,Calling Bell,Skipped,1,57,1
+e58bf2fb-6cb1-4378-a3af-9b858ba7b5fd,IRONCLAD,Snecko Eye,Picked,1,57,1
+e58bf2fb-6cb1-4378-a3af-9b858ba7b5fd,IRONCLAD,Tiny House,Skipped,1,57,2
+e58bf2fb-6cb1-4378-a3af-9b858ba7b5fd,IRONCLAD,Cursed Key,Skipped,1,57,2
+e58bf2fb-6cb1-4378-a3af-9b858ba7b5fd,IRONCLAD,Coffee Dripper,Picked,1,57,2
+9dca7add-5a47-4bbb-8479-443ffbb39ac5,IRONCLAD,Snecko Eye,Skipped,1,57,1
+9dca7add-5a47-4bbb-8479-443ffbb39ac5,IRONCLAD,Ectoplasm,Skipped,1,57,1
+9dca7add-5a47-4bbb-8479-443ffbb39ac5,IRONCLAD,Astrolabe,Picked,1,57,1
+9dca7add-5a47-4bbb-8479-443ffbb39ac5,IRONCLAD,SlaversCollar,Skipped,1,57,2
+9dca7add-5a47-4bbb-8479-443ffbb39ac5,IRONCLAD,Mark of Pain,Skipped,1,57,2
+9dca7add-5a47-4bbb-8479-443ffbb39ac5,IRONCLAD,Runic Pyramid,Picked,1,57,2
+9fc7c435-0bb5-41c2-8d3f-5d70b5ebd109,IRONCLAD,Mark of Pain,Skipped,1,57,1
+9fc7c435-0bb5-41c2-8d3f-5d70b5ebd109,IRONCLAD,Tiny House,Skipped,1,57,1
+9fc7c435-0bb5-41c2-8d3f-5d70b5ebd109,IRONCLAD,Astrolabe,Picked,1,57,1
+9fc7c435-0bb5-41c2-8d3f-5d70b5ebd109,IRONCLAD,Pandora's Box,Skipped,1,57,2
+9fc7c435-0bb5-41c2-8d3f-5d70b5ebd109,IRONCLAD,Runic Cube,Skipped,1,57,2
+9fc7c435-0bb5-41c2-8d3f-5d70b5ebd109,IRONCLAD,Cursed Key,Picked,1,57,2
+5e5117cc-fb91-4b32-a581-b6dc994fe2b2,IRONCLAD,Sozu,Skipped,1,57,1
+5e5117cc-fb91-4b32-a581-b6dc994fe2b2,IRONCLAD,Velvet Choker,Skipped,1,57,1
+5e5117cc-fb91-4b32-a581-b6dc994fe2b2,IRONCLAD,Pandora's Box,Picked,1,57,1
+5e5117cc-fb91-4b32-a581-b6dc994fe2b2,IRONCLAD,Astrolabe,Skipped,1,57,2
+5e5117cc-fb91-4b32-a581-b6dc994fe2b2,IRONCLAD,Runic Cube,Skipped,1,57,2
+5e5117cc-fb91-4b32-a581-b6dc994fe2b2,IRONCLAD,Cursed Key,Picked,1,57,2
+d480078c-2a03-4d28-a9c3-66d399ab26f1,IRONCLAD,Fusion Hammer,Skipped,1,57,1
+d480078c-2a03-4d28-a9c3-66d399ab26f1,IRONCLAD,Runic Cube,Skipped,1,57,1
+d480078c-2a03-4d28-a9c3-66d399ab26f1,IRONCLAD,Runic Pyramid,Picked,1,57,1
+d480078c-2a03-4d28-a9c3-66d399ab26f1,IRONCLAD,Black Star,Skipped,1,57,2
+d480078c-2a03-4d28-a9c3-66d399ab26f1,IRONCLAD,Calling Bell,Skipped,1,57,2
+d480078c-2a03-4d28-a9c3-66d399ab26f1,IRONCLAD,Mark of Pain,Picked,1,57,2
+a9e65a11-5f80-4b6c-b7f7-ad34a420b3ad,IRONCLAD,Sozu,Skipped,1,57,1
+a9e65a11-5f80-4b6c-b7f7-ad34a420b3ad,IRONCLAD,Astrolabe,Skipped,1,57,1
+a9e65a11-5f80-4b6c-b7f7-ad34a420b3ad,IRONCLAD,Snecko Eye,Picked,1,57,1
+a9e65a11-5f80-4b6c-b7f7-ad34a420b3ad,IRONCLAD,SacredBark,Skipped,1,57,2
+a9e65a11-5f80-4b6c-b7f7-ad34a420b3ad,IRONCLAD,Tiny House,Skipped,1,57,2
+a9e65a11-5f80-4b6c-b7f7-ad34a420b3ad,IRONCLAD,Philosopher's Stone,Picked,1,57,2
+e876e4d6-9fd0-414a-bd10-c46d3d267f0e,IRONCLAD,Astrolabe,Skipped,1,57,1
+e876e4d6-9fd0-414a-bd10-c46d3d267f0e,IRONCLAD,Ectoplasm,Skipped,1,57,1
+e876e4d6-9fd0-414a-bd10-c46d3d267f0e,IRONCLAD,Coffee Dripper,Picked,1,57,1
+e876e4d6-9fd0-414a-bd10-c46d3d267f0e,IRONCLAD,SacredBark,Skipped,1,57,2
+e876e4d6-9fd0-414a-bd10-c46d3d267f0e,IRONCLAD,Velvet Choker,Skipped,1,57,2
+e876e4d6-9fd0-414a-bd10-c46d3d267f0e,IRONCLAD,Runic Cube,Picked,1,57,2
+58753164-010e-44b6-8a77-29c1141e4c1d,IRONCLAD,Black Star,Skipped,1,57,1
+58753164-010e-44b6-8a77-29c1141e4c1d,IRONCLAD,SlaversCollar,Skipped,1,57,1
+58753164-010e-44b6-8a77-29c1141e4c1d,IRONCLAD,Cursed Key,Picked,1,57,1
+58753164-010e-44b6-8a77-29c1141e4c1d,IRONCLAD,Mark of Pain,Skipped,1,57,2
+58753164-010e-44b6-8a77-29c1141e4c1d,IRONCLAD,Busted Crown,Skipped,1,57,2
+58753164-010e-44b6-8a77-29c1141e4c1d,IRONCLAD,Runic Pyramid,Picked,1,57,2
+5daa405d-097f-4a57-b6a2-56705f9d64b8,IRONCLAD,Calling Bell,Skipped,1,57,1
+5daa405d-097f-4a57-b6a2-56705f9d64b8,IRONCLAD,Coffee Dripper,Skipped,1,57,1
+5daa405d-097f-4a57-b6a2-56705f9d64b8,IRONCLAD,Astrolabe,Picked,1,57,1
+5daa405d-097f-4a57-b6a2-56705f9d64b8,IRONCLAD,Sozu,Skipped,1,57,2
+5daa405d-097f-4a57-b6a2-56705f9d64b8,IRONCLAD,Tiny House,Skipped,1,57,2
+5daa405d-097f-4a57-b6a2-56705f9d64b8,IRONCLAD,Fusion Hammer,Picked,1,57,2
+5f27a447-8ee9-4f2a-addc-950e622a5169,IRONCLAD,Sozu,Skipped,1,57,1
+5f27a447-8ee9-4f2a-addc-950e622a5169,IRONCLAD,SacredBark,Skipped,1,57,1
+5f27a447-8ee9-4f2a-addc-950e622a5169,IRONCLAD,Black Blood,Picked,1,57,1
+5f27a447-8ee9-4f2a-addc-950e622a5169,IRONCLAD,Runic Dome,Skipped,1,57,2
+5f27a447-8ee9-4f2a-addc-950e622a5169,IRONCLAD,Calling Bell,Skipped,1,57,2
+5f27a447-8ee9-4f2a-addc-950e622a5169,IRONCLAD,Snecko Eye,Picked,1,57,2
+be220fd2-69aa-4dc0-bc93-fddb1c1d8cbe,IRONCLAD,Velvet Choker,Skipped,1,57,1
+be220fd2-69aa-4dc0-bc93-fddb1c1d8cbe,IRONCLAD,Mark of Pain,Skipped,1,57,1
+be220fd2-69aa-4dc0-bc93-fddb1c1d8cbe,IRONCLAD,Coffee Dripper,Picked,1,57,1
+be220fd2-69aa-4dc0-bc93-fddb1c1d8cbe,IRONCLAD,Busted Crown,Skipped,1,57,2
+be220fd2-69aa-4dc0-bc93-fddb1c1d8cbe,IRONCLAD,SacredBark,Skipped,1,57,2
+be220fd2-69aa-4dc0-bc93-fddb1c1d8cbe,IRONCLAD,Runic Dome,Picked,1,57,2
+311a20c4-bebb-4196-8d82-c7944221f6b5,IRONCLAD,Tiny House,Skipped,0,25,1
+311a20c4-bebb-4196-8d82-c7944221f6b5,IRONCLAD,Fusion Hammer,Skipped,0,25,1
+311a20c4-bebb-4196-8d82-c7944221f6b5,IRONCLAD,Astrolabe,Picked,0,25,1
+248069bd-fef9-47c2-b64d-9da0c3851f89,IRONCLAD,Runic Dome,Skipped,0,23,1
+248069bd-fef9-47c2-b64d-9da0c3851f89,IRONCLAD,Black Star,Skipped,0,23,1
+248069bd-fef9-47c2-b64d-9da0c3851f89,IRONCLAD,Snecko Eye,Picked,0,23,1
+a3da8086-c7ba-4a89-929b-ee853e0b640d,IRONCLAD,Runic Dome,Skipped,0,56,1
+a3da8086-c7ba-4a89-929b-ee853e0b640d,IRONCLAD,SacredBark,Skipped,0,56,1
+a3da8086-c7ba-4a89-929b-ee853e0b640d,IRONCLAD,Philosopher's Stone,Picked,0,56,1
+a3da8086-c7ba-4a89-929b-ee853e0b640d,IRONCLAD,Tiny House,Skipped,0,56,2
+a3da8086-c7ba-4a89-929b-ee853e0b640d,IRONCLAD,Pandora's Box,Skipped,0,56,2
+a3da8086-c7ba-4a89-929b-ee853e0b640d,IRONCLAD,Sozu,Picked,0,56,2
+bb6d1a5c-fafa-4589-93d4-de1d892124c8,IRONCLAD,Cursed Key,Skipped,1,57,1
+bb6d1a5c-fafa-4589-93d4-de1d892124c8,IRONCLAD,Runic Cube,Skipped,1,57,1
+bb6d1a5c-fafa-4589-93d4-de1d892124c8,IRONCLAD,Coffee Dripper,Picked,1,57,1
+bb6d1a5c-fafa-4589-93d4-de1d892124c8,IRONCLAD,Black Star,Skipped,1,57,2
+bb6d1a5c-fafa-4589-93d4-de1d892124c8,IRONCLAD,Fusion Hammer,Skipped,1,57,2
+bb6d1a5c-fafa-4589-93d4-de1d892124c8,IRONCLAD,Empty Cage,Picked,1,57,2
+5b655704-76ca-48a1-8d63-6f51b5a28211,IRONCLAD,Cursed Key,Skipped,1,57,1
+5b655704-76ca-48a1-8d63-6f51b5a28211,IRONCLAD,Ectoplasm,Skipped,1,57,1
+5b655704-76ca-48a1-8d63-6f51b5a28211,IRONCLAD,Runic Pyramid,Picked,1,57,1
+5b655704-76ca-48a1-8d63-6f51b5a28211,IRONCLAD,Mark of Pain,Skipped,1,57,2
+5b655704-76ca-48a1-8d63-6f51b5a28211,IRONCLAD,Runic Dome,Skipped,1,57,2
+5b655704-76ca-48a1-8d63-6f51b5a28211,IRONCLAD,Empty Cage,Picked,1,57,2
+4fab06f6-0b46-4965-994a-67ebaf755de6,IRONCLAD,SacredBark,Skipped,1,57,1
+4fab06f6-0b46-4965-994a-67ebaf755de6,IRONCLAD,Mark of Pain,Skipped,1,57,1
+4fab06f6-0b46-4965-994a-67ebaf755de6,IRONCLAD,SlaversCollar,Picked,1,57,1
+4fab06f6-0b46-4965-994a-67ebaf755de6,IRONCLAD,Philosopher's Stone,Skipped,1,57,2
+4fab06f6-0b46-4965-994a-67ebaf755de6,IRONCLAD,Cursed Key,Skipped,1,57,2
+4fab06f6-0b46-4965-994a-67ebaf755de6,IRONCLAD,Fusion Hammer,Picked,1,57,2
+bf9ec967-3cf6-48fc-91bf-9da3627d2283,IRONCLAD,SacredBark,Skipped,0,56,1
+bf9ec967-3cf6-48fc-91bf-9da3627d2283,IRONCLAD,Tiny House,Skipped,0,56,1
+bf9ec967-3cf6-48fc-91bf-9da3627d2283,IRONCLAD,Philosopher's Stone,Picked,0,56,1
+bf9ec967-3cf6-48fc-91bf-9da3627d2283,IRONCLAD,Velvet Choker,Skipped,0,56,2
+bf9ec967-3cf6-48fc-91bf-9da3627d2283,IRONCLAD,Sozu,Skipped,0,56,2
+bf9ec967-3cf6-48fc-91bf-9da3627d2283,IRONCLAD,Black Star,Picked,0,56,2
+adea2f25-5863-4510-9eb7-9c6a96aaa2c8,IRONCLAD,Ectoplasm,Skipped,1,57,1
+adea2f25-5863-4510-9eb7-9c6a96aaa2c8,IRONCLAD,Empty Cage,Skipped,1,57,1
+adea2f25-5863-4510-9eb7-9c6a96aaa2c8,IRONCLAD,Pandora's Box,Picked,1,57,1
+adea2f25-5863-4510-9eb7-9c6a96aaa2c8,IRONCLAD,Mark of Pain,Skipped,1,57,2
+adea2f25-5863-4510-9eb7-9c6a96aaa2c8,IRONCLAD,Black Blood,Skipped,1,57,2
+adea2f25-5863-4510-9eb7-9c6a96aaa2c8,IRONCLAD,Cursed Key,Picked,1,57,2
+edda5e27-0a1f-454f-8791-eded609977b1,IRONCLAD,Busted Crown,Skipped,0,23,1
+edda5e27-0a1f-454f-8791-eded609977b1,IRONCLAD,Tiny House,Skipped,0,23,1
+edda5e27-0a1f-454f-8791-eded609977b1,IRONCLAD,SlaversCollar,Picked,0,23,1
+43251086-6c66-4cf5-b675-48bc5a6379f3,IRONCLAD,Mark of Pain,Skipped,1,57,1
+43251086-6c66-4cf5-b675-48bc5a6379f3,IRONCLAD,Astrolabe,Skipped,1,57,1
+43251086-6c66-4cf5-b675-48bc5a6379f3,IRONCLAD,Runic Dome,Picked,1,57,1
+43251086-6c66-4cf5-b675-48bc5a6379f3,IRONCLAD,Philosopher's Stone,Skipped,1,57,2
+43251086-6c66-4cf5-b675-48bc5a6379f3,IRONCLAD,Sozu,Skipped,1,57,2
+43251086-6c66-4cf5-b675-48bc5a6379f3,IRONCLAD,SlaversCollar,Picked,1,57,2
+66fdfa23-6ec7-40d6-ac54-33c1ccc6e737,IRONCLAD,Cursed Key,Skipped,1,57,1
+66fdfa23-6ec7-40d6-ac54-33c1ccc6e737,IRONCLAD,Snecko Eye,Skipped,1,57,1
+66fdfa23-6ec7-40d6-ac54-33c1ccc6e737,IRONCLAD,Fusion Hammer,Picked,1,57,1
+66fdfa23-6ec7-40d6-ac54-33c1ccc6e737,IRONCLAD,SacredBark,Skipped,1,57,2
+66fdfa23-6ec7-40d6-ac54-33c1ccc6e737,IRONCLAD,Tiny House,Skipped,1,57,2
+66fdfa23-6ec7-40d6-ac54-33c1ccc6e737,IRONCLAD,Mark of Pain,Picked,1,57,2
+21b1f1c7-9770-4e52-ac9a-3569202c63d3,IRONCLAD,Black Blood,Skipped,0,56,1
+21b1f1c7-9770-4e52-ac9a-3569202c63d3,IRONCLAD,SlaversCollar,Skipped,0,56,1
+21b1f1c7-9770-4e52-ac9a-3569202c63d3,IRONCLAD,Coffee Dripper,Picked,0,56,1
+21b1f1c7-9770-4e52-ac9a-3569202c63d3,IRONCLAD,Astrolabe,Skipped,0,56,2
+21b1f1c7-9770-4e52-ac9a-3569202c63d3,IRONCLAD,Snecko Eye,Skipped,0,56,2
+21b1f1c7-9770-4e52-ac9a-3569202c63d3,IRONCLAD,Cursed Key,Picked,0,56,2
+1e06b5a9-f305-4c98-9e48-dc4c7cd5d694,IRONCLAD,Tiny House,Skipped,1,57,1
+1e06b5a9-f305-4c98-9e48-dc4c7cd5d694,IRONCLAD,Runic Dome,Skipped,1,57,1
+1e06b5a9-f305-4c98-9e48-dc4c7cd5d694,IRONCLAD,Astrolabe,Picked,1,57,1
+1e06b5a9-f305-4c98-9e48-dc4c7cd5d694,IRONCLAD,Cursed Key,Skipped,1,57,2
+1e06b5a9-f305-4c98-9e48-dc4c7cd5d694,IRONCLAD,Calling Bell,Skipped,1,57,2
+1e06b5a9-f305-4c98-9e48-dc4c7cd5d694,IRONCLAD,Coffee Dripper,Picked,1,57,2
+234199da-5102-491a-9403-ec916a24db83,IRONCLAD,Tiny House,Skipped,0,22,1
+234199da-5102-491a-9403-ec916a24db83,IRONCLAD,Velvet Choker,Skipped,0,22,1
+234199da-5102-491a-9403-ec916a24db83,IRONCLAD,Runic Pyramid,Picked,0,22,1
+0504a493-9793-4e1b-92c1-192e7b18352c,IRONCLAD,Astrolabe,Skipped,1,57,1
+0504a493-9793-4e1b-92c1-192e7b18352c,IRONCLAD,SacredBark,Skipped,1,57,1
+0504a493-9793-4e1b-92c1-192e7b18352c,IRONCLAD,Snecko Eye,Picked,1,57,1
+0504a493-9793-4e1b-92c1-192e7b18352c,IRONCLAD,Runic Cube,Skipped,1,57,2
+0504a493-9793-4e1b-92c1-192e7b18352c,IRONCLAD,Pandora's Box,Skipped,1,57,2
+0504a493-9793-4e1b-92c1-192e7b18352c,IRONCLAD,SlaversCollar,Picked,1,57,2
+ea0b4170-e3c8-4da4-b522-23ba2fecaa82,IRONCLAD,Cursed Key,Skipped,1,57,1
+ea0b4170-e3c8-4da4-b522-23ba2fecaa82,IRONCLAD,Black Blood,Skipped,1,57,1
+ea0b4170-e3c8-4da4-b522-23ba2fecaa82,IRONCLAD,Runic Dome,Picked,1,57,1
+ea0b4170-e3c8-4da4-b522-23ba2fecaa82,IRONCLAD,Empty Cage,Skipped,1,57,2
+ea0b4170-e3c8-4da4-b522-23ba2fecaa82,IRONCLAD,Fusion Hammer,Skipped,1,57,2
+ea0b4170-e3c8-4da4-b522-23ba2fecaa82,IRONCLAD,Black Star,Picked,1,57,2
+91ebdae5-8256-4994-8d2e-4cb1d6f93145,IRONCLAD,SacredBark,Skipped,1,57,1
+91ebdae5-8256-4994-8d2e-4cb1d6f93145,IRONCLAD,Sozu,Skipped,1,57,1
+91ebdae5-8256-4994-8d2e-4cb1d6f93145,IRONCLAD,Coffee Dripper,Picked,1,57,1
+91ebdae5-8256-4994-8d2e-4cb1d6f93145,IRONCLAD,Empty Cage,Skipped,1,57,2
+91ebdae5-8256-4994-8d2e-4cb1d6f93145,IRONCLAD,Snecko Eye,Skipped,1,57,2
+91ebdae5-8256-4994-8d2e-4cb1d6f93145,IRONCLAD,Astrolabe,Picked,1,57,2
+9d64e7a9-1718-42e9-8267-c33878b9c6c7,IRONCLAD,Coffee Dripper,Skipped,1,57,1
+9d64e7a9-1718-42e9-8267-c33878b9c6c7,IRONCLAD,SacredBark,Skipped,1,57,1
+9d64e7a9-1718-42e9-8267-c33878b9c6c7,IRONCLAD,Empty Cage,Picked,1,57,1
+9d64e7a9-1718-42e9-8267-c33878b9c6c7,IRONCLAD,Astrolabe,Skipped,1,57,2
+9d64e7a9-1718-42e9-8267-c33878b9c6c7,IRONCLAD,Snecko Eye,Skipped,1,57,2
+9d64e7a9-1718-42e9-8267-c33878b9c6c7,IRONCLAD,Mark of Pain,Picked,1,57,2
+e0d8573d-468b-4f1a-809a-eb32d12d47b6,IRONCLAD,Black Blood,Skipped,1,57,1
+e0d8573d-468b-4f1a-809a-eb32d12d47b6,IRONCLAD,SacredBark,Skipped,1,57,1
+e0d8573d-468b-4f1a-809a-eb32d12d47b6,IRONCLAD,Snecko Eye,Picked,1,57,1
+e0d8573d-468b-4f1a-809a-eb32d12d47b6,IRONCLAD,Astrolabe,Skipped,1,57,2
+e0d8573d-468b-4f1a-809a-eb32d12d47b6,IRONCLAD,Velvet Choker,Skipped,1,57,2
+e0d8573d-468b-4f1a-809a-eb32d12d47b6,IRONCLAD,Fusion Hammer,Picked,1,57,2
+e84a2670-459c-4493-9c12-211d64d01d5c,IRONCLAD,Sozu,Skipped,0,51,1
+e84a2670-459c-4493-9c12-211d64d01d5c,IRONCLAD,Calling Bell,Skipped,0,51,1
+e84a2670-459c-4493-9c12-211d64d01d5c,IRONCLAD,SlaversCollar,Picked,0,51,1
+e84a2670-459c-4493-9c12-211d64d01d5c,IRONCLAD,Empty Cage,Skipped,0,51,2
+e84a2670-459c-4493-9c12-211d64d01d5c,IRONCLAD,Black Star,Skipped,0,51,2
+e84a2670-459c-4493-9c12-211d64d01d5c,IRONCLAD,Mark of Pain,Picked,0,51,2
+c4faf823-3fef-49ae-a531-ce64f9e6e02f,IRONCLAD,Busted Crown,Skipped,1,57,1
+c4faf823-3fef-49ae-a531-ce64f9e6e02f,IRONCLAD,Black Blood,Skipped,1,57,1
+c4faf823-3fef-49ae-a531-ce64f9e6e02f,IRONCLAD,Fusion Hammer,Picked,1,57,1
+c4faf823-3fef-49ae-a531-ce64f9e6e02f,IRONCLAD,Mark of Pain,Skipped,1,57,2
+c4faf823-3fef-49ae-a531-ce64f9e6e02f,IRONCLAD,Philosopher's Stone,Skipped,1,57,2
+c4faf823-3fef-49ae-a531-ce64f9e6e02f,IRONCLAD,Runic Dome,Picked,1,57,2
+0f97c635-95c4-49d3-9323-ce447df1f0d4,IRONCLAD,Calling Bell,Skipped,0,36,1
+0f97c635-95c4-49d3-9323-ce447df1f0d4,IRONCLAD,Black Blood,Skipped,0,36,1
+0f97c635-95c4-49d3-9323-ce447df1f0d4,IRONCLAD,Fusion Hammer,Picked,0,36,1
+0f97c635-95c4-49d3-9323-ce447df1f0d4,IRONCLAD,Mark of Pain,Skipped,0,36,2
+0f97c635-95c4-49d3-9323-ce447df1f0d4,IRONCLAD,Black Star,Skipped,0,36,2
+0f97c635-95c4-49d3-9323-ce447df1f0d4,IRONCLAD,Empty Cage,Picked,0,36,2
+6d8652cb-3d5f-4a35-ae4d-14864359fe24,IRONCLAD,Tiny House,Skipped,1,57,1
+6d8652cb-3d5f-4a35-ae4d-14864359fe24,IRONCLAD,Mark of Pain,Skipped,1,57,1
+6d8652cb-3d5f-4a35-ae4d-14864359fe24,IRONCLAD,SacredBark,Picked,1,57,1
+6d8652cb-3d5f-4a35-ae4d-14864359fe24,IRONCLAD,Fusion Hammer,Skipped,1,57,2
+6d8652cb-3d5f-4a35-ae4d-14864359fe24,IRONCLAD,Runic Pyramid,Skipped,1,57,2
+6d8652cb-3d5f-4a35-ae4d-14864359fe24,IRONCLAD,Snecko Eye,Picked,1,57,2
+f1e75724-33a8-4043-8b32-2bc839b31a6e,IRONCLAD,Coffee Dripper,Skipped,1,57,1
+f1e75724-33a8-4043-8b32-2bc839b31a6e,IRONCLAD,Cursed Key,Skipped,1,57,1
+f1e75724-33a8-4043-8b32-2bc839b31a6e,IRONCLAD,Fusion Hammer,Picked,1,57,1
+f1e75724-33a8-4043-8b32-2bc839b31a6e,IRONCLAD,SacredBark,Skipped,1,57,2
+f1e75724-33a8-4043-8b32-2bc839b31a6e,IRONCLAD,Astrolabe,Skipped,1,57,2
+f1e75724-33a8-4043-8b32-2bc839b31a6e,IRONCLAD,Pandora's Box,Picked,1,57,2
+71013dcf-caa9-4c6a-a3b3-c4e2fe726c0b,IRONCLAD,Astrolabe,Skipped,0,51,1
+71013dcf-caa9-4c6a-a3b3-c4e2fe726c0b,IRONCLAD,Philosopher's Stone,Skipped,0,51,1
+71013dcf-caa9-4c6a-a3b3-c4e2fe726c0b,IRONCLAD,Coffee Dripper,Picked,0,51,1
+71013dcf-caa9-4c6a-a3b3-c4e2fe726c0b,IRONCLAD,Cursed Key,Skipped,0,51,2
+71013dcf-caa9-4c6a-a3b3-c4e2fe726c0b,IRONCLAD,Calling Bell,Skipped,0,51,2
+71013dcf-caa9-4c6a-a3b3-c4e2fe726c0b,IRONCLAD,Pandora's Box,Picked,0,51,2
+fc23c39b-9d80-4dc2-8d50-b36f45c89704,IRONCLAD,Runic Cube,Skipped,0,55,1
+fc23c39b-9d80-4dc2-8d50-b36f45c89704,IRONCLAD,Black Blood,Skipped,0,55,1
+fc23c39b-9d80-4dc2-8d50-b36f45c89704,IRONCLAD,Fusion Hammer,Picked,0,55,1
+fc23c39b-9d80-4dc2-8d50-b36f45c89704,IRONCLAD,SlaversCollar,Skipped,0,55,2
+fc23c39b-9d80-4dc2-8d50-b36f45c89704,IRONCLAD,SacredBark,Skipped,0,55,2
+fc23c39b-9d80-4dc2-8d50-b36f45c89704,IRONCLAD,Cursed Key,Picked,0,55,2
+987ed110-7ab1-47d8-b1fb-52738308941b,IRONCLAD,Astrolabe,Skipped,0,25,1
+987ed110-7ab1-47d8-b1fb-52738308941b,IRONCLAD,Black Star,Skipped,0,25,1
+987ed110-7ab1-47d8-b1fb-52738308941b,IRONCLAD,Philosopher's Stone,Picked,0,25,1
+0c4ab2db-4431-4cfc-99be-42744d2baf81,IRONCLAD,Empty Cage,Skipped,1,57,1
+0c4ab2db-4431-4cfc-99be-42744d2baf81,IRONCLAD,Philosopher's Stone,Skipped,1,57,1
+0c4ab2db-4431-4cfc-99be-42744d2baf81,IRONCLAD,Calling Bell,Picked,1,57,1
+0c4ab2db-4431-4cfc-99be-42744d2baf81,IRONCLAD,Tiny House,Skipped,1,57,2
+0c4ab2db-4431-4cfc-99be-42744d2baf81,IRONCLAD,Runic Dome,Skipped,1,57,2
+0c4ab2db-4431-4cfc-99be-42744d2baf81,IRONCLAD,Runic Pyramid,Picked,1,57,2
+d72ec51e-456a-4ffa-9e29-002a84cf6365,IRONCLAD,Calling Bell,Skipped,1,57,1
+d72ec51e-456a-4ffa-9e29-002a84cf6365,IRONCLAD,Philosopher's Stone,Skipped,1,57,1
+d72ec51e-456a-4ffa-9e29-002a84cf6365,IRONCLAD,Fusion Hammer,Picked,1,57,1
+d72ec51e-456a-4ffa-9e29-002a84cf6365,IRONCLAD,Velvet Choker,Skipped,1,57,2
+d72ec51e-456a-4ffa-9e29-002a84cf6365,IRONCLAD,Pandora's Box,Skipped,1,57,2
+d72ec51e-456a-4ffa-9e29-002a84cf6365,IRONCLAD,Runic Dome,Picked,1,57,2
+b60d993e-3d12-454b-a63d-f912e206af9f,THE_SILENT,Sozu,Skipped,1,57,1
+b60d993e-3d12-454b-a63d-f912e206af9f,THE_SILENT,SacredBark,Skipped,1,57,1
+b60d993e-3d12-454b-a63d-f912e206af9f,THE_SILENT,Snecko Eye,Picked,1,57,1
+b60d993e-3d12-454b-a63d-f912e206af9f,THE_SILENT,Velvet Choker,Skipped,1,57,2
+b60d993e-3d12-454b-a63d-f912e206af9f,THE_SILENT,SlaversCollar,Skipped,1,57,2
+b60d993e-3d12-454b-a63d-f912e206af9f,THE_SILENT,Runic Pyramid,Picked,1,57,2
+b1870242-e469-4105-a870-4171a8f31376,THE_SILENT,Velvet Choker,Skipped,0,56,1
+b1870242-e469-4105-a870-4171a8f31376,THE_SILENT,Ring of the Serpent,Skipped,0,56,1
+b1870242-e469-4105-a870-4171a8f31376,THE_SILENT,SacredBark,Picked,0,56,1
+b1870242-e469-4105-a870-4171a8f31376,THE_SILENT,Busted Crown,Skipped,0,56,2
+b1870242-e469-4105-a870-4171a8f31376,THE_SILENT,Calling Bell,Skipped,0,56,2
+b1870242-e469-4105-a870-4171a8f31376,THE_SILENT,Coffee Dripper,Picked,0,56,2
+6d416ae7-c1b8-40b0-9c04-562b493f2da2,THE_SILENT,WristBlade,Skipped,1,57,1
+6d416ae7-c1b8-40b0-9c04-562b493f2da2,THE_SILENT,Black Star,Skipped,1,57,1
+6d416ae7-c1b8-40b0-9c04-562b493f2da2,THE_SILENT,Pandora's Box,Picked,1,57,1
+6d416ae7-c1b8-40b0-9c04-562b493f2da2,THE_SILENT,Sozu,Skipped,1,57,2
+6d416ae7-c1b8-40b0-9c04-562b493f2da2,THE_SILENT,Philosopher's Stone,Skipped,1,57,2
+6d416ae7-c1b8-40b0-9c04-562b493f2da2,THE_SILENT,SlaversCollar,Picked,1,57,2
+ce1c6c2a-792d-4a4c-b80f-9f70e1611d9b,THE_SILENT,Tiny House,Skipped,1,57,1
+ce1c6c2a-792d-4a4c-b80f-9f70e1611d9b,THE_SILENT,Cursed Key,Skipped,1,57,1
+ce1c6c2a-792d-4a4c-b80f-9f70e1611d9b,THE_SILENT,SlaversCollar,Picked,1,57,1
+ce1c6c2a-792d-4a4c-b80f-9f70e1611d9b,THE_SILENT,HoveringKite,Skipped,1,57,2
+ce1c6c2a-792d-4a4c-b80f-9f70e1611d9b,THE_SILENT,Sozu,Skipped,1,57,2
+ce1c6c2a-792d-4a4c-b80f-9f70e1611d9b,THE_SILENT,Coffee Dripper,Picked,1,57,2
+3b25cb5f-f33d-4328-be7f-890b5517654b,THE_SILENT,Fusion Hammer,Skipped,1,57,1
+3b25cb5f-f33d-4328-be7f-890b5517654b,THE_SILENT,Astrolabe,Skipped,1,57,1
+3b25cb5f-f33d-4328-be7f-890b5517654b,THE_SILENT,Runic Pyramid,Picked,1,57,1
+3b25cb5f-f33d-4328-be7f-890b5517654b,THE_SILENT,SacredBark,Skipped,1,57,2
+3b25cb5f-f33d-4328-be7f-890b5517654b,THE_SILENT,WristBlade,Skipped,1,57,2
+3b25cb5f-f33d-4328-be7f-890b5517654b,THE_SILENT,Empty Cage,Picked,1,57,2
+67cd4281-cd0d-4835-b100-de208b910934,THE_SILENT,SacredBark,Skipped,0,56,1
+67cd4281-cd0d-4835-b100-de208b910934,THE_SILENT,Tiny House,Skipped,0,56,1
+67cd4281-cd0d-4835-b100-de208b910934,THE_SILENT,Runic Pyramid,Picked,0,56,1
+67cd4281-cd0d-4835-b100-de208b910934,THE_SILENT,Pandora's Box,Skipped,0,56,2
+67cd4281-cd0d-4835-b100-de208b910934,THE_SILENT,Calling Bell,Skipped,0,56,2
+67cd4281-cd0d-4835-b100-de208b910934,THE_SILENT,Empty Cage,Picked,0,56,2
+c8b143a3-191f-4bc2-b131-21e590dc981f,THE_SILENT,Tiny House,Skipped,0,56,1
+c8b143a3-191f-4bc2-b131-21e590dc981f,THE_SILENT,Ring of the Serpent,Skipped,0,56,1
+c8b143a3-191f-4bc2-b131-21e590dc981f,THE_SILENT,Calling Bell,Picked,0,56,1
+c8b143a3-191f-4bc2-b131-21e590dc981f,THE_SILENT,HoveringKite,Skipped,0,56,2
+c8b143a3-191f-4bc2-b131-21e590dc981f,THE_SILENT,SacredBark,Skipped,0,56,2
+c8b143a3-191f-4bc2-b131-21e590dc981f,THE_SILENT,Astrolabe,Picked,0,56,2
+6e124dae-8278-4239-b522-aca0cd3b31d0,THE_SILENT,HoveringKite,Skipped,0,56,1
+6e124dae-8278-4239-b522-aca0cd3b31d0,THE_SILENT,Empty Cage,Skipped,0,56,1
+6e124dae-8278-4239-b522-aca0cd3b31d0,THE_SILENT,Astrolabe,Picked,0,56,1
+6e124dae-8278-4239-b522-aca0cd3b31d0,THE_SILENT,SacredBark,Skipped,0,56,2
+6e124dae-8278-4239-b522-aca0cd3b31d0,THE_SILENT,Snecko Eye,Skipped,0,56,2
+6e124dae-8278-4239-b522-aca0cd3b31d0,THE_SILENT,Calling Bell,Picked,0,56,2
+c55a7a06-46cd-4c6d-9479-4754e510e40c,THE_SILENT,Calling Bell,Skipped,1,57,1
+c55a7a06-46cd-4c6d-9479-4754e510e40c,THE_SILENT,Tiny House,Skipped,1,57,1
+c55a7a06-46cd-4c6d-9479-4754e510e40c,THE_SILENT,Ring of the Serpent,Picked,1,57,1
+c55a7a06-46cd-4c6d-9479-4754e510e40c,THE_SILENT,Black Star,Skipped,1,57,2
+c55a7a06-46cd-4c6d-9479-4754e510e40c,THE_SILENT,HoveringKite,Skipped,1,57,2
+c55a7a06-46cd-4c6d-9479-4754e510e40c,THE_SILENT,Cursed Key,Picked,1,57,2
+6942ac81-bd0d-47b7-98ea-b56d69872815,THE_SILENT,SacredBark,Skipped,0,33,1
+6942ac81-bd0d-47b7-98ea-b56d69872815,THE_SILENT,WristBlade,Skipped,0,33,1
+6942ac81-bd0d-47b7-98ea-b56d69872815,THE_SILENT,Empty Cage,Picked,0,33,1
+cba1f271-6274-48f9-b2e7-1c75abffad23,THE_SILENT,Snecko Eye,Skipped,1,57,1
+cba1f271-6274-48f9-b2e7-1c75abffad23,THE_SILENT,Tiny House,Skipped,1,57,1
+cba1f271-6274-48f9-b2e7-1c75abffad23,THE_SILENT,Astrolabe,Picked,1,57,1
+cba1f271-6274-48f9-b2e7-1c75abffad23,THE_SILENT,Empty Cage,Skipped,1,57,2
+cba1f271-6274-48f9-b2e7-1c75abffad23,THE_SILENT,Runic Dome,Skipped,1,57,2
+cba1f271-6274-48f9-b2e7-1c75abffad23,THE_SILENT,Cursed Key,Picked,1,57,2
+ef2d3808-f056-4f36-bb70-153385085da9,THE_SILENT,Black Star,Skipped,0,23,1
+ef2d3808-f056-4f36-bb70-153385085da9,THE_SILENT,Ring of the Serpent,Skipped,0,23,1
+ef2d3808-f056-4f36-bb70-153385085da9,THE_SILENT,Philosopher's Stone,Picked,0,23,1
+2494a155-d286-4bd1-9c38-4b83f50d5b26,THE_SILENT,Runic Dome,Skipped,1,57,1
+2494a155-d286-4bd1-9c38-4b83f50d5b26,THE_SILENT,Ectoplasm,Skipped,1,57,1
+2494a155-d286-4bd1-9c38-4b83f50d5b26,THE_SILENT,Pandora's Box,Picked,1,57,1
+2494a155-d286-4bd1-9c38-4b83f50d5b26,THE_SILENT,Tiny House,Skipped,1,57,2
+2494a155-d286-4bd1-9c38-4b83f50d5b26,THE_SILENT,Astrolabe,Skipped,1,57,2
+2494a155-d286-4bd1-9c38-4b83f50d5b26,THE_SILENT,Philosopher's Stone,Picked,1,57,2
+e166cb10-bce6-4319-9a2c-79a2a4cdbc78,THE_SILENT,Philosopher's Stone,Skipped,1,57,1
+e166cb10-bce6-4319-9a2c-79a2a4cdbc78,THE_SILENT,Sozu,Skipped,1,57,1
+e166cb10-bce6-4319-9a2c-79a2a4cdbc78,THE_SILENT,Pandora's Box,Picked,1,57,1
+e166cb10-bce6-4319-9a2c-79a2a4cdbc78,THE_SILENT,SacredBark,Skipped,1,57,2
+e166cb10-bce6-4319-9a2c-79a2a4cdbc78,THE_SILENT,Tiny House,Skipped,1,57,2
+e166cb10-bce6-4319-9a2c-79a2a4cdbc78,THE_SILENT,Runic Dome,Picked,1,57,2
+24c182d8-a05a-4c81-ab70-2efa579ff6a3,THE_SILENT,Tiny House,Skipped,1,57,1
+24c182d8-a05a-4c81-ab70-2efa579ff6a3,THE_SILENT,SlaversCollar,Skipped,1,57,1
+24c182d8-a05a-4c81-ab70-2efa579ff6a3,THE_SILENT,HoveringKite,Picked,1,57,1
+24c182d8-a05a-4c81-ab70-2efa579ff6a3,THE_SILENT,Snecko Eye,Skipped,1,57,2
+24c182d8-a05a-4c81-ab70-2efa579ff6a3,THE_SILENT,Astrolabe,Skipped,1,57,2
+24c182d8-a05a-4c81-ab70-2efa579ff6a3,THE_SILENT,Fusion Hammer,Picked,1,57,2
+3379fb58-d306-44ef-85f1-36e1648f823a,THE_SILENT,Runic Dome,Skipped,0,33,1
+3379fb58-d306-44ef-85f1-36e1648f823a,THE_SILENT,Tiny House,Skipped,0,33,1
+3379fb58-d306-44ef-85f1-36e1648f823a,THE_SILENT,Calling Bell,Picked,0,33,1
+a8c76567-cdc4-450b-994c-1c0ef1d3794e,THE_SILENT,Ectoplasm,Skipped,1,57,1
+a8c76567-cdc4-450b-994c-1c0ef1d3794e,THE_SILENT,Empty Cage,Skipped,1,57,1
+a8c76567-cdc4-450b-994c-1c0ef1d3794e,THE_SILENT,HoveringKite,Picked,1,57,1
+a8c76567-cdc4-450b-994c-1c0ef1d3794e,THE_SILENT,Runic Pyramid,Skipped,1,57,2
+a8c76567-cdc4-450b-994c-1c0ef1d3794e,THE_SILENT,Sozu,Skipped,1,57,2
+a8c76567-cdc4-450b-994c-1c0ef1d3794e,THE_SILENT,Black Star,Picked,1,57,2
+95881b15-ef78-4e11-9c49-3a7733029ecb,THE_SILENT,Philosopher's Stone,Skipped,1,57,1
+95881b15-ef78-4e11-9c49-3a7733029ecb,THE_SILENT,Ring of the Serpent,Skipped,1,57,1
+95881b15-ef78-4e11-9c49-3a7733029ecb,THE_SILENT,SlaversCollar,Picked,1,57,1
+95881b15-ef78-4e11-9c49-3a7733029ecb,THE_SILENT,Snecko Eye,Skipped,1,57,2
+95881b15-ef78-4e11-9c49-3a7733029ecb,THE_SILENT,Tiny House,Skipped,1,57,2
+95881b15-ef78-4e11-9c49-3a7733029ecb,THE_SILENT,Runic Pyramid,Picked,1,57,2
+1019ed6f-2c84-4d56-b2d2-a53ced95c234,THE_SILENT,Tiny House,Skipped,1,57,1
+1019ed6f-2c84-4d56-b2d2-a53ced95c234,THE_SILENT,Black Star,Skipped,1,57,1
+1019ed6f-2c84-4d56-b2d2-a53ced95c234,THE_SILENT,Astrolabe,Picked,1,57,1
+1019ed6f-2c84-4d56-b2d2-a53ced95c234,THE_SILENT,Runic Dome,Skipped,1,57,2
+1019ed6f-2c84-4d56-b2d2-a53ced95c234,THE_SILENT,Pandora's Box,Skipped,1,57,2
+1019ed6f-2c84-4d56-b2d2-a53ced95c234,THE_SILENT,SlaversCollar,Picked,1,57,2
+cfeb6013-871d-477b-8af4-1cb683906e59,THE_SILENT,Tiny House,Skipped,0,38,1
+cfeb6013-871d-477b-8af4-1cb683906e59,THE_SILENT,Fusion Hammer,Skipped,0,38,1
+cfeb6013-871d-477b-8af4-1cb683906e59,THE_SILENT,Snecko Eye,Picked,0,38,1
+cfeb6013-871d-477b-8af4-1cb683906e59,THE_SILENT,Empty Cage,Skipped,0,38,2
+cfeb6013-871d-477b-8af4-1cb683906e59,THE_SILENT,Sozu,Skipped,0,38,2
+cfeb6013-871d-477b-8af4-1cb683906e59,THE_SILENT,Coffee Dripper,Picked,0,38,2
+58635db8-0553-4adf-9ce0-1a3c0dba7eae,THE_SILENT,Runic Dome,Skipped,1,57,1
+58635db8-0553-4adf-9ce0-1a3c0dba7eae,THE_SILENT,Ectoplasm,Skipped,1,57,1
+58635db8-0553-4adf-9ce0-1a3c0dba7eae,THE_SILENT,Cursed Key,Picked,1,57,1
+58635db8-0553-4adf-9ce0-1a3c0dba7eae,THE_SILENT,Calling Bell,Skipped,1,57,2
+58635db8-0553-4adf-9ce0-1a3c0dba7eae,THE_SILENT,Busted Crown,Skipped,1,57,2
+58635db8-0553-4adf-9ce0-1a3c0dba7eae,THE_SILENT,SlaversCollar,Picked,1,57,2
+bbecf6d2-50e5-4a53-943d-ca66ae2491ed,THE_SILENT,Philosopher's Stone,Skipped,1,57,1
+bbecf6d2-50e5-4a53-943d-ca66ae2491ed,THE_SILENT,Busted Crown,Skipped,1,57,1
+bbecf6d2-50e5-4a53-943d-ca66ae2491ed,THE_SILENT,Runic Pyramid,Picked,1,57,1
+bbecf6d2-50e5-4a53-943d-ca66ae2491ed,THE_SILENT,Ring of the Serpent,Skipped,1,57,2
+bbecf6d2-50e5-4a53-943d-ca66ae2491ed,THE_SILENT,Runic Dome,Skipped,1,57,2
+bbecf6d2-50e5-4a53-943d-ca66ae2491ed,THE_SILENT,Pandora's Box,Picked,1,57,2
+5cbc1c16-3efc-4ef1-9aca-006518b230eb,THE_SILENT,WristBlade,Skipped,1,57,1
+5cbc1c16-3efc-4ef1-9aca-006518b230eb,THE_SILENT,Snecko Eye,Skipped,1,57,1
+5cbc1c16-3efc-4ef1-9aca-006518b230eb,THE_SILENT,Black Star,Picked,1,57,1
+5cbc1c16-3efc-4ef1-9aca-006518b230eb,THE_SILENT,Empty Cage,Skipped,1,57,2
+5cbc1c16-3efc-4ef1-9aca-006518b230eb,THE_SILENT,Tiny House,Skipped,1,57,2
+5cbc1c16-3efc-4ef1-9aca-006518b230eb,THE_SILENT,Cursed Key,Picked,1,57,2
+962d9d35-1bec-4ed2-ba49-fc51688822e8,THE_SILENT,Sozu,Skipped,0,33,1
+962d9d35-1bec-4ed2-ba49-fc51688822e8,THE_SILENT,Black Star,Skipped,0,33,1
+962d9d35-1bec-4ed2-ba49-fc51688822e8,THE_SILENT,Coffee Dripper,Picked,0,33,1
+de2b8ff4-9157-4134-8f0e-1c6e8d5223f0,THE_SILENT,Runic Dome,Skipped,1,57,1
+de2b8ff4-9157-4134-8f0e-1c6e8d5223f0,THE_SILENT,Astrolabe,Skipped,1,57,1
+de2b8ff4-9157-4134-8f0e-1c6e8d5223f0,THE_SILENT,Runic Pyramid,Picked,1,57,1
+de2b8ff4-9157-4134-8f0e-1c6e8d5223f0,THE_SILENT,Tiny House,Skipped,1,57,2
+de2b8ff4-9157-4134-8f0e-1c6e8d5223f0,THE_SILENT,SlaversCollar,Skipped,1,57,2
+de2b8ff4-9157-4134-8f0e-1c6e8d5223f0,THE_SILENT,WristBlade,Picked,1,57,2
+2cac282d-097b-4e4a-a61c-4d396be367e9,THE_SILENT,Busted Crown,Skipped,0,22,1
+2cac282d-097b-4e4a-a61c-4d396be367e9,THE_SILENT,SacredBark,Skipped,0,22,1
+2cac282d-097b-4e4a-a61c-4d396be367e9,THE_SILENT,SlaversCollar,Picked,0,22,1
+ea4cf14a-ed4c-49e4-8d22-dfb0c09a1cfd,THE_SILENT,SlaversCollar,Skipped,1,57,1
+ea4cf14a-ed4c-49e4-8d22-dfb0c09a1cfd,THE_SILENT,HoveringKite,Skipped,1,57,1
+ea4cf14a-ed4c-49e4-8d22-dfb0c09a1cfd,THE_SILENT,WristBlade,Picked,1,57,1
+ea4cf14a-ed4c-49e4-8d22-dfb0c09a1cfd,THE_SILENT,Velvet Choker,Skipped,1,57,2
+ea4cf14a-ed4c-49e4-8d22-dfb0c09a1cfd,THE_SILENT,Empty Cage,Skipped,1,57,2
+ea4cf14a-ed4c-49e4-8d22-dfb0c09a1cfd,THE_SILENT,Runic Pyramid,Picked,1,57,2
+1ecbc9fb-9691-473e-99d4-26edc60a83a4,THE_SILENT,SacredBark,Skipped,1,57,1
+1ecbc9fb-9691-473e-99d4-26edc60a83a4,THE_SILENT,Snecko Eye,Skipped,1,57,1
+1ecbc9fb-9691-473e-99d4-26edc60a83a4,THE_SILENT,Astrolabe,Picked,1,57,1
+1ecbc9fb-9691-473e-99d4-26edc60a83a4,THE_SILENT,Sozu,Skipped,1,57,2
+1ecbc9fb-9691-473e-99d4-26edc60a83a4,THE_SILENT,HoveringKite,Skipped,1,57,2
+1ecbc9fb-9691-473e-99d4-26edc60a83a4,THE_SILENT,Empty Cage,Picked,1,57,2
+8aa94ffa-5886-4256-a024-04ece874fcca,THE_SILENT,Empty Cage,Skipped,1,57,1
+8aa94ffa-5886-4256-a024-04ece874fcca,THE_SILENT,SlaversCollar,Skipped,1,57,1
+8aa94ffa-5886-4256-a024-04ece874fcca,THE_SILENT,Coffee Dripper,Picked,1,57,1
+8aa94ffa-5886-4256-a024-04ece874fcca,THE_SILENT,Philosopher's Stone,Skipped,1,57,2
+8aa94ffa-5886-4256-a024-04ece874fcca,THE_SILENT,Fusion Hammer,Skipped,1,57,2
+8aa94ffa-5886-4256-a024-04ece874fcca,THE_SILENT,HoveringKite,Picked,1,57,2
+6f6159c6-19d8-4369-a405-2b27171aab34,THE_SILENT,Ectoplasm,Skipped,1,57,1
+6f6159c6-19d8-4369-a405-2b27171aab34,THE_SILENT,Cursed Key,Skipped,1,57,1
+6f6159c6-19d8-4369-a405-2b27171aab34,THE_SILENT,SlaversCollar,Picked,1,57,1
+6f6159c6-19d8-4369-a405-2b27171aab34,THE_SILENT,Calling Bell,Skipped,1,57,2
+6f6159c6-19d8-4369-a405-2b27171aab34,THE_SILENT,Coffee Dripper,Skipped,1,57,2
+6f6159c6-19d8-4369-a405-2b27171aab34,THE_SILENT,HoveringKite,Picked,1,57,2
+6fdd94f8-8b71-4d18-8c61-edc92adb25d1,THE_SILENT,HoveringKite,Skipped,0,33,1
+6fdd94f8-8b71-4d18-8c61-edc92adb25d1,THE_SILENT,SlaversCollar,Skipped,0,33,1
+6fdd94f8-8b71-4d18-8c61-edc92adb25d1,THE_SILENT,Coffee Dripper,Picked,0,33,1
+ddd9ab66-1d1d-4353-b7b2-0e8760e1696c,THE_SILENT,Snecko Eye,Skipped,1,57,1
+ddd9ab66-1d1d-4353-b7b2-0e8760e1696c,THE_SILENT,HoveringKite,Skipped,1,57,1
+ddd9ab66-1d1d-4353-b7b2-0e8760e1696c,THE_SILENT,Runic Pyramid,Picked,1,57,1
+ddd9ab66-1d1d-4353-b7b2-0e8760e1696c,THE_SILENT,Busted Crown,Skipped,1,57,2
+ddd9ab66-1d1d-4353-b7b2-0e8760e1696c,THE_SILENT,Astrolabe,Skipped,1,57,2
+ddd9ab66-1d1d-4353-b7b2-0e8760e1696c,THE_SILENT,WristBlade,Picked,1,57,2
+d586cc7c-cdf7-4ff7-b4ec-f2e8a03d9e0a,THE_SILENT,Ectoplasm,Skipped,0,56,1
+d586cc7c-cdf7-4ff7-b4ec-f2e8a03d9e0a,THE_SILENT,Velvet Choker,Skipped,0,56,1
+d586cc7c-cdf7-4ff7-b4ec-f2e8a03d9e0a,THE_SILENT,Calling Bell,Picked,0,56,1
+d586cc7c-cdf7-4ff7-b4ec-f2e8a03d9e0a,THE_SILENT,Runic Dome,Skipped,0,56,2
+d586cc7c-cdf7-4ff7-b4ec-f2e8a03d9e0a,THE_SILENT,Empty Cage,Skipped,0,56,2
+d586cc7c-cdf7-4ff7-b4ec-f2e8a03d9e0a,THE_SILENT,Runic Pyramid,Picked,0,56,2
+61725a08-2d70-4750-a353-998f4b240236,THE_SILENT,Busted Crown,Skipped,1,57,1
+61725a08-2d70-4750-a353-998f4b240236,THE_SILENT,Coffee Dripper,Skipped,1,57,1
+61725a08-2d70-4750-a353-998f4b240236,THE_SILENT,Pandora's Box,Picked,1,57,1
+61725a08-2d70-4750-a353-998f4b240236,THE_SILENT,Runic Dome,Skipped,1,57,2
+61725a08-2d70-4750-a353-998f4b240236,THE_SILENT,SacredBark,Skipped,1,57,2
+61725a08-2d70-4750-a353-998f4b240236,THE_SILENT,Fusion Hammer,Picked,1,57,2
+399a24cf-7f77-4089-9a31-8700194bbd85,THE_SILENT,Ectoplasm,Skipped,1,57,1
+399a24cf-7f77-4089-9a31-8700194bbd85,THE_SILENT,Tiny House,Skipped,1,57,1
+399a24cf-7f77-4089-9a31-8700194bbd85,THE_SILENT,Fusion Hammer,Picked,1,57,1
+399a24cf-7f77-4089-9a31-8700194bbd85,THE_SILENT,Astrolabe,Skipped,1,57,2
+399a24cf-7f77-4089-9a31-8700194bbd85,THE_SILENT,SacredBark,Skipped,1,57,2
+399a24cf-7f77-4089-9a31-8700194bbd85,THE_SILENT,Pandora's Box,Picked,1,57,2
+2dc51794-9778-46c0-a9ea-1fd6764d852e,THE_SILENT,Calling Bell,Skipped,1,57,1
+2dc51794-9778-46c0-a9ea-1fd6764d852e,THE_SILENT,Ectoplasm,Skipped,1,57,1
+2dc51794-9778-46c0-a9ea-1fd6764d852e,THE_SILENT,Empty Cage,Picked,1,57,1
+2dc51794-9778-46c0-a9ea-1fd6764d852e,THE_SILENT,Philosopher's Stone,Skipped,1,57,2
+2dc51794-9778-46c0-a9ea-1fd6764d852e,THE_SILENT,Fusion Hammer,Skipped,1,57,2
+2dc51794-9778-46c0-a9ea-1fd6764d852e,THE_SILENT,HoveringKite,Picked,1,57,2
+b27a57f9-1fd9-44c6-b773-3ad01b1961b8,THE_SILENT,Philosopher's Stone,Skipped,0,56,1
+b27a57f9-1fd9-44c6-b773-3ad01b1961b8,THE_SILENT,SacredBark,Skipped,0,56,1
+b27a57f9-1fd9-44c6-b773-3ad01b1961b8,THE_SILENT,Empty Cage,Picked,0,56,1
+b27a57f9-1fd9-44c6-b773-3ad01b1961b8,THE_SILENT,Cursed Key,Skipped,0,56,2
+b27a57f9-1fd9-44c6-b773-3ad01b1961b8,THE_SILENT,Astrolabe,Skipped,0,56,2
+b27a57f9-1fd9-44c6-b773-3ad01b1961b8,THE_SILENT,Coffee Dripper,Picked,0,56,2
+4b031649-15db-47bc-9b12-8da0afd15eb1,THE_SILENT,WristBlade,Skipped,0,56,1
+4b031649-15db-47bc-9b12-8da0afd15eb1,THE_SILENT,Sozu,Skipped,0,56,1
+4b031649-15db-47bc-9b12-8da0afd15eb1,THE_SILENT,Ring of the Serpent,Picked,0,56,1
+4b031649-15db-47bc-9b12-8da0afd15eb1,THE_SILENT,Empty Cage,Skipped,0,56,2
+4b031649-15db-47bc-9b12-8da0afd15eb1,THE_SILENT,Black Star,Skipped,0,56,2
+4b031649-15db-47bc-9b12-8da0afd15eb1,THE_SILENT,SacredBark,Picked,0,56,2
+2b851f7e-3614-4166-b105-c2b76403bf73,THE_SILENT,Ectoplasm,Skipped,0,56,1
+2b851f7e-3614-4166-b105-c2b76403bf73,THE_SILENT,Philosopher's Stone,Skipped,0,56,1
+2b851f7e-3614-4166-b105-c2b76403bf73,THE_SILENT,Pandora's Box,Picked,0,56,1
+2b851f7e-3614-4166-b105-c2b76403bf73,THE_SILENT,Tiny House,Skipped,0,56,2
+2b851f7e-3614-4166-b105-c2b76403bf73,THE_SILENT,Empty Cage,Skipped,0,56,2
+2b851f7e-3614-4166-b105-c2b76403bf73,THE_SILENT,Cursed Key,Picked,0,56,2
+4544831a-2359-4a79-a5ed-c58113817be1,THE_SILENT,Fusion Hammer,Skipped,0,56,1
+4544831a-2359-4a79-a5ed-c58113817be1,THE_SILENT,Empty Cage,Skipped,0,56,1
+4544831a-2359-4a79-a5ed-c58113817be1,THE_SILENT,Runic Pyramid,Picked,0,56,1
+4544831a-2359-4a79-a5ed-c58113817be1,THE_SILENT,Snecko Eye,Skipped,0,56,2
+4544831a-2359-4a79-a5ed-c58113817be1,THE_SILENT,Runic Dome,Skipped,0,56,2
+4544831a-2359-4a79-a5ed-c58113817be1,THE_SILENT,SacredBark,Picked,0,56,2
+1f2de10d-33da-43e5-ac1a-c9333cb139c4,THE_SILENT,Fusion Hammer,Skipped,1,57,1
+1f2de10d-33da-43e5-ac1a-c9333cb139c4,THE_SILENT,Sozu,Skipped,1,57,1
+1f2de10d-33da-43e5-ac1a-c9333cb139c4,THE_SILENT,SlaversCollar,Picked,1,57,1
+1f2de10d-33da-43e5-ac1a-c9333cb139c4,THE_SILENT,Runic Pyramid,Skipped,1,57,2
+1f2de10d-33da-43e5-ac1a-c9333cb139c4,THE_SILENT,Velvet Choker,Skipped,1,57,2
+1f2de10d-33da-43e5-ac1a-c9333cb139c4,THE_SILENT,WristBlade,Picked,1,57,2
+284ccd9e-6a6e-4a29-a24d-9479804ac80f,THE_SILENT,HoveringKite,Skipped,0,56,1
+284ccd9e-6a6e-4a29-a24d-9479804ac80f,THE_SILENT,Tiny House,Skipped,0,56,1
+284ccd9e-6a6e-4a29-a24d-9479804ac80f,THE_SILENT,Ectoplasm,Picked,0,56,1
+284ccd9e-6a6e-4a29-a24d-9479804ac80f,THE_SILENT,Black Star,Skipped,0,56,2
+284ccd9e-6a6e-4a29-a24d-9479804ac80f,THE_SILENT,SacredBark,Skipped,0,56,2
+284ccd9e-6a6e-4a29-a24d-9479804ac80f,THE_SILENT,Astrolabe,Picked,0,56,2
+1d4c58be-406c-4a3e-8cdf-333c33036b18,THE_SILENT,Ring of the Serpent,Skipped,1,57,1
+1d4c58be-406c-4a3e-8cdf-333c33036b18,THE_SILENT,Tiny House,Skipped,1,57,1
+1d4c58be-406c-4a3e-8cdf-333c33036b18,THE_SILENT,Runic Dome,Picked,1,57,1
+1d4c58be-406c-4a3e-8cdf-333c33036b18,THE_SILENT,WristBlade,Skipped,1,57,2
+1d4c58be-406c-4a3e-8cdf-333c33036b18,THE_SILENT,Black Star,Skipped,1,57,2
+1d4c58be-406c-4a3e-8cdf-333c33036b18,THE_SILENT,Coffee Dripper,Picked,1,57,2
+6effaa89-a9b0-4494-a2e5-3c2c911d102e,THE_SILENT,Runic Dome,Skipped,1,57,1
+6effaa89-a9b0-4494-a2e5-3c2c911d102e,THE_SILENT,Sozu,Skipped,1,57,1
+6effaa89-a9b0-4494-a2e5-3c2c911d102e,THE_SILENT,Philosopher's Stone,Picked,1,57,1
+6effaa89-a9b0-4494-a2e5-3c2c911d102e,THE_SILENT,Fusion Hammer,Skipped,1,57,2
+6effaa89-a9b0-4494-a2e5-3c2c911d102e,THE_SILENT,WristBlade,Skipped,1,57,2
+6effaa89-a9b0-4494-a2e5-3c2c911d102e,THE_SILENT,Empty Cage,Picked,1,57,2
+8396e8a9-2fc4-4c28-b37b-b163269609a7,THE_SILENT,Ring of the Serpent,Skipped,0,55,1
+8396e8a9-2fc4-4c28-b37b-b163269609a7,THE_SILENT,WristBlade,Skipped,0,55,1
+8396e8a9-2fc4-4c28-b37b-b163269609a7,THE_SILENT,HoveringKite,Picked,0,55,1
+8396e8a9-2fc4-4c28-b37b-b163269609a7,THE_SILENT,SlaversCollar,Skipped,0,55,2
+8396e8a9-2fc4-4c28-b37b-b163269609a7,THE_SILENT,Coffee Dripper,Skipped,0,55,2
+8396e8a9-2fc4-4c28-b37b-b163269609a7,THE_SILENT,Empty Cage,Picked,0,55,2
+96fe77cc-66ac-43ba-a42b-b73a48f428e6,THE_SILENT,Ectoplasm,Skipped,0,40,1
+96fe77cc-66ac-43ba-a42b-b73a48f428e6,THE_SILENT,Cursed Key,Skipped,0,40,1
+96fe77cc-66ac-43ba-a42b-b73a48f428e6,THE_SILENT,Coffee Dripper,Picked,0,40,1
+96fe77cc-66ac-43ba-a42b-b73a48f428e6,THE_SILENT,SacredBark,Skipped,0,40,2
+96fe77cc-66ac-43ba-a42b-b73a48f428e6,THE_SILENT,Calling Bell,Skipped,0,40,2
+96fe77cc-66ac-43ba-a42b-b73a48f428e6,THE_SILENT,Pandora's Box,Picked,0,40,2
+1d1f6b70-5011-420a-8b62-ba24ff99e125,THE_SILENT,Calling Bell,Skipped,1,57,1
+1d1f6b70-5011-420a-8b62-ba24ff99e125,THE_SILENT,Empty Cage,Skipped,1,57,1
+1d1f6b70-5011-420a-8b62-ba24ff99e125,THE_SILENT,Pandora's Box,Picked,1,57,1
+1d1f6b70-5011-420a-8b62-ba24ff99e125,THE_SILENT,Ring of the Serpent,Skipped,1,57,2
+1d1f6b70-5011-420a-8b62-ba24ff99e125,THE_SILENT,Sozu,Skipped,1,57,2
+1d1f6b70-5011-420a-8b62-ba24ff99e125,THE_SILENT,HoveringKite,Picked,1,57,2
+bc6e98eb-0d41-488f-b65a-10c24c9d27ea,THE_SILENT,Black Star,Skipped,1,57,1
+bc6e98eb-0d41-488f-b65a-10c24c9d27ea,THE_SILENT,Tiny House,Skipped,1,57,1
+bc6e98eb-0d41-488f-b65a-10c24c9d27ea,THE_SILENT,Pandora's Box,Picked,1,57,1
+bc6e98eb-0d41-488f-b65a-10c24c9d27ea,THE_SILENT,Runic Pyramid,Skipped,1,57,2
+bc6e98eb-0d41-488f-b65a-10c24c9d27ea,THE_SILENT,Ring of the Serpent,Skipped,1,57,2
+bc6e98eb-0d41-488f-b65a-10c24c9d27ea,THE_SILENT,SlaversCollar,Picked,1,57,2
+1c711c68-dc1b-4917-9348-062b00db0d5a,THE_SILENT,Ring of the Serpent,Skipped,1,57,1
+1c711c68-dc1b-4917-9348-062b00db0d5a,THE_SILENT,Busted Crown,Skipped,1,57,1
+1c711c68-dc1b-4917-9348-062b00db0d5a,THE_SILENT,Philosopher's Stone,Picked,1,57,1
+1c711c68-dc1b-4917-9348-062b00db0d5a,THE_SILENT,Cursed Key,Skipped,1,57,2
+1c711c68-dc1b-4917-9348-062b00db0d5a,THE_SILENT,HoveringKite,Skipped,1,57,2
+1c711c68-dc1b-4917-9348-062b00db0d5a,THE_SILENT,SlaversCollar,Picked,1,57,2
+b090cadc-9ded-4a53-928f-9e0a05680a5d,THE_SILENT,Black Star,Skipped,1,57,1
+b090cadc-9ded-4a53-928f-9e0a05680a5d,THE_SILENT,Sozu,Skipped,1,57,1
+b090cadc-9ded-4a53-928f-9e0a05680a5d,THE_SILENT,Philosopher's Stone,Picked,1,57,1
+b090cadc-9ded-4a53-928f-9e0a05680a5d,THE_SILENT,Ring of the Serpent,Skipped,1,57,2
+b090cadc-9ded-4a53-928f-9e0a05680a5d,THE_SILENT,Fusion Hammer,Skipped,1,57,2
+b090cadc-9ded-4a53-928f-9e0a05680a5d,THE_SILENT,HoveringKite,Picked,1,57,2
+103add4a-0049-49dc-8f62-c05c5368df11,THE_SILENT,Philosopher's Stone,Skipped,0,22,1
+103add4a-0049-49dc-8f62-c05c5368df11,THE_SILENT,SacredBark,Skipped,0,22,1
+103add4a-0049-49dc-8f62-c05c5368df11,THE_SILENT,Runic Pyramid,Picked,0,22,1
+26ff7af3-d570-4282-b754-ce3adaafd477,THE_SILENT,Ring of the Serpent,Skipped,0,56,1
+26ff7af3-d570-4282-b754-ce3adaafd477,THE_SILENT,Runic Dome,Skipped,0,56,1
+26ff7af3-d570-4282-b754-ce3adaafd477,THE_SILENT,Black Star,Picked,0,56,1
+26ff7af3-d570-4282-b754-ce3adaafd477,THE_SILENT,Astrolabe,Skipped,0,56,2
+26ff7af3-d570-4282-b754-ce3adaafd477,THE_SILENT,Tiny House,Skipped,0,56,2
+26ff7af3-d570-4282-b754-ce3adaafd477,THE_SILENT,Fusion Hammer,Picked,0,56,2
+9eab083a-ce30-44cf-a56f-47c7356624b2,THE_SILENT,Black Star,Skipped,0,39,1
+9eab083a-ce30-44cf-a56f-47c7356624b2,THE_SILENT,Velvet Choker,Skipped,0,39,1
+9eab083a-ce30-44cf-a56f-47c7356624b2,THE_SILENT,Empty Cage,Picked,0,39,1
+9eab083a-ce30-44cf-a56f-47c7356624b2,THE_SILENT,Runic Dome,Skipped,0,39,2
+9eab083a-ce30-44cf-a56f-47c7356624b2,THE_SILENT,HoveringKite,Skipped,0,39,2
+9eab083a-ce30-44cf-a56f-47c7356624b2,THE_SILENT,Busted Crown,Picked,0,39,2
+62f06c46-2c1d-46f9-9629-003752ce20d1,THE_SILENT,Ring of the Serpent,Skipped,0,37,1
+62f06c46-2c1d-46f9-9629-003752ce20d1,THE_SILENT,Fusion Hammer,Skipped,0,37,1
+62f06c46-2c1d-46f9-9629-003752ce20d1,THE_SILENT,Empty Cage,Picked,0,37,1
+62f06c46-2c1d-46f9-9629-003752ce20d1,THE_SILENT,Pandora's Box,Skipped,0,37,2
+62f06c46-2c1d-46f9-9629-003752ce20d1,THE_SILENT,Sozu,Skipped,0,37,2
+62f06c46-2c1d-46f9-9629-003752ce20d1,THE_SILENT,Philosopher's Stone,Picked,0,37,2
+f205ee31-521b-4e71-b3bd-21e6ad4eae35,THE_SILENT,Empty Cage,Skipped,1,57,1
+f205ee31-521b-4e71-b3bd-21e6ad4eae35,THE_SILENT,Velvet Choker,Skipped,1,57,1
+f205ee31-521b-4e71-b3bd-21e6ad4eae35,THE_SILENT,Runic Pyramid,Picked,1,57,1
+f205ee31-521b-4e71-b3bd-21e6ad4eae35,THE_SILENT,Black Star,Skipped,1,57,2
+f205ee31-521b-4e71-b3bd-21e6ad4eae35,THE_SILENT,HoveringKite,Skipped,1,57,2
+f205ee31-521b-4e71-b3bd-21e6ad4eae35,THE_SILENT,Cursed Key,Picked,1,57,2
+1372bf77-8e2f-4d98-95ca-32cd69e9cf66,THE_SILENT,Empty Cage,Skipped,0,27,1
+1372bf77-8e2f-4d98-95ca-32cd69e9cf66,THE_SILENT,Tiny House,Skipped,0,27,1
+1372bf77-8e2f-4d98-95ca-32cd69e9cf66,THE_SILENT,Runic Dome,Picked,0,27,1
+5d1a9311-a3e8-4186-b53d-cc648f8125f0,THE_SILENT,HoveringKite,Skipped,0,51,1
+5d1a9311-a3e8-4186-b53d-cc648f8125f0,THE_SILENT,SlaversCollar,Skipped,0,51,1
+5d1a9311-a3e8-4186-b53d-cc648f8125f0,THE_SILENT,Astrolabe,Picked,0,51,1
+5d1a9311-a3e8-4186-b53d-cc648f8125f0,THE_SILENT,Runic Dome,Skipped,0,51,2
+5d1a9311-a3e8-4186-b53d-cc648f8125f0,THE_SILENT,Snecko Eye,Skipped,0,51,2
+5d1a9311-a3e8-4186-b53d-cc648f8125f0,THE_SILENT,Empty Cage,Picked,0,51,2
+9fc783ec-0593-4c2b-b2a1-b49b510e6b10,THE_SILENT,Calling Bell,Skipped,1,57,1
+9fc783ec-0593-4c2b-b2a1-b49b510e6b10,THE_SILENT,SlaversCollar,Skipped,1,57,1
+9fc783ec-0593-4c2b-b2a1-b49b510e6b10,THE_SILENT,Pandora's Box,Picked,1,57,1
+9fc783ec-0593-4c2b-b2a1-b49b510e6b10,THE_SILENT,SacredBark,Skipped,1,57,2
+9fc783ec-0593-4c2b-b2a1-b49b510e6b10,THE_SILENT,Empty Cage,Skipped,1,57,2
+9fc783ec-0593-4c2b-b2a1-b49b510e6b10,THE_SILENT,Fusion Hammer,Picked,1,57,2
+6df49aca-547c-4ed1-97c7-e71f008f2cfe,THE_SILENT,Coffee Dripper,Skipped,1,57,1
+6df49aca-547c-4ed1-97c7-e71f008f2cfe,THE_SILENT,Fusion Hammer,Skipped,1,57,1
+6df49aca-547c-4ed1-97c7-e71f008f2cfe,THE_SILENT,WristBlade,Picked,1,57,1
+6df49aca-547c-4ed1-97c7-e71f008f2cfe,THE_SILENT,Philosopher's Stone,Skipped,1,57,2
+6df49aca-547c-4ed1-97c7-e71f008f2cfe,THE_SILENT,Calling Bell,Skipped,1,57,2
+6df49aca-547c-4ed1-97c7-e71f008f2cfe,THE_SILENT,Pandora's Box,Picked,1,57,2
+78f04c32-1c6c-48d9-a697-ca3d2e5915e5,THE_SILENT,WristBlade,Skipped,0,27,1
+78f04c32-1c6c-48d9-a697-ca3d2e5915e5,THE_SILENT,Busted Crown,Skipped,0,27,1
+78f04c32-1c6c-48d9-a697-ca3d2e5915e5,THE_SILENT,Empty Cage,Picked,0,27,1
+d372caae-e162-4519-aa23-164660069eac,THE_SILENT,Ring of the Serpent,Skipped,1,57,1
+d372caae-e162-4519-aa23-164660069eac,THE_SILENT,Ectoplasm,Skipped,1,57,1
+d372caae-e162-4519-aa23-164660069eac,THE_SILENT,SlaversCollar,Picked,1,57,1
+d372caae-e162-4519-aa23-164660069eac,THE_SILENT,Velvet Choker,Skipped,1,57,2
+d372caae-e162-4519-aa23-164660069eac,THE_SILENT,Tiny House,Skipped,1,57,2
+d372caae-e162-4519-aa23-164660069eac,THE_SILENT,Philosopher's Stone,Picked,1,57,2
+7caca31b-01b8-4e14-a8bf-986b26242022,THE_SILENT,HoveringKite,Skipped,1,57,1
+7caca31b-01b8-4e14-a8bf-986b26242022,THE_SILENT,Snecko Eye,Skipped,1,57,1
+7caca31b-01b8-4e14-a8bf-986b26242022,THE_SILENT,Coffee Dripper,Picked,1,57,1
+7caca31b-01b8-4e14-a8bf-986b26242022,THE_SILENT,Philosopher's Stone,Skipped,1,57,2
+7caca31b-01b8-4e14-a8bf-986b26242022,THE_SILENT,Busted Crown,Skipped,1,57,2
+7caca31b-01b8-4e14-a8bf-986b26242022,THE_SILENT,Runic Pyramid,Picked,1,57,2
+c07333df-616e-431a-9a56-ec6efd9ff144,THE_SILENT,Fusion Hammer,Skipped,1,57,1
+c07333df-616e-431a-9a56-ec6efd9ff144,THE_SILENT,Philosopher's Stone,Skipped,1,57,1
+c07333df-616e-431a-9a56-ec6efd9ff144,THE_SILENT,Runic Pyramid,Picked,1,57,1
+c07333df-616e-431a-9a56-ec6efd9ff144,THE_SILENT,Black Star,Skipped,1,57,2
+c07333df-616e-431a-9a56-ec6efd9ff144,THE_SILENT,Runic Dome,Skipped,1,57,2
+c07333df-616e-431a-9a56-ec6efd9ff144,THE_SILENT,Cursed Key,Picked,1,57,2
+f42f05a5-330d-406b-9454-3ad87a5fdbf0,THE_SILENT,Sozu,Skipped,0,56,1
+f42f05a5-330d-406b-9454-3ad87a5fdbf0,THE_SILENT,WristBlade,Skipped,0,56,1
+f42f05a5-330d-406b-9454-3ad87a5fdbf0,THE_SILENT,Runic Pyramid,Picked,0,56,1
+f42f05a5-330d-406b-9454-3ad87a5fdbf0,THE_SILENT,Empty Cage,Skipped,0,56,2
+f42f05a5-330d-406b-9454-3ad87a5fdbf0,THE_SILENT,Snecko Eye,Skipped,0,56,2
+f42f05a5-330d-406b-9454-3ad87a5fdbf0,THE_SILENT,Fusion Hammer,Picked,0,56,2
+f226208e-a194-4625-a820-35d7fa65c938,THE_SILENT,Busted Crown,Skipped,1,57,1
+f226208e-a194-4625-a820-35d7fa65c938,THE_SILENT,Pandora's Box,Skipped,1,57,1
+f226208e-a194-4625-a820-35d7fa65c938,THE_SILENT,Coffee Dripper,Picked,1,57,1
+f226208e-a194-4625-a820-35d7fa65c938,THE_SILENT,WristBlade,Skipped,1,57,2
+f226208e-a194-4625-a820-35d7fa65c938,THE_SILENT,Philosopher's Stone,Skipped,1,57,2
+f226208e-a194-4625-a820-35d7fa65c938,THE_SILENT,Empty Cage,Picked,1,57,2
+42ecd8cc-a8d2-4e46-8825-7934e21002fe,THE_SILENT,Tiny House,Skipped,0,50,1
+42ecd8cc-a8d2-4e46-8825-7934e21002fe,THE_SILENT,Runic Dome,Skipped,0,50,1
+42ecd8cc-a8d2-4e46-8825-7934e21002fe,THE_SILENT,Snecko Eye,Picked,0,50,1
+42ecd8cc-a8d2-4e46-8825-7934e21002fe,THE_SILENT,HoveringKite,Skipped,0,50,2
+42ecd8cc-a8d2-4e46-8825-7934e21002fe,THE_SILENT,Astrolabe,Skipped,0,50,2
+42ecd8cc-a8d2-4e46-8825-7934e21002fe,THE_SILENT,Sozu,Picked,0,50,2
+ca5c4d89-1f7d-41b9-a2fc-92368ce8c215,THE_SILENT,Pandora's Box,Skipped,0,33,1
+ca5c4d89-1f7d-41b9-a2fc-92368ce8c215,THE_SILENT,Empty Cage,Skipped,0,33,1
+ca5c4d89-1f7d-41b9-a2fc-92368ce8c215,THE_SILENT,Runic Pyramid,Picked,0,33,1
+ed6839ab-3567-4dd4-b1c7-2c226e5f2733,THE_SILENT,Snecko Eye,Skipped,1,57,1
+ed6839ab-3567-4dd4-b1c7-2c226e5f2733,THE_SILENT,Astrolabe,Skipped,1,57,1
+ed6839ab-3567-4dd4-b1c7-2c226e5f2733,THE_SILENT,Coffee Dripper,Picked,1,57,1
+ed6839ab-3567-4dd4-b1c7-2c226e5f2733,THE_SILENT,WristBlade,Skipped,1,57,2
+ed6839ab-3567-4dd4-b1c7-2c226e5f2733,THE_SILENT,Fusion Hammer,Skipped,1,57,2
+ed6839ab-3567-4dd4-b1c7-2c226e5f2733,THE_SILENT,Velvet Choker,Picked,1,57,2
+c668827b-8208-4cc3-aa3d-e8217da084c4,THE_SILENT,WristBlade,Skipped,0,33,1
+c668827b-8208-4cc3-aa3d-e8217da084c4,THE_SILENT,Ring of the Serpent,Skipped,0,33,1
+c668827b-8208-4cc3-aa3d-e8217da084c4,THE_SILENT,Pandora's Box,Picked,0,33,1
+e26b0cd8-27da-4958-a1c3-4ae620ebf57c,THE_SILENT,WristBlade,Skipped,1,57,1
+e26b0cd8-27da-4958-a1c3-4ae620ebf57c,THE_SILENT,Runic Dome,Skipped,1,57,1
+e26b0cd8-27da-4958-a1c3-4ae620ebf57c,THE_SILENT,Astrolabe,Picked,1,57,1
+e26b0cd8-27da-4958-a1c3-4ae620ebf57c,THE_SILENT,SlaversCollar,Skipped,1,57,2
+e26b0cd8-27da-4958-a1c3-4ae620ebf57c,THE_SILENT,Busted Crown,Skipped,1,57,2
+e26b0cd8-27da-4958-a1c3-4ae620ebf57c,THE_SILENT,Fusion Hammer,Picked,1,57,2
+7089d152-6ae6-4dd3-b844-4fb64731cd56,THE_SILENT,SacredBark,Skipped,0,51,1
+7089d152-6ae6-4dd3-b844-4fb64731cd56,THE_SILENT,Ectoplasm,Skipped,0,51,1
+7089d152-6ae6-4dd3-b844-4fb64731cd56,THE_SILENT,Coffee Dripper,Picked,0,51,1
+7089d152-6ae6-4dd3-b844-4fb64731cd56,THE_SILENT,Busted Crown,Skipped,0,51,2
+7089d152-6ae6-4dd3-b844-4fb64731cd56,THE_SILENT,Tiny House,Skipped,0,51,2
+7089d152-6ae6-4dd3-b844-4fb64731cd56,THE_SILENT,SlaversCollar,Picked,0,51,2
+bfecaf04-3f00-46e8-bc01-7b663257061c,THE_SILENT,Ectoplasm,Skipped,0,51,1
+bfecaf04-3f00-46e8-bc01-7b663257061c,THE_SILENT,Ring of the Serpent,Skipped,0,51,1
+bfecaf04-3f00-46e8-bc01-7b663257061c,THE_SILENT,Astrolabe,Picked,0,51,1
+bfecaf04-3f00-46e8-bc01-7b663257061c,THE_SILENT,Busted Crown,Skipped,0,51,2
+bfecaf04-3f00-46e8-bc01-7b663257061c,THE_SILENT,Tiny House,Skipped,0,51,2
+bfecaf04-3f00-46e8-bc01-7b663257061c,THE_SILENT,WristBlade,Picked,0,51,2
+98df5485-3c9c-4036-a442-4b72e0bdb322,THE_SILENT,Fusion Hammer,Skipped,1,57,1
+98df5485-3c9c-4036-a442-4b72e0bdb322,THE_SILENT,Busted Crown,Skipped,1,57,1
+98df5485-3c9c-4036-a442-4b72e0bdb322,THE_SILENT,Black Star,Picked,1,57,1
+98df5485-3c9c-4036-a442-4b72e0bdb322,THE_SILENT,SlaversCollar,Skipped,1,57,2
+98df5485-3c9c-4036-a442-4b72e0bdb322,THE_SILENT,Pandora's Box,Skipped,1,57,2
+98df5485-3c9c-4036-a442-4b72e0bdb322,THE_SILENT,Philosopher's Stone,Picked,1,57,2
+5f944584-1d51-4dfa-8178-ca825ed0447c,THE_SILENT,Coffee Dripper,Skipped,1,57,1
+5f944584-1d51-4dfa-8178-ca825ed0447c,THE_SILENT,HoveringKite,Skipped,1,57,1
+5f944584-1d51-4dfa-8178-ca825ed0447c,THE_SILENT,Fusion Hammer,Picked,1,57,1
+5f944584-1d51-4dfa-8178-ca825ed0447c,THE_SILENT,Velvet Choker,Skipped,1,57,2
+5f944584-1d51-4dfa-8178-ca825ed0447c,THE_SILENT,Sozu,Skipped,1,57,2
+5f944584-1d51-4dfa-8178-ca825ed0447c,THE_SILENT,Cursed Key,Picked,1,57,2
+b351b390-7407-4ade-b122-0dd35427f98b,THE_SILENT,Sozu,Skipped,0,27,1
+b351b390-7407-4ade-b122-0dd35427f98b,THE_SILENT,Busted Crown,Skipped,0,27,1
+b351b390-7407-4ade-b122-0dd35427f98b,THE_SILENT,Calling Bell,Picked,0,27,1
+7e2f94c6-8075-43c0-8964-736707852f71,THE_SILENT,Black Star,Skipped,1,57,1
+7e2f94c6-8075-43c0-8964-736707852f71,THE_SILENT,Busted Crown,Skipped,1,57,1
+7e2f94c6-8075-43c0-8964-736707852f71,THE_SILENT,Runic Dome,Picked,1,57,1
+7e2f94c6-8075-43c0-8964-736707852f71,THE_SILENT,WristBlade,Skipped,1,57,2
+7e2f94c6-8075-43c0-8964-736707852f71,THE_SILENT,Cursed Key,Skipped,1,57,2
+7e2f94c6-8075-43c0-8964-736707852f71,THE_SILENT,Philosopher's Stone,Picked,1,57,2
+553ac303-dc19-4bac-94b8-de54333dc415,THE_SILENT,Cursed Key,Skipped,1,57,1
+553ac303-dc19-4bac-94b8-de54333dc415,THE_SILENT,Velvet Choker,Skipped,1,57,1
+553ac303-dc19-4bac-94b8-de54333dc415,THE_SILENT,Astrolabe,Picked,1,57,1
+553ac303-dc19-4bac-94b8-de54333dc415,THE_SILENT,Pandora's Box,Skipped,1,57,2
+553ac303-dc19-4bac-94b8-de54333dc415,THE_SILENT,Runic Pyramid,Skipped,1,57,2
+553ac303-dc19-4bac-94b8-de54333dc415,THE_SILENT,HoveringKite,Picked,1,57,2
+e373a21b-14fb-408e-b9ce-6476f091739b,THE_SILENT,Empty Cage,Skipped,1,57,1
+e373a21b-14fb-408e-b9ce-6476f091739b,THE_SILENT,Astrolabe,Skipped,1,57,1
+e373a21b-14fb-408e-b9ce-6476f091739b,THE_SILENT,Coffee Dripper,Picked,1,57,1
+e373a21b-14fb-408e-b9ce-6476f091739b,THE_SILENT,Snecko Eye,Skipped,1,57,2
+e373a21b-14fb-408e-b9ce-6476f091739b,THE_SILENT,Tiny House,Skipped,1,57,2
+e373a21b-14fb-408e-b9ce-6476f091739b,THE_SILENT,SlaversCollar,Picked,1,57,2
+14536cc5-14ba-40b7-b7d2-9637f18f7c7c,THE_SILENT,Calling Bell,Skipped,1,57,1
+14536cc5-14ba-40b7-b7d2-9637f18f7c7c,THE_SILENT,Black Star,Skipped,1,57,1
+14536cc5-14ba-40b7-b7d2-9637f18f7c7c,THE_SILENT,Astrolabe,Picked,1,57,1
+14536cc5-14ba-40b7-b7d2-9637f18f7c7c,THE_SILENT,Pandora's Box,Skipped,1,57,2
+14536cc5-14ba-40b7-b7d2-9637f18f7c7c,THE_SILENT,WristBlade,Skipped,1,57,2
+14536cc5-14ba-40b7-b7d2-9637f18f7c7c,THE_SILENT,Runic Pyramid,Picked,1,57,2
+1dbb4750-a3a0-4410-b169-c992bc6447ea,THE_SILENT,HoveringKite,Skipped,0,51,1
+1dbb4750-a3a0-4410-b169-c992bc6447ea,THE_SILENT,Empty Cage,Skipped,0,51,1
+1dbb4750-a3a0-4410-b169-c992bc6447ea,THE_SILENT,Astrolabe,Picked,0,51,1
+1dbb4750-a3a0-4410-b169-c992bc6447ea,THE_SILENT,Busted Crown,Skipped,0,51,2
+1dbb4750-a3a0-4410-b169-c992bc6447ea,THE_SILENT,Pandora's Box,Skipped,0,51,2
+1dbb4750-a3a0-4410-b169-c992bc6447ea,THE_SILENT,Coffee Dripper,Picked,0,51,2
+e979b0e2-4c51-4d75-9821-8b419ade5ed4,THE_SILENT,Busted Crown,Skipped,0,56,1
+e979b0e2-4c51-4d75-9821-8b419ade5ed4,THE_SILENT,Black Star,Skipped,0,56,1
+e979b0e2-4c51-4d75-9821-8b419ade5ed4,THE_SILENT,SlaversCollar,Picked,0,56,1
+e979b0e2-4c51-4d75-9821-8b419ade5ed4,THE_SILENT,Coffee Dripper,Skipped,0,56,2
+e979b0e2-4c51-4d75-9821-8b419ade5ed4,THE_SILENT,Velvet Choker,Skipped,0,56,2
+e979b0e2-4c51-4d75-9821-8b419ade5ed4,THE_SILENT,Ring of the Serpent,Picked,0,56,2
+70852b5d-361f-404e-9e10-97340abc4a05,THE_SILENT,Fusion Hammer,Skipped,0,27,1
+70852b5d-361f-404e-9e10-97340abc4a05,THE_SILENT,WristBlade,Skipped,0,27,1
+70852b5d-361f-404e-9e10-97340abc4a05,THE_SILENT,Black Star,Picked,0,27,1
+ecc89d42-1c69-4966-89a4-0e0db723af0f,THE_SILENT,Ectoplasm,Skipped,1,57,1
+ecc89d42-1c69-4966-89a4-0e0db723af0f,THE_SILENT,Ring of the Serpent,Skipped,1,57,1
+ecc89d42-1c69-4966-89a4-0e0db723af0f,THE_SILENT,Astrolabe,Picked,1,57,1
+ecc89d42-1c69-4966-89a4-0e0db723af0f,THE_SILENT,SacredBark,Skipped,1,57,2
+ecc89d42-1c69-4966-89a4-0e0db723af0f,THE_SILENT,Snecko Eye,Skipped,1,57,2
+ecc89d42-1c69-4966-89a4-0e0db723af0f,THE_SILENT,Black Star,Picked,1,57,2
+2c8ebe48-eefd-4a78-bb0d-00f10f19b119,THE_SILENT,Empty Cage,Skipped,0,38,1
+2c8ebe48-eefd-4a78-bb0d-00f10f19b119,THE_SILENT,Fusion Hammer,Skipped,0,38,1
+2c8ebe48-eefd-4a78-bb0d-00f10f19b119,THE_SILENT,Astrolabe,Picked,0,38,1
+2c8ebe48-eefd-4a78-bb0d-00f10f19b119,THE_SILENT,Pandora's Box,Skipped,0,38,2
+2c8ebe48-eefd-4a78-bb0d-00f10f19b119,THE_SILENT,Velvet Choker,Skipped,0,38,2
+2c8ebe48-eefd-4a78-bb0d-00f10f19b119,THE_SILENT,Tiny House,Picked,0,38,2
+03c54490-221a-4b43-bf6d-d0c19f667c2a,THE_SILENT,Black Star,Skipped,1,57,1
+03c54490-221a-4b43-bf6d-d0c19f667c2a,THE_SILENT,Velvet Choker,Skipped,1,57,1
+03c54490-221a-4b43-bf6d-d0c19f667c2a,THE_SILENT,Cursed Key,Picked,1,57,1
+03c54490-221a-4b43-bf6d-d0c19f667c2a,THE_SILENT,Astrolabe,Skipped,1,57,2
+03c54490-221a-4b43-bf6d-d0c19f667c2a,THE_SILENT,Philosopher's Stone,Skipped,1,57,2
+03c54490-221a-4b43-bf6d-d0c19f667c2a,THE_SILENT,SlaversCollar,Picked,1,57,2
+905efa62-be47-4806-a8b3-bd1502fd3215,THE_SILENT,Fusion Hammer,Skipped,1,57,1
+905efa62-be47-4806-a8b3-bd1502fd3215,THE_SILENT,WristBlade,Skipped,1,57,1
+905efa62-be47-4806-a8b3-bd1502fd3215,THE_SILENT,Empty Cage,Picked,1,57,1
+905efa62-be47-4806-a8b3-bd1502fd3215,THE_SILENT,Tiny House,Skipped,1,57,2
+905efa62-be47-4806-a8b3-bd1502fd3215,THE_SILENT,Velvet Choker,Skipped,1,57,2
+905efa62-be47-4806-a8b3-bd1502fd3215,THE_SILENT,Coffee Dripper,Picked,1,57,2
+e5d284b3-1aa8-4c35-93d7-2a466d8971d3,THE_SILENT,SacredBark,Skipped,1,57,1
+e5d284b3-1aa8-4c35-93d7-2a466d8971d3,THE_SILENT,WristBlade,Skipped,1,57,1
+e5d284b3-1aa8-4c35-93d7-2a466d8971d3,THE_SILENT,Astrolabe,Picked,1,57,1
+e5d284b3-1aa8-4c35-93d7-2a466d8971d3,THE_SILENT,Philosopher's Stone,Skipped,1,57,2
+e5d284b3-1aa8-4c35-93d7-2a466d8971d3,THE_SILENT,Sozu,Skipped,1,57,2
+e5d284b3-1aa8-4c35-93d7-2a466d8971d3,THE_SILENT,Calling Bell,Picked,1,57,2
+2924a05d-d83d-400f-ab29-4151c56c7d39,DEFECT,Tiny House,Skipped,1,57,1
+2924a05d-d83d-400f-ab29-4151c56c7d39,DEFECT,Cursed Key,Skipped,1,57,1
+2924a05d-d83d-400f-ab29-4151c56c7d39,DEFECT,SlaversCollar,Picked,1,57,1
+2924a05d-d83d-400f-ab29-4151c56c7d39,DEFECT,SacredBark,Skipped,1,57,2
+2924a05d-d83d-400f-ab29-4151c56c7d39,DEFECT,Astrolabe,Skipped,1,57,2
+2924a05d-d83d-400f-ab29-4151c56c7d39,DEFECT,Coffee Dripper,Picked,1,57,2
+1ba7e7de-26c0-4d6c-b140-0116ed6ca900,DEFECT,Busted Crown,Skipped,1,57,1
+1ba7e7de-26c0-4d6c-b140-0116ed6ca900,DEFECT,Inserter,Skipped,1,57,1
+1ba7e7de-26c0-4d6c-b140-0116ed6ca900,DEFECT,Black Star,Picked,1,57,1
+1ba7e7de-26c0-4d6c-b140-0116ed6ca900,DEFECT,SacredBark,Skipped,1,57,2
+1ba7e7de-26c0-4d6c-b140-0116ed6ca900,DEFECT,Philosopher's Stone,Skipped,1,57,2
+1ba7e7de-26c0-4d6c-b140-0116ed6ca900,DEFECT,Nuclear Battery,Picked,1,57,2
+5b99622a-7b9e-42fd-8d9a-c4b2b929b712,DEFECT,Snecko Eye,Skipped,1,57,1
+5b99622a-7b9e-42fd-8d9a-c4b2b929b712,DEFECT,Velvet Choker,Skipped,1,57,1
+5b99622a-7b9e-42fd-8d9a-c4b2b929b712,DEFECT,Coffee Dripper,Picked,1,57,1
+5b99622a-7b9e-42fd-8d9a-c4b2b929b712,DEFECT,Astrolabe,Skipped,1,57,2
+5b99622a-7b9e-42fd-8d9a-c4b2b929b712,DEFECT,Cursed Key,Skipped,1,57,2
+5b99622a-7b9e-42fd-8d9a-c4b2b929b712,DEFECT,Inserter,Picked,1,57,2
+73c5a26d-82ee-4c17-a761-3709b94538f3,DEFECT,Snecko Eye,Skipped,1,57,1
+73c5a26d-82ee-4c17-a761-3709b94538f3,DEFECT,Philosopher's Stone,Skipped,1,57,1
+73c5a26d-82ee-4c17-a761-3709b94538f3,DEFECT,Black Star,Picked,1,57,1
+73c5a26d-82ee-4c17-a761-3709b94538f3,DEFECT,Tiny House,Skipped,1,57,2
+73c5a26d-82ee-4c17-a761-3709b94538f3,DEFECT,Inserter,Skipped,1,57,2
+73c5a26d-82ee-4c17-a761-3709b94538f3,DEFECT,Fusion Hammer,Picked,1,57,2
+93840920-17e6-4685-a364-9d3bb3cea3dd,DEFECT,Calling Bell,Skipped,1,57,1
+93840920-17e6-4685-a364-9d3bb3cea3dd,DEFECT,Sozu,Skipped,1,57,1
+93840920-17e6-4685-a364-9d3bb3cea3dd,DEFECT,FrozenCore,Picked,1,57,1
+93840920-17e6-4685-a364-9d3bb3cea3dd,DEFECT,Philosopher's Stone,Skipped,1,57,2
+93840920-17e6-4685-a364-9d3bb3cea3dd,DEFECT,Snecko Eye,Skipped,1,57,2
+93840920-17e6-4685-a364-9d3bb3cea3dd,DEFECT,Fusion Hammer,Picked,1,57,2
+4e03cb34-521c-4c84-81d9-ab5d6bc5ae32,DEFECT,Coffee Dripper,Skipped,0,56,1
+4e03cb34-521c-4c84-81d9-ab5d6bc5ae32,DEFECT,Philosopher's Stone,Skipped,0,56,1
+4e03cb34-521c-4c84-81d9-ab5d6bc5ae32,DEFECT,Snecko Eye,Picked,0,56,1
+4e03cb34-521c-4c84-81d9-ab5d6bc5ae32,DEFECT,Empty Cage,Skipped,0,56,2
+4e03cb34-521c-4c84-81d9-ab5d6bc5ae32,DEFECT,Cursed Key,Skipped,0,56,2
+4e03cb34-521c-4c84-81d9-ab5d6bc5ae32,DEFECT,SlaversCollar,Picked,0,56,2
+3829b511-40ae-43d1-8199-d4fd3437c734,DEFECT,Runic Pyramid,Skipped,0,56,1
+3829b511-40ae-43d1-8199-d4fd3437c734,DEFECT,Velvet Choker,Skipped,0,56,1
+3829b511-40ae-43d1-8199-d4fd3437c734,DEFECT,SlaversCollar,Picked,0,56,1
+3829b511-40ae-43d1-8199-d4fd3437c734,DEFECT,Tiny House,Skipped,0,56,2
+3829b511-40ae-43d1-8199-d4fd3437c734,DEFECT,Sozu,Skipped,0,56,2
+3829b511-40ae-43d1-8199-d4fd3437c734,DEFECT,Cursed Key,Picked,0,56,2
+b09b323e-72fe-45bf-a4e4-709b98e98106,DEFECT,Snecko Eye,Skipped,1,57,1
+b09b323e-72fe-45bf-a4e4-709b98e98106,DEFECT,Philosopher's Stone,Skipped,1,57,1
+b09b323e-72fe-45bf-a4e4-709b98e98106,DEFECT,Pandora's Box,Picked,1,57,1
+b09b323e-72fe-45bf-a4e4-709b98e98106,DEFECT,Velvet Choker,Skipped,1,57,2
+b09b323e-72fe-45bf-a4e4-709b98e98106,DEFECT,SlaversCollar,Skipped,1,57,2
+b09b323e-72fe-45bf-a4e4-709b98e98106,DEFECT,Nuclear Battery,Picked,1,57,2
+d73b3b21-f8e3-4254-953b-ac7f2297d986,DEFECT,FrozenCore,Skipped,1,57,1
+d73b3b21-f8e3-4254-953b-ac7f2297d986,DEFECT,Nuclear Battery,Skipped,1,57,1
+d73b3b21-f8e3-4254-953b-ac7f2297d986,DEFECT,Calling Bell,Picked,1,57,1
+d73b3b21-f8e3-4254-953b-ac7f2297d986,DEFECT,SacredBark,Skipped,1,57,2
+d73b3b21-f8e3-4254-953b-ac7f2297d986,DEFECT,Black Star,Skipped,1,57,2
+d73b3b21-f8e3-4254-953b-ac7f2297d986,DEFECT,Cursed Key,Picked,1,57,2
+6c5cc1eb-8c3d-4fb5-9c13-2176d357e886,DEFECT,Black Star,Skipped,1,57,1
+6c5cc1eb-8c3d-4fb5-9c13-2176d357e886,DEFECT,Cursed Key,Skipped,1,57,1
+6c5cc1eb-8c3d-4fb5-9c13-2176d357e886,DEFECT,Astrolabe,Picked,1,57,1
+6c5cc1eb-8c3d-4fb5-9c13-2176d357e886,DEFECT,Tiny House,Skipped,1,57,2
+6c5cc1eb-8c3d-4fb5-9c13-2176d357e886,DEFECT,Philosopher's Stone,Skipped,1,57,2
+6c5cc1eb-8c3d-4fb5-9c13-2176d357e886,DEFECT,Coffee Dripper,Picked,1,57,2
+7cda9914-96e1-4181-ab32-af9b23d853a9,DEFECT,Velvet Choker,Skipped,0,56,1
+7cda9914-96e1-4181-ab32-af9b23d853a9,DEFECT,SlaversCollar,Skipped,0,56,1
+7cda9914-96e1-4181-ab32-af9b23d853a9,DEFECT,Calling Bell,Picked,0,56,1
+7cda9914-96e1-4181-ab32-af9b23d853a9,DEFECT,Snecko Eye,Skipped,0,56,2
+7cda9914-96e1-4181-ab32-af9b23d853a9,DEFECT,Black Star,Skipped,0,56,2
+7cda9914-96e1-4181-ab32-af9b23d853a9,DEFECT,Inserter,Picked,0,56,2
+ca635a97-52e8-46ef-87da-a95cd2a5705b,DEFECT,Runic Dome,Skipped,1,57,1
+ca635a97-52e8-46ef-87da-a95cd2a5705b,DEFECT,Empty Cage,Skipped,1,57,1
+ca635a97-52e8-46ef-87da-a95cd2a5705b,DEFECT,Astrolabe,Picked,1,57,1
+ca635a97-52e8-46ef-87da-a95cd2a5705b,DEFECT,Cursed Key,Skipped,1,57,2
+ca635a97-52e8-46ef-87da-a95cd2a5705b,DEFECT,Black Star,Skipped,1,57,2
+ca635a97-52e8-46ef-87da-a95cd2a5705b,DEFECT,Runic Pyramid,Picked,1,57,2
+2b8697a0-acf7-4ef4-bb72-e345ae3b5bbf,DEFECT,Philosopher's Stone,Skipped,1,57,1
+2b8697a0-acf7-4ef4-bb72-e345ae3b5bbf,DEFECT,Tiny House,Skipped,1,57,1
+2b8697a0-acf7-4ef4-bb72-e345ae3b5bbf,DEFECT,Runic Pyramid,Picked,1,57,1
+2b8697a0-acf7-4ef4-bb72-e345ae3b5bbf,DEFECT,Sozu,Skipped,1,57,2
+2b8697a0-acf7-4ef4-bb72-e345ae3b5bbf,DEFECT,Black Star,Skipped,1,57,2
+2b8697a0-acf7-4ef4-bb72-e345ae3b5bbf,DEFECT,Inserter,Picked,1,57,2
+2fc4bc10-68e2-4405-9c6d-9a4a192cd690,DEFECT,FrozenCore,Skipped,0,48,1
+2fc4bc10-68e2-4405-9c6d-9a4a192cd690,DEFECT,Nuclear Battery,Skipped,0,48,1
+2fc4bc10-68e2-4405-9c6d-9a4a192cd690,DEFECT,Coffee Dripper,Picked,0,48,1
+2fc4bc10-68e2-4405-9c6d-9a4a192cd690,DEFECT,Fusion Hammer,Skipped,0,48,2
+2fc4bc10-68e2-4405-9c6d-9a4a192cd690,DEFECT,Calling Bell,Skipped,0,48,2
+2fc4bc10-68e2-4405-9c6d-9a4a192cd690,DEFECT,Astrolabe,Picked,0,48,2
+4fdb36df-ce9d-41c7-9251-b86c67cea56e,DEFECT,Inserter,Skipped,0,56,1
+4fdb36df-ce9d-41c7-9251-b86c67cea56e,DEFECT,Ectoplasm,Skipped,0,56,1
+4fdb36df-ce9d-41c7-9251-b86c67cea56e,DEFECT,Runic Pyramid,Picked,0,56,1
+4fdb36df-ce9d-41c7-9251-b86c67cea56e,DEFECT,Astrolabe,Skipped,0,56,2
+4fdb36df-ce9d-41c7-9251-b86c67cea56e,DEFECT,Black Star,Skipped,0,56,2
+4fdb36df-ce9d-41c7-9251-b86c67cea56e,DEFECT,SlaversCollar,Picked,0,56,2
+91ed5e82-e89c-437f-9df9-c7a239544ced,DEFECT,Runic Dome,Skipped,1,57,1
+91ed5e82-e89c-437f-9df9-c7a239544ced,DEFECT,FrozenCore,Skipped,1,57,1
+91ed5e82-e89c-437f-9df9-c7a239544ced,DEFECT,Astrolabe,Picked,1,57,1
+91ed5e82-e89c-437f-9df9-c7a239544ced,DEFECT,Sozu,Skipped,1,57,2
+91ed5e82-e89c-437f-9df9-c7a239544ced,DEFECT,Snecko Eye,Skipped,1,57,2
+91ed5e82-e89c-437f-9df9-c7a239544ced,DEFECT,SacredBark,Picked,1,57,2
+b3b0fb68-acf9-417f-a049-4f0426e132ac,DEFECT,Ectoplasm,Skipped,0,23,1
+b3b0fb68-acf9-417f-a049-4f0426e132ac,DEFECT,Sozu,Skipped,0,23,1
+b3b0fb68-acf9-417f-a049-4f0426e132ac,DEFECT,Coffee Dripper,Picked,0,23,1
+f4240582-dc01-47ce-a9ea-a391e8e4680b,DEFECT,Ectoplasm,Skipped,0,24,1
+f4240582-dc01-47ce-a9ea-a391e8e4680b,DEFECT,SacredBark,Skipped,0,24,1
+f4240582-dc01-47ce-a9ea-a391e8e4680b,DEFECT,Runic Pyramid,Picked,0,24,1
+ed650fed-09e1-4b36-a6b9-7b8588ba2272,DEFECT,Ectoplasm,Skipped,1,57,1
+ed650fed-09e1-4b36-a6b9-7b8588ba2272,DEFECT,Astrolabe,Skipped,1,57,1
+ed650fed-09e1-4b36-a6b9-7b8588ba2272,DEFECT,Empty Cage,Picked,1,57,1
+ed650fed-09e1-4b36-a6b9-7b8588ba2272,DEFECT,Busted Crown,Skipped,1,57,2
+ed650fed-09e1-4b36-a6b9-7b8588ba2272,DEFECT,Snecko Eye,Skipped,1,57,2
+ed650fed-09e1-4b36-a6b9-7b8588ba2272,DEFECT,Black Star,Picked,1,57,2
+ecc3e9ce-d069-42b0-b0ef-89cc531226fe,DEFECT,SacredBark,Skipped,0,56,1
+ecc3e9ce-d069-42b0-b0ef-89cc531226fe,DEFECT,SlaversCollar,Skipped,0,56,1
+ecc3e9ce-d069-42b0-b0ef-89cc531226fe,DEFECT,Snecko Eye,Picked,0,56,1
+ecc3e9ce-d069-42b0-b0ef-89cc531226fe,DEFECT,Black Star,Skipped,0,56,2
+ecc3e9ce-d069-42b0-b0ef-89cc531226fe,DEFECT,Philosopher's Stone,Skipped,0,56,2
+ecc3e9ce-d069-42b0-b0ef-89cc531226fe,DEFECT,Empty Cage,Picked,0,56,2
+53aeed5f-6a25-4977-a666-a68e71d0f8f7,DEFECT,Ectoplasm,Skipped,0,23,1
+53aeed5f-6a25-4977-a666-a68e71d0f8f7,DEFECT,Velvet Choker,Skipped,0,23,1
+53aeed5f-6a25-4977-a666-a68e71d0f8f7,DEFECT,Black Star,Picked,0,23,1
+07dd3c4c-f43e-4061-b97f-bb0b0b830e09,DEFECT,Astrolabe,Skipped,1,57,1
+07dd3c4c-f43e-4061-b97f-bb0b0b830e09,DEFECT,Nuclear Battery,Skipped,1,57,1
+07dd3c4c-f43e-4061-b97f-bb0b0b830e09,DEFECT,SlaversCollar,Picked,1,57,1
+07dd3c4c-f43e-4061-b97f-bb0b0b830e09,DEFECT,Tiny House,Skipped,1,57,2
+07dd3c4c-f43e-4061-b97f-bb0b0b830e09,DEFECT,SacredBark,Skipped,1,57,2
+07dd3c4c-f43e-4061-b97f-bb0b0b830e09,DEFECT,Sozu,Picked,1,57,2
+67b5d918-33a3-44bb-93bd-cb3b02a8c05c,DEFECT,Velvet Choker,Skipped,0,23,1
+67b5d918-33a3-44bb-93bd-cb3b02a8c05c,DEFECT,Black Star,Skipped,0,23,1
+67b5d918-33a3-44bb-93bd-cb3b02a8c05c,DEFECT,Sozu,Picked,0,23,1
+4e26693c-3188-4e1d-8d2a-0042deaeddbc,DEFECT,SacredBark,Skipped,0,42,1
+4e26693c-3188-4e1d-8d2a-0042deaeddbc,DEFECT,Astrolabe,Skipped,0,42,1
+4e26693c-3188-4e1d-8d2a-0042deaeddbc,DEFECT,Runic Pyramid,Picked,0,42,1
+4e26693c-3188-4e1d-8d2a-0042deaeddbc,DEFECT,Runic Dome,Skipped,0,42,2
+4e26693c-3188-4e1d-8d2a-0042deaeddbc,DEFECT,Snecko Eye,Skipped,0,42,2
+4e26693c-3188-4e1d-8d2a-0042deaeddbc,DEFECT,Tiny House,Picked,0,42,2
+f3d0c3ef-668f-40cf-a1a6-fa0a30316e30,DEFECT,Astrolabe,Skipped,1,57,1
+f3d0c3ef-668f-40cf-a1a6-fa0a30316e30,DEFECT,Tiny House,Skipped,1,57,1
+f3d0c3ef-668f-40cf-a1a6-fa0a30316e30,DEFECT,Coffee Dripper,Picked,1,57,1
+f3d0c3ef-668f-40cf-a1a6-fa0a30316e30,DEFECT,Nuclear Battery,Skipped,1,57,2
+f3d0c3ef-668f-40cf-a1a6-fa0a30316e30,DEFECT,Runic Pyramid,Skipped,1,57,2
+f3d0c3ef-668f-40cf-a1a6-fa0a30316e30,DEFECT,Snecko Eye,Picked,1,57,2
+41b4e397-cdca-4af7-a7fa-8fb9b830ee9e,DEFECT,Fusion Hammer,Skipped,0,56,1
+41b4e397-cdca-4af7-a7fa-8fb9b830ee9e,DEFECT,Velvet Choker,Skipped,0,56,1
+41b4e397-cdca-4af7-a7fa-8fb9b830ee9e,DEFECT,Sozu,Picked,0,56,1
+41b4e397-cdca-4af7-a7fa-8fb9b830ee9e,DEFECT,SacredBark,Skipped,0,56,2
+41b4e397-cdca-4af7-a7fa-8fb9b830ee9e,DEFECT,Empty Cage,Skipped,0,56,2
+41b4e397-cdca-4af7-a7fa-8fb9b830ee9e,DEFECT,Nuclear Battery,Picked,0,56,2
+80bfe387-eb34-4349-be81-3b7780d7b7d9,DEFECT,SacredBark,Skipped,1,57,1
+80bfe387-eb34-4349-be81-3b7780d7b7d9,DEFECT,SlaversCollar,Skipped,1,57,1
+80bfe387-eb34-4349-be81-3b7780d7b7d9,DEFECT,Fusion Hammer,Picked,1,57,1
+80bfe387-eb34-4349-be81-3b7780d7b7d9,DEFECT,Empty Cage,Skipped,1,57,2
+80bfe387-eb34-4349-be81-3b7780d7b7d9,DEFECT,Runic Dome,Skipped,1,57,2
+80bfe387-eb34-4349-be81-3b7780d7b7d9,DEFECT,Astrolabe,Picked,1,57,2
+76c8992b-c608-478f-8797-4e801594c389,DEFECT,FrozenCore,Skipped,1,57,1
+76c8992b-c608-478f-8797-4e801594c389,DEFECT,Empty Cage,Skipped,1,57,1
+76c8992b-c608-478f-8797-4e801594c389,DEFECT,Pandora's Box,Picked,1,57,1
+76c8992b-c608-478f-8797-4e801594c389,DEFECT,Snecko Eye,Skipped,1,57,2
+76c8992b-c608-478f-8797-4e801594c389,DEFECT,SacredBark,Skipped,1,57,2
+76c8992b-c608-478f-8797-4e801594c389,DEFECT,Fusion Hammer,Picked,1,57,2
+7eee5d08-9c86-46c3-9a32-9629f934a46e,DEFECT,Astrolabe,Skipped,0,51,1
+7eee5d08-9c86-46c3-9a32-9629f934a46e,DEFECT,Ectoplasm,Skipped,0,51,1
+7eee5d08-9c86-46c3-9a32-9629f934a46e,DEFECT,Cursed Key,Picked,0,51,1
+7eee5d08-9c86-46c3-9a32-9629f934a46e,DEFECT,Busted Crown,Skipped,0,51,2
+7eee5d08-9c86-46c3-9a32-9629f934a46e,DEFECT,Sozu,Skipped,0,51,2
+7eee5d08-9c86-46c3-9a32-9629f934a46e,DEFECT,Inserter,Picked,0,51,2
+1c802c17-9bd1-491d-9c02-fc47a65f330e,DEFECT,Velvet Choker,Skipped,0,33,1
+1c802c17-9bd1-491d-9c02-fc47a65f330e,DEFECT,FrozenCore,Skipped,0,33,1
+1c802c17-9bd1-491d-9c02-fc47a65f330e,DEFECT,Nuclear Battery,Picked,0,33,1
+dcd797d2-3513-4928-a32b-09a50457a7b3,DEFECT,Sozu,Skipped,0,51,1
+dcd797d2-3513-4928-a32b-09a50457a7b3,DEFECT,Snecko Eye,Skipped,0,51,1
+dcd797d2-3513-4928-a32b-09a50457a7b3,DEFECT,Empty Cage,Picked,0,51,1
+dcd797d2-3513-4928-a32b-09a50457a7b3,DEFECT,Pandora's Box,Skipped,0,51,2
+dcd797d2-3513-4928-a32b-09a50457a7b3,DEFECT,SacredBark,Skipped,0,51,2
+dcd797d2-3513-4928-a32b-09a50457a7b3,DEFECT,Cursed Key,Picked,0,51,2
+ce5ce5f4-7aa3-4952-9df0-97d99946e1e9,DEFECT,Pandora's Box,Skipped,1,57,1
+ce5ce5f4-7aa3-4952-9df0-97d99946e1e9,DEFECT,Cursed Key,Skipped,1,57,1
+ce5ce5f4-7aa3-4952-9df0-97d99946e1e9,DEFECT,Fusion Hammer,Picked,1,57,1
+ce5ce5f4-7aa3-4952-9df0-97d99946e1e9,DEFECT,Busted Crown,Skipped,1,57,2
+ce5ce5f4-7aa3-4952-9df0-97d99946e1e9,DEFECT,Snecko Eye,Skipped,1,57,2
+ce5ce5f4-7aa3-4952-9df0-97d99946e1e9,DEFECT,SlaversCollar,Picked,1,57,2
+db99aff5-735a-4bfc-bb51-7051edcc9f8e,DEFECT,Fusion Hammer,Skipped,1,57,1
+db99aff5-735a-4bfc-bb51-7051edcc9f8e,DEFECT,SacredBark,Skipped,1,57,1
+db99aff5-735a-4bfc-bb51-7051edcc9f8e,DEFECT,Philosopher's Stone,Picked,1,57,1
+db99aff5-735a-4bfc-bb51-7051edcc9f8e,DEFECT,Runic Dome,Skipped,1,57,2
+db99aff5-735a-4bfc-bb51-7051edcc9f8e,DEFECT,Astrolabe,Skipped,1,57,2
+db99aff5-735a-4bfc-bb51-7051edcc9f8e,DEFECT,SlaversCollar,Picked,1,57,2
+dca6d165-064a-425c-96c2-f108a83b684f,DEFECT,SlaversCollar,Skipped,1,57,1
+dca6d165-064a-425c-96c2-f108a83b684f,DEFECT,Cursed Key,Skipped,1,57,1
+dca6d165-064a-425c-96c2-f108a83b684f,DEFECT,Empty Cage,Picked,1,57,1
+dca6d165-064a-425c-96c2-f108a83b684f,DEFECT,Tiny House,Skipped,1,57,2
+dca6d165-064a-425c-96c2-f108a83b684f,DEFECT,Calling Bell,Skipped,1,57,2
+dca6d165-064a-425c-96c2-f108a83b684f,DEFECT,Philosopher's Stone,Picked,1,57,2
+32c9922a-26d1-4aa5-b7e0-75e38493b9e7,DEFECT,Empty Cage,Skipped,1,57,1
+32c9922a-26d1-4aa5-b7e0-75e38493b9e7,DEFECT,Ectoplasm,Skipped,1,57,1
+32c9922a-26d1-4aa5-b7e0-75e38493b9e7,DEFECT,Astrolabe,Picked,1,57,1
+32c9922a-26d1-4aa5-b7e0-75e38493b9e7,DEFECT,SacredBark,Skipped,1,57,2
+32c9922a-26d1-4aa5-b7e0-75e38493b9e7,DEFECT,Snecko Eye,Skipped,1,57,2
+32c9922a-26d1-4aa5-b7e0-75e38493b9e7,DEFECT,Tiny House,Picked,1,57,2
+fed4ca28-c1f2-4ce5-8fab-04a9f759a17a,DEFECT,Calling Bell,Skipped,1,57,1
+fed4ca28-c1f2-4ce5-8fab-04a9f759a17a,DEFECT,Astrolabe,Skipped,1,57,1
+fed4ca28-c1f2-4ce5-8fab-04a9f759a17a,DEFECT,Nuclear Battery,Picked,1,57,1
+fed4ca28-c1f2-4ce5-8fab-04a9f759a17a,DEFECT,Black Star,Skipped,1,57,2
+fed4ca28-c1f2-4ce5-8fab-04a9f759a17a,DEFECT,Busted Crown,Skipped,1,57,2
+fed4ca28-c1f2-4ce5-8fab-04a9f759a17a,DEFECT,Pandora's Box,Picked,1,57,2
+97f7ea20-bfbf-4594-af84-bb29becc2911,DEFECT,Runic Dome,Skipped,0,51,1
+97f7ea20-bfbf-4594-af84-bb29becc2911,DEFECT,Inserter,Skipped,0,51,1
+97f7ea20-bfbf-4594-af84-bb29becc2911,DEFECT,Snecko Eye,Picked,0,51,1
+97f7ea20-bfbf-4594-af84-bb29becc2911,DEFECT,Sozu,Skipped,0,51,2
+97f7ea20-bfbf-4594-af84-bb29becc2911,DEFECT,Velvet Choker,Skipped,0,51,2
+97f7ea20-bfbf-4594-af84-bb29becc2911,DEFECT,Calling Bell,Picked,0,51,2
+a9ac1f8e-97ce-4116-99c8-510a192b5b2d,DEFECT,Nuclear Battery,Skipped,0,33,1
+a9ac1f8e-97ce-4116-99c8-510a192b5b2d,DEFECT,Astrolabe,Skipped,0,33,1
+a9ac1f8e-97ce-4116-99c8-510a192b5b2d,DEFECT,Runic Pyramid,Picked,0,33,1
+a8b9c11d-06cf-4c84-8398-440e680e81c6,DEFECT,Ectoplasm,Skipped,0,31,1
+a8b9c11d-06cf-4c84-8398-440e680e81c6,DEFECT,Busted Crown,Skipped,0,31,1
+a8b9c11d-06cf-4c84-8398-440e680e81c6,DEFECT,Philosopher's Stone,Picked,0,31,1
+36cc1940-9273-4880-928e-9b4dd3d222bd,DEFECT,Cursed Key,Skipped,1,57,1
+36cc1940-9273-4880-928e-9b4dd3d222bd,DEFECT,Black Star,Skipped,1,57,1
+36cc1940-9273-4880-928e-9b4dd3d222bd,DEFECT,Inserter,Picked,1,57,1
+36cc1940-9273-4880-928e-9b4dd3d222bd,DEFECT,Pandora's Box,Skipped,1,57,2
+36cc1940-9273-4880-928e-9b4dd3d222bd,DEFECT,Sozu,Skipped,1,57,2
+36cc1940-9273-4880-928e-9b4dd3d222bd,DEFECT,Runic Dome,Picked,1,57,2
+e6a28b4a-cc70-4949-993f-0b9bc8ac01a0,DEFECT,Fusion Hammer,Skipped,1,57,1
+e6a28b4a-cc70-4949-993f-0b9bc8ac01a0,DEFECT,Empty Cage,Skipped,1,57,1
+e6a28b4a-cc70-4949-993f-0b9bc8ac01a0,DEFECT,SlaversCollar,Picked,1,57,1
+e6a28b4a-cc70-4949-993f-0b9bc8ac01a0,DEFECT,SacredBark,Skipped,1,57,2
+e6a28b4a-cc70-4949-993f-0b9bc8ac01a0,DEFECT,Runic Pyramid,Skipped,1,57,2
+e6a28b4a-cc70-4949-993f-0b9bc8ac01a0,DEFECT,Inserter,Picked,1,57,2
+8c6893b7-2e37-4cde-ad86-3f09149b0511,DEFECT,Coffee Dripper,Skipped,1,57,1
+8c6893b7-2e37-4cde-ad86-3f09149b0511,DEFECT,Cursed Key,Skipped,1,57,1
+8c6893b7-2e37-4cde-ad86-3f09149b0511,DEFECT,Runic Pyramid,Picked,1,57,1
+8c6893b7-2e37-4cde-ad86-3f09149b0511,DEFECT,Astrolabe,Skipped,1,57,2
+8c6893b7-2e37-4cde-ad86-3f09149b0511,DEFECT,Runic Dome,Skipped,1,57,2
+8c6893b7-2e37-4cde-ad86-3f09149b0511,DEFECT,Fusion Hammer,Picked,1,57,2
+138f1459-d815-4a67-9086-01961204efed,DEFECT,Black Star,Skipped,0,56,1
+138f1459-d815-4a67-9086-01961204efed,DEFECT,Velvet Choker,Skipped,0,56,1
+138f1459-d815-4a67-9086-01961204efed,DEFECT,Coffee Dripper,Picked,0,56,1
+138f1459-d815-4a67-9086-01961204efed,DEFECT,Astrolabe,Skipped,0,56,2
+138f1459-d815-4a67-9086-01961204efed,DEFECT,Philosopher's Stone,Skipped,0,56,2
+138f1459-d815-4a67-9086-01961204efed,DEFECT,Cursed Key,Picked,0,56,2
+af52ba3c-bab7-4be1-883d-88e7f50994a5,DEFECT,Runic Dome,Skipped,1,57,1
+af52ba3c-bab7-4be1-883d-88e7f50994a5,DEFECT,SacredBark,Skipped,1,57,1
+af52ba3c-bab7-4be1-883d-88e7f50994a5,DEFECT,Fusion Hammer,Picked,1,57,1
+af52ba3c-bab7-4be1-883d-88e7f50994a5,DEFECT,Tiny House,Skipped,1,57,2
+af52ba3c-bab7-4be1-883d-88e7f50994a5,DEFECT,Philosopher's Stone,Skipped,1,57,2
+af52ba3c-bab7-4be1-883d-88e7f50994a5,DEFECT,Cursed Key,Picked,1,57,2
+6475ffb9-c684-4c19-b42c-6eb92cf705cd,DEFECT,Nuclear Battery,Skipped,1,57,1
+6475ffb9-c684-4c19-b42c-6eb92cf705cd,DEFECT,Tiny House,Skipped,1,57,1
+6475ffb9-c684-4c19-b42c-6eb92cf705cd,DEFECT,Philosopher's Stone,Picked,1,57,1
+6475ffb9-c684-4c19-b42c-6eb92cf705cd,DEFECT,Sozu,Skipped,1,57,2
+6475ffb9-c684-4c19-b42c-6eb92cf705cd,DEFECT,Empty Cage,Skipped,1,57,2
+6475ffb9-c684-4c19-b42c-6eb92cf705cd,DEFECT,Pandora's Box,Picked,1,57,2
+8dbc68a3-c8de-4ae9-aa0b-c0128cc870fa,DEFECT,Runic Dome,Skipped,1,57,1
+8dbc68a3-c8de-4ae9-aa0b-c0128cc870fa,DEFECT,Philosopher's Stone,Skipped,1,57,1
+8dbc68a3-c8de-4ae9-aa0b-c0128cc870fa,DEFECT,Calling Bell,Picked,1,57,1
+8dbc68a3-c8de-4ae9-aa0b-c0128cc870fa,DEFECT,SacredBark,Skipped,1,57,2
+8dbc68a3-c8de-4ae9-aa0b-c0128cc870fa,DEFECT,Astrolabe,Skipped,1,57,2
+8dbc68a3-c8de-4ae9-aa0b-c0128cc870fa,DEFECT,Runic Pyramid,Picked,1,57,2
+ec0abbe2-048d-44c6-91c6-ea333255cd78,DEFECT,Nuclear Battery,Skipped,1,57,1
+ec0abbe2-048d-44c6-91c6-ea333255cd78,DEFECT,Inserter,Skipped,1,57,1
+ec0abbe2-048d-44c6-91c6-ea333255cd78,DEFECT,Empty Cage,Picked,1,57,1
+ec0abbe2-048d-44c6-91c6-ea333255cd78,DEFECT,Philosopher's Stone,Skipped,1,57,2
+ec0abbe2-048d-44c6-91c6-ea333255cd78,DEFECT,Busted Crown,Skipped,1,57,2
+ec0abbe2-048d-44c6-91c6-ea333255cd78,DEFECT,Black Star,Picked,1,57,2
+023b1206-bc7a-4780-a98d-3216f9dc8e5a,DEFECT,Philosopher's Stone,Skipped,0,56,1
+023b1206-bc7a-4780-a98d-3216f9dc8e5a,DEFECT,Nuclear Battery,Skipped,0,56,1
+023b1206-bc7a-4780-a98d-3216f9dc8e5a,DEFECT,Coffee Dripper,Picked,0,56,1
+023b1206-bc7a-4780-a98d-3216f9dc8e5a,DEFECT,SacredBark,Skipped,0,56,2
+023b1206-bc7a-4780-a98d-3216f9dc8e5a,DEFECT,Tiny House,Skipped,0,56,2
+023b1206-bc7a-4780-a98d-3216f9dc8e5a,DEFECT,Inserter,Picked,0,56,2
+dd7d0c7b-0dde-4e2c-97c6-a370d9e126eb,DEFECT,Philosopher's Stone,Skipped,1,57,1
+dd7d0c7b-0dde-4e2c-97c6-a370d9e126eb,DEFECT,Sozu,Skipped,1,57,1
+dd7d0c7b-0dde-4e2c-97c6-a370d9e126eb,DEFECT,Runic Pyramid,Picked,1,57,1
+dd7d0c7b-0dde-4e2c-97c6-a370d9e126eb,DEFECT,Coffee Dripper,Skipped,1,57,2
+dd7d0c7b-0dde-4e2c-97c6-a370d9e126eb,DEFECT,Snecko Eye,Skipped,1,57,2
+dd7d0c7b-0dde-4e2c-97c6-a370d9e126eb,DEFECT,Nuclear Battery,Picked,1,57,2
+17b8f665-df0d-40fa-93df-18d5295801e3,DEFECT,Velvet Choker,Skipped,0,56,1
+17b8f665-df0d-40fa-93df-18d5295801e3,DEFECT,Tiny House,Skipped,0,56,1
+17b8f665-df0d-40fa-93df-18d5295801e3,DEFECT,Nuclear Battery,Picked,0,56,1
+17b8f665-df0d-40fa-93df-18d5295801e3,DEFECT,Cursed Key,Skipped,0,56,2
+17b8f665-df0d-40fa-93df-18d5295801e3,DEFECT,Black Star,Skipped,0,56,2
+17b8f665-df0d-40fa-93df-18d5295801e3,DEFECT,Calling Bell,Picked,0,56,2
+331a42ab-ce0a-4f2e-9b08-07aa17014dbf,DEFECT,Black Star,Skipped,1,57,1
+331a42ab-ce0a-4f2e-9b08-07aa17014dbf,DEFECT,Cursed Key,Skipped,1,57,1
+331a42ab-ce0a-4f2e-9b08-07aa17014dbf,DEFECT,Runic Pyramid,Picked,1,57,1
+331a42ab-ce0a-4f2e-9b08-07aa17014dbf,DEFECT,Pandora's Box,Skipped,1,57,2
+331a42ab-ce0a-4f2e-9b08-07aa17014dbf,DEFECT,Runic Dome,Skipped,1,57,2
+331a42ab-ce0a-4f2e-9b08-07aa17014dbf,DEFECT,Coffee Dripper,Picked,1,57,2
+ec20c424-c526-4070-96f6-cf8bf186756e,DEFECT,Nuclear Battery,Skipped,1,57,1
+ec20c424-c526-4070-96f6-cf8bf186756e,DEFECT,Snecko Eye,Skipped,1,57,1
+ec20c424-c526-4070-96f6-cf8bf186756e,DEFECT,Astrolabe,Picked,1,57,1
+ec20c424-c526-4070-96f6-cf8bf186756e,DEFECT,FrozenCore,Skipped,1,57,2
+ec20c424-c526-4070-96f6-cf8bf186756e,DEFECT,Sozu,Skipped,1,57,2
+ec20c424-c526-4070-96f6-cf8bf186756e,DEFECT,SlaversCollar,Picked,1,57,2
+494b6bdd-3cc4-4fa3-ad10-5bee4f4aab77,DEFECT,Ectoplasm,Skipped,1,57,1
+494b6bdd-3cc4-4fa3-ad10-5bee4f4aab77,DEFECT,Astrolabe,Skipped,1,57,1
+494b6bdd-3cc4-4fa3-ad10-5bee4f4aab77,DEFECT,Snecko Eye,Picked,1,57,1
+494b6bdd-3cc4-4fa3-ad10-5bee4f4aab77,DEFECT,Pandora's Box,Skipped,1,57,2
+494b6bdd-3cc4-4fa3-ad10-5bee4f4aab77,DEFECT,Inserter,Skipped,1,57,2
+494b6bdd-3cc4-4fa3-ad10-5bee4f4aab77,DEFECT,Nuclear Battery,Picked,1,57,2
+68732316-acb9-4973-a323-553fd36240da,DEFECT,Nuclear Battery,Skipped,1,57,1
+68732316-acb9-4973-a323-553fd36240da,DEFECT,FrozenCore,Skipped,1,57,1
+68732316-acb9-4973-a323-553fd36240da,DEFECT,Pandora's Box,Picked,1,57,1
+68732316-acb9-4973-a323-553fd36240da,DEFECT,Coffee Dripper,Skipped,1,57,2
+68732316-acb9-4973-a323-553fd36240da,DEFECT,Runic Dome,Skipped,1,57,2
+68732316-acb9-4973-a323-553fd36240da,DEFECT,Calling Bell,Picked,1,57,2
+d6daf2f8-1679-44bd-80bf-4c9a19dcc253,DEFECT,Calling Bell,Skipped,0,40,1
+d6daf2f8-1679-44bd-80bf-4c9a19dcc253,DEFECT,Black Star,Skipped,0,40,1
+d6daf2f8-1679-44bd-80bf-4c9a19dcc253,DEFECT,Cursed Key,Picked,0,40,1
+d6daf2f8-1679-44bd-80bf-4c9a19dcc253,DEFECT,Velvet Choker,Skipped,0,40,2
+d6daf2f8-1679-44bd-80bf-4c9a19dcc253,DEFECT,Inserter,Skipped,0,40,2
+d6daf2f8-1679-44bd-80bf-4c9a19dcc253,DEFECT,Snecko Eye,Picked,0,40,2
+37cce07f-2ef3-422d-9de1-0ba37e58a4b0,DEFECT,SacredBark,Skipped,1,57,1
+37cce07f-2ef3-422d-9de1-0ba37e58a4b0,DEFECT,Tiny House,Skipped,1,57,1
+37cce07f-2ef3-422d-9de1-0ba37e58a4b0,DEFECT,Fusion Hammer,Picked,1,57,1
+37cce07f-2ef3-422d-9de1-0ba37e58a4b0,DEFECT,Black Star,Skipped,1,57,2
+37cce07f-2ef3-422d-9de1-0ba37e58a4b0,DEFECT,SlaversCollar,Skipped,1,57,2
+37cce07f-2ef3-422d-9de1-0ba37e58a4b0,DEFECT,Snecko Eye,Picked,1,57,2
+a95a6615-707f-457e-9e22-5ac58ca3e2ea,DEFECT,Philosopher's Stone,Skipped,1,57,1
+a95a6615-707f-457e-9e22-5ac58ca3e2ea,DEFECT,Sozu,Skipped,1,57,1
+a95a6615-707f-457e-9e22-5ac58ca3e2ea,DEFECT,Snecko Eye,Picked,1,57,1
+a95a6615-707f-457e-9e22-5ac58ca3e2ea,DEFECT,Pandora's Box,Skipped,1,57,2
+a95a6615-707f-457e-9e22-5ac58ca3e2ea,DEFECT,Busted Crown,Skipped,1,57,2
+a95a6615-707f-457e-9e22-5ac58ca3e2ea,DEFECT,Runic Dome,Picked,1,57,2
+c597e0ef-c3ae-414a-a7ce-8194e7ef9fde,DEFECT,Sozu,Skipped,1,57,1
+c597e0ef-c3ae-414a-a7ce-8194e7ef9fde,DEFECT,Snecko Eye,Skipped,1,57,1
+c597e0ef-c3ae-414a-a7ce-8194e7ef9fde,DEFECT,Pandora's Box,Picked,1,57,1
+c597e0ef-c3ae-414a-a7ce-8194e7ef9fde,DEFECT,Velvet Choker,Skipped,1,57,2
+c597e0ef-c3ae-414a-a7ce-8194e7ef9fde,DEFECT,Tiny House,Skipped,1,57,2
+c597e0ef-c3ae-414a-a7ce-8194e7ef9fde,DEFECT,Coffee Dripper,Picked,1,57,2
+9411cd7c-5360-42d8-926d-c8b574bca689,DEFECT,Empty Cage,Skipped,0,56,1
+9411cd7c-5360-42d8-926d-c8b574bca689,DEFECT,Runic Dome,Skipped,0,56,1
+9411cd7c-5360-42d8-926d-c8b574bca689,DEFECT,Coffee Dripper,Picked,0,56,1
+9411cd7c-5360-42d8-926d-c8b574bca689,DEFECT,Philosopher's Stone,Skipped,0,56,2
+9411cd7c-5360-42d8-926d-c8b574bca689,DEFECT,Pandora's Box,Skipped,0,56,2
+9411cd7c-5360-42d8-926d-c8b574bca689,DEFECT,Cursed Key,Picked,0,56,2
+3d0e50e8-dc13-4699-91de-51e992b63e98,DEFECT,Velvet Choker,Skipped,0,27,1
+3d0e50e8-dc13-4699-91de-51e992b63e98,DEFECT,Ectoplasm,Skipped,0,27,1
+3d0e50e8-dc13-4699-91de-51e992b63e98,DEFECT,Busted Crown,Picked,0,27,1
+fd126c32-429e-4b15-807e-93ab29e0a3d2,DEFECT,Inserter,Skipped,1,57,1
+fd126c32-429e-4b15-807e-93ab29e0a3d2,DEFECT,Sozu,Skipped,1,57,1
+fd126c32-429e-4b15-807e-93ab29e0a3d2,DEFECT,Pandora's Box,Picked,1,57,1
+fd126c32-429e-4b15-807e-93ab29e0a3d2,DEFECT,Cursed Key,Skipped,1,57,2
+fd126c32-429e-4b15-807e-93ab29e0a3d2,DEFECT,Philosopher's Stone,Skipped,1,57,2
+fd126c32-429e-4b15-807e-93ab29e0a3d2,DEFECT,Calling Bell,Picked,1,57,2
+0b4abfed-86b4-46c2-a498-2a785428078e,DEFECT,Nuclear Battery,Skipped,1,57,1
+0b4abfed-86b4-46c2-a498-2a785428078e,DEFECT,Ectoplasm,Skipped,1,57,1
+0b4abfed-86b4-46c2-a498-2a785428078e,DEFECT,SlaversCollar,Picked,1,57,1
+0b4abfed-86b4-46c2-a498-2a785428078e,DEFECT,Black Star,Skipped,1,57,2
+0b4abfed-86b4-46c2-a498-2a785428078e,DEFECT,Calling Bell,Skipped,1,57,2
+0b4abfed-86b4-46c2-a498-2a785428078e,DEFECT,Runic Pyramid,Picked,1,57,2
+eb020847-b4e8-46ee-8498-4fa334d54a40,DEFECT,Black Star,Skipped,1,57,1
+eb020847-b4e8-46ee-8498-4fa334d54a40,DEFECT,Busted Crown,Skipped,1,57,1
+eb020847-b4e8-46ee-8498-4fa334d54a40,DEFECT,Philosopher's Stone,Picked,1,57,1
+eb020847-b4e8-46ee-8498-4fa334d54a40,DEFECT,Fusion Hammer,Skipped,1,57,2
+eb020847-b4e8-46ee-8498-4fa334d54a40,DEFECT,Sozu,Skipped,1,57,2
+eb020847-b4e8-46ee-8498-4fa334d54a40,DEFECT,SlaversCollar,Picked,1,57,2
+fb667b39-468b-4bbf-9f14-9a9980ffe01c,DEFECT,Velvet Choker,Skipped,0,56,1
+fb667b39-468b-4bbf-9f14-9a9980ffe01c,DEFECT,Ectoplasm,Skipped,0,56,1
+fb667b39-468b-4bbf-9f14-9a9980ffe01c,DEFECT,Runic Pyramid,Picked,0,56,1
+fb667b39-468b-4bbf-9f14-9a9980ffe01c,DEFECT,SacredBark,Skipped,0,56,2
+fb667b39-468b-4bbf-9f14-9a9980ffe01c,DEFECT,Pandora's Box,Skipped,0,56,2
+fb667b39-468b-4bbf-9f14-9a9980ffe01c,DEFECT,SlaversCollar,Picked,0,56,2
+4144e039-acb5-4b9c-83ab-9ae44756545c,DEFECT,SlaversCollar,Skipped,1,57,1
+4144e039-acb5-4b9c-83ab-9ae44756545c,DEFECT,Cursed Key,Skipped,1,57,1
+4144e039-acb5-4b9c-83ab-9ae44756545c,DEFECT,Runic Pyramid,Picked,1,57,1
+4144e039-acb5-4b9c-83ab-9ae44756545c,DEFECT,Inserter,Skipped,1,57,2
+4144e039-acb5-4b9c-83ab-9ae44756545c,DEFECT,Velvet Choker,Skipped,1,57,2
+4144e039-acb5-4b9c-83ab-9ae44756545c,DEFECT,Empty Cage,Picked,1,57,2
+fb853c46-a572-476b-a626-69762f12df4f,DEFECT,Calling Bell,Skipped,0,56,1
+fb853c46-a572-476b-a626-69762f12df4f,DEFECT,Ectoplasm,Skipped,0,56,1
+fb853c46-a572-476b-a626-69762f12df4f,DEFECT,Runic Pyramid,Picked,0,56,1
+fb853c46-a572-476b-a626-69762f12df4f,DEFECT,Tiny House,Skipped,0,56,2
+fb853c46-a572-476b-a626-69762f12df4f,DEFECT,Runic Dome,Skipped,0,56,2
+fb853c46-a572-476b-a626-69762f12df4f,DEFECT,SacredBark,Picked,0,56,2
+6613cfcf-1040-4ecd-9c35-da1cf11ba94f,DEFECT,Empty Cage,Skipped,0,31,1
+6613cfcf-1040-4ecd-9c35-da1cf11ba94f,DEFECT,Tiny House,Skipped,0,31,1
+6613cfcf-1040-4ecd-9c35-da1cf11ba94f,DEFECT,Cursed Key,Picked,0,31,1
+9c60a4bd-e374-4fcf-baf4-1944beac26b7,DEFECT,Ectoplasm,Skipped,1,57,1
+9c60a4bd-e374-4fcf-baf4-1944beac26b7,DEFECT,Empty Cage,Skipped,1,57,1
+9c60a4bd-e374-4fcf-baf4-1944beac26b7,DEFECT,Astrolabe,Picked,1,57,1
+9c60a4bd-e374-4fcf-baf4-1944beac26b7,DEFECT,Snecko Eye,Skipped,1,57,2
+9c60a4bd-e374-4fcf-baf4-1944beac26b7,DEFECT,Nuclear Battery,Skipped,1,57,2
+9c60a4bd-e374-4fcf-baf4-1944beac26b7,DEFECT,Coffee Dripper,Picked,1,57,2
+76f8be11-967d-45f7-9ed9-b72e91467640,DEFECT,Empty Cage,Skipped,1,57,1
+76f8be11-967d-45f7-9ed9-b72e91467640,DEFECT,Ectoplasm,Skipped,1,57,1
+76f8be11-967d-45f7-9ed9-b72e91467640,DEFECT,Black Star,Picked,1,57,1
+76f8be11-967d-45f7-9ed9-b72e91467640,DEFECT,Tiny House,Skipped,1,57,2
+76f8be11-967d-45f7-9ed9-b72e91467640,DEFECT,SacredBark,Skipped,1,57,2
+76f8be11-967d-45f7-9ed9-b72e91467640,DEFECT,Snecko Eye,Picked,1,57,2
+b0d1847e-003c-403b-841b-6c441cc5a8e9,DEFECT,Astrolabe,Skipped,0,56,1
+b0d1847e-003c-403b-841b-6c441cc5a8e9,DEFECT,Coffee Dripper,Skipped,0,56,1
+b0d1847e-003c-403b-841b-6c441cc5a8e9,DEFECT,Runic Pyramid,Picked,0,56,1
+b0d1847e-003c-403b-841b-6c441cc5a8e9,DEFECT,Black Star,Skipped,0,56,2
+b0d1847e-003c-403b-841b-6c441cc5a8e9,DEFECT,Velvet Choker,Skipped,0,56,2
+b0d1847e-003c-403b-841b-6c441cc5a8e9,DEFECT,SacredBark,Picked,0,56,2
+8b86cfff-a2e9-45e2-b256-5fd0360f047b,DEFECT,Snecko Eye,Skipped,0,56,1
+8b86cfff-a2e9-45e2-b256-5fd0360f047b,DEFECT,Black Star,Skipped,0,56,1
+8b86cfff-a2e9-45e2-b256-5fd0360f047b,DEFECT,Runic Pyramid,Picked,0,56,1
+8b86cfff-a2e9-45e2-b256-5fd0360f047b,DEFECT,Runic Dome,Skipped,0,56,2
+8b86cfff-a2e9-45e2-b256-5fd0360f047b,DEFECT,Velvet Choker,Skipped,0,56,2
+8b86cfff-a2e9-45e2-b256-5fd0360f047b,DEFECT,Nuclear Battery,Picked,0,56,2
+cd6fd6ff-7c91-4b78-b021-f213bbe737d2,DEFECT,Black Star,Skipped,1,57,1
+cd6fd6ff-7c91-4b78-b021-f213bbe737d2,DEFECT,Coffee Dripper,Skipped,1,57,1
+cd6fd6ff-7c91-4b78-b021-f213bbe737d2,DEFECT,Pandora's Box,Picked,1,57,1
+cd6fd6ff-7c91-4b78-b021-f213bbe737d2,DEFECT,Astrolabe,Skipped,1,57,2
+cd6fd6ff-7c91-4b78-b021-f213bbe737d2,DEFECT,Calling Bell,Skipped,1,57,2
+cd6fd6ff-7c91-4b78-b021-f213bbe737d2,DEFECT,Empty Cage,Picked,1,57,2
+4b74c514-3e52-415e-bbb4-f2b170ad3a6b,DEFECT,Black Star,Skipped,1,57,1
+4b74c514-3e52-415e-bbb4-f2b170ad3a6b,DEFECT,Fusion Hammer,Skipped,1,57,1
+4b74c514-3e52-415e-bbb4-f2b170ad3a6b,DEFECT,Snecko Eye,Picked,1,57,1
+4b74c514-3e52-415e-bbb4-f2b170ad3a6b,DEFECT,Philosopher's Stone,Skipped,1,57,2
+4b74c514-3e52-415e-bbb4-f2b170ad3a6b,DEFECT,Runic Pyramid,Skipped,1,57,2
+4b74c514-3e52-415e-bbb4-f2b170ad3a6b,DEFECT,Nuclear Battery,Picked,1,57,2
+af8e9d0b-4357-43c1-84f8-79062efea7b3,DEFECT,Busted Crown,Skipped,0,30,1
+af8e9d0b-4357-43c1-84f8-79062efea7b3,DEFECT,Ectoplasm,Skipped,0,30,1
+af8e9d0b-4357-43c1-84f8-79062efea7b3,DEFECT,Philosopher's Stone,Picked,0,30,1
+9d73b3ee-e353-4b8d-b651-defb667cf3d2,DEFECT,Snecko Eye,Skipped,0,50,1
+9d73b3ee-e353-4b8d-b651-defb667cf3d2,DEFECT,Coffee Dripper,Skipped,0,50,1
+9d73b3ee-e353-4b8d-b651-defb667cf3d2,DEFECT,Inserter,Picked,0,50,1
+9d73b3ee-e353-4b8d-b651-defb667cf3d2,DEFECT,Nuclear Battery,Skipped,0,50,2
+9d73b3ee-e353-4b8d-b651-defb667cf3d2,DEFECT,Sozu,Skipped,0,50,2
+9d73b3ee-e353-4b8d-b651-defb667cf3d2,DEFECT,Velvet Choker,Picked,0,50,2
+67c13188-2ed6-43cd-a012-0c2a321e41c2,DEFECT,Velvet Choker,Skipped,1,57,1
+67c13188-2ed6-43cd-a012-0c2a321e41c2,DEFECT,Sozu,Skipped,1,57,1
+67c13188-2ed6-43cd-a012-0c2a321e41c2,DEFECT,Empty Cage,Picked,1,57,1
+67c13188-2ed6-43cd-a012-0c2a321e41c2,DEFECT,Philosopher's Stone,Skipped,1,57,2
+67c13188-2ed6-43cd-a012-0c2a321e41c2,DEFECT,Astrolabe,Skipped,1,57,2
+67c13188-2ed6-43cd-a012-0c2a321e41c2,DEFECT,Black Star,Picked,1,57,2
+dac6d00b-b5d2-40f9-be24-e18648dd35ef,DEFECT,Fusion Hammer,Skipped,0,44,1
+dac6d00b-b5d2-40f9-be24-e18648dd35ef,DEFECT,Velvet Choker,Skipped,0,44,1
+dac6d00b-b5d2-40f9-be24-e18648dd35ef,DEFECT,Empty Cage,Picked,0,44,1
+dac6d00b-b5d2-40f9-be24-e18648dd35ef,DEFECT,FrozenCore,Skipped,0,44,2
+dac6d00b-b5d2-40f9-be24-e18648dd35ef,DEFECT,Busted Crown,Skipped,0,44,2
+dac6d00b-b5d2-40f9-be24-e18648dd35ef,DEFECT,Philosopher's Stone,Picked,0,44,2
+75e869ee-041f-4dd2-8187-e978db1f6d11,DEFECT,Calling Bell,Skipped,1,57,1
+75e869ee-041f-4dd2-8187-e978db1f6d11,DEFECT,Empty Cage,Skipped,1,57,1
+75e869ee-041f-4dd2-8187-e978db1f6d11,DEFECT,SlaversCollar,Picked,1,57,1
+75e869ee-041f-4dd2-8187-e978db1f6d11,DEFECT,Pandora's Box,Skipped,1,57,2
+75e869ee-041f-4dd2-8187-e978db1f6d11,DEFECT,Sozu,Skipped,1,57,2
+75e869ee-041f-4dd2-8187-e978db1f6d11,DEFECT,Black Star,Picked,1,57,2
+97322c61-7f98-4ddf-9c7a-59735da27f40,DEFECT,Sozu,Skipped,1,57,1
+97322c61-7f98-4ddf-9c7a-59735da27f40,DEFECT,Philosopher's Stone,Skipped,1,57,1
+97322c61-7f98-4ddf-9c7a-59735da27f40,DEFECT,Coffee Dripper,Picked,1,57,1
+97322c61-7f98-4ddf-9c7a-59735da27f40,DEFECT,Empty Cage,Skipped,1,57,2
+97322c61-7f98-4ddf-9c7a-59735da27f40,DEFECT,Busted Crown,Skipped,1,57,2
+97322c61-7f98-4ddf-9c7a-59735da27f40,DEFECT,Black Star,Picked,1,57,2
+8f03ecb9-5799-4282-85c5-3dfe50475118,DEFECT,Velvet Choker,Skipped,0,22,1
+8f03ecb9-5799-4282-85c5-3dfe50475118,DEFECT,Calling Bell,Skipped,0,22,1
+8f03ecb9-5799-4282-85c5-3dfe50475118,DEFECT,Runic Dome,Picked,0,22,1
+11ed60ee-d684-4ed1-b2b1-8a2f23156e4f,DEFECT,Busted Crown,Skipped,1,57,1
+11ed60ee-d684-4ed1-b2b1-8a2f23156e4f,DEFECT,Sozu,Skipped,1,57,1
+11ed60ee-d684-4ed1-b2b1-8a2f23156e4f,DEFECT,Runic Dome,Picked,1,57,1
+11ed60ee-d684-4ed1-b2b1-8a2f23156e4f,DEFECT,Pandora's Box,Skipped,1,57,2
+11ed60ee-d684-4ed1-b2b1-8a2f23156e4f,DEFECT,Nuclear Battery,Skipped,1,57,2
+11ed60ee-d684-4ed1-b2b1-8a2f23156e4f,DEFECT,Empty Cage,Picked,1,57,2
+efb2c399-6493-45d2-b279-08a349eb7830,DEFECT,Philosopher's Stone,Skipped,0,24,1
+efb2c399-6493-45d2-b279-08a349eb7830,DEFECT,Cursed Key,Skipped,0,24,1
+efb2c399-6493-45d2-b279-08a349eb7830,DEFECT,Coffee Dripper,Picked,0,24,1
+ed4c7308-4798-4bd4-bc6a-2903d02159fc,DEFECT,Nuclear Battery,Skipped,1,57,1
+ed4c7308-4798-4bd4-bc6a-2903d02159fc,DEFECT,Snecko Eye,Skipped,1,57,1
+ed4c7308-4798-4bd4-bc6a-2903d02159fc,DEFECT,Astrolabe,Picked,1,57,1
+ed4c7308-4798-4bd4-bc6a-2903d02159fc,DEFECT,Philosopher's Stone,Skipped,1,57,2
+ed4c7308-4798-4bd4-bc6a-2903d02159fc,DEFECT,Cursed Key,Skipped,1,57,2
+ed4c7308-4798-4bd4-bc6a-2903d02159fc,DEFECT,Empty Cage,Picked,1,57,2
+4254ffb0-c46a-4212-b203-f0510ecdee09,DEFECT,SacredBark,Skipped,1,57,1
+4254ffb0-c46a-4212-b203-f0510ecdee09,DEFECT,Philosopher's Stone,Skipped,1,57,1
+4254ffb0-c46a-4212-b203-f0510ecdee09,DEFECT,Runic Pyramid,Picked,1,57,1
+4254ffb0-c46a-4212-b203-f0510ecdee09,DEFECT,Runic Dome,Skipped,1,57,2
+4254ffb0-c46a-4212-b203-f0510ecdee09,DEFECT,Calling Bell,Skipped,1,57,2
+4254ffb0-c46a-4212-b203-f0510ecdee09,DEFECT,Cursed Key,Picked,1,57,2
+2379da81-905f-4134-aec1-baaa465e3ddf,WATCHER,Velvet Choker,Skipped,1,57,1
+2379da81-905f-4134-aec1-baaa465e3ddf,WATCHER,Busted Crown,Skipped,1,57,1
+2379da81-905f-4134-aec1-baaa465e3ddf,WATCHER,Runic Dome,Picked,1,57,1
+2379da81-905f-4134-aec1-baaa465e3ddf,WATCHER,SacredBark,Skipped,1,57,2
+2379da81-905f-4134-aec1-baaa465e3ddf,WATCHER,SlaversCollar,Skipped,1,57,2
+2379da81-905f-4134-aec1-baaa465e3ddf,WATCHER,VioletLotus,Picked,1,57,2
+dfaa972d-f5cd-454e-a8e0-d5804d3aed75,WATCHER,Snecko Eye,Skipped,1,57,1
+dfaa972d-f5cd-454e-a8e0-d5804d3aed75,WATCHER,Astrolabe,Skipped,1,57,1
+dfaa972d-f5cd-454e-a8e0-d5804d3aed75,WATCHER,Coffee Dripper,Picked,1,57,1
+dfaa972d-f5cd-454e-a8e0-d5804d3aed75,WATCHER,Tiny House,Skipped,1,57,2
+dfaa972d-f5cd-454e-a8e0-d5804d3aed75,WATCHER,Empty Cage,Skipped,1,57,2
+dfaa972d-f5cd-454e-a8e0-d5804d3aed75,WATCHER,Calling Bell,Picked,1,57,2
+54dd6213-5de8-40b5-94fe-a02c8506318c,WATCHER,Fusion Hammer,Skipped,1,57,1
+54dd6213-5de8-40b5-94fe-a02c8506318c,WATCHER,Cursed Key,Skipped,1,57,1
+54dd6213-5de8-40b5-94fe-a02c8506318c,WATCHER,Astrolabe,Picked,1,57,1
+54dd6213-5de8-40b5-94fe-a02c8506318c,WATCHER,Sozu,Skipped,1,57,2
+54dd6213-5de8-40b5-94fe-a02c8506318c,WATCHER,Tiny House,Skipped,1,57,2
+54dd6213-5de8-40b5-94fe-a02c8506318c,WATCHER,Runic Dome,Picked,1,57,2
+ffea87eb-925b-4514-afa6-3c9db1f3ecb0,WATCHER,Philosopher's Stone,Skipped,0,23,1
+ffea87eb-925b-4514-afa6-3c9db1f3ecb0,WATCHER,Coffee Dripper,Skipped,0,23,1
+ffea87eb-925b-4514-afa6-3c9db1f3ecb0,WATCHER,SlaversCollar,Picked,0,23,1
+2516e61f-bc00-4d33-bb6b-1a2db41840b8,WATCHER,SacredBark,Skipped,0,42,1
+2516e61f-bc00-4d33-bb6b-1a2db41840b8,WATCHER,Sozu,Skipped,0,42,1
+2516e61f-bc00-4d33-bb6b-1a2db41840b8,WATCHER,Empty Cage,Picked,0,42,1
+2516e61f-bc00-4d33-bb6b-1a2db41840b8,WATCHER,Velvet Choker,Skipped,0,42,2
+2516e61f-bc00-4d33-bb6b-1a2db41840b8,WATCHER,Calling Bell,Skipped,0,42,2
+2516e61f-bc00-4d33-bb6b-1a2db41840b8,WATCHER,Pandora's Box,Picked,0,42,2
+a1be7eb7-d490-4355-83ac-05f0567ce3f9,WATCHER,Runic Dome,Skipped,1,57,1
+a1be7eb7-d490-4355-83ac-05f0567ce3f9,WATCHER,Snecko Eye,Skipped,1,57,1
+a1be7eb7-d490-4355-83ac-05f0567ce3f9,WATCHER,Black Star,Picked,1,57,1
+a1be7eb7-d490-4355-83ac-05f0567ce3f9,WATCHER,Velvet Choker,Skipped,1,57,2
+a1be7eb7-d490-4355-83ac-05f0567ce3f9,WATCHER,Calling Bell,Skipped,1,57,2
+a1be7eb7-d490-4355-83ac-05f0567ce3f9,WATCHER,Cursed Key,Picked,1,57,2
+d0885eec-9c41-4cf1-b8f9-486a6eec6175,WATCHER,Runic Dome,Skipped,1,57,1
+d0885eec-9c41-4cf1-b8f9-486a6eec6175,WATCHER,Velvet Choker,Skipped,1,57,1
+d0885eec-9c41-4cf1-b8f9-486a6eec6175,WATCHER,Sozu,Picked,1,57,1
+d0885eec-9c41-4cf1-b8f9-486a6eec6175,WATCHER,SacredBark,Skipped,1,57,2
+d0885eec-9c41-4cf1-b8f9-486a6eec6175,WATCHER,SlaversCollar,Skipped,1,57,2
+d0885eec-9c41-4cf1-b8f9-486a6eec6175,WATCHER,Runic Pyramid,Picked,1,57,2
+91344672-2d01-47c6-b74e-712cb4bb5ed3,WATCHER,Runic Dome,Skipped,1,57,1
+91344672-2d01-47c6-b74e-712cb4bb5ed3,WATCHER,Fusion Hammer,Skipped,1,57,1
+91344672-2d01-47c6-b74e-712cb4bb5ed3,WATCHER,Snecko Eye,Picked,1,57,1
+91344672-2d01-47c6-b74e-712cb4bb5ed3,WATCHER,HolyWater,Skipped,1,57,2
+91344672-2d01-47c6-b74e-712cb4bb5ed3,WATCHER,SlaversCollar,Skipped,1,57,2
+91344672-2d01-47c6-b74e-712cb4bb5ed3,WATCHER,Coffee Dripper,Picked,1,57,2
+1d6ed096-52e6-443e-af7c-e75c1a55b286,WATCHER,Sozu,Skipped,1,57,1
+1d6ed096-52e6-443e-af7c-e75c1a55b286,WATCHER,Ectoplasm,Skipped,1,57,1
+1d6ed096-52e6-443e-af7c-e75c1a55b286,WATCHER,Coffee Dripper,Picked,1,57,1
+1d6ed096-52e6-443e-af7c-e75c1a55b286,WATCHER,Runic Pyramid,Skipped,1,57,2
+1d6ed096-52e6-443e-af7c-e75c1a55b286,WATCHER,Runic Dome,Skipped,1,57,2
+1d6ed096-52e6-443e-af7c-e75c1a55b286,WATCHER,Busted Crown,Picked,1,57,2
+b89b99cd-1b2d-43c0-96ee-2ecdbe094988,WATCHER,HolyWater,Skipped,1,57,1
+b89b99cd-1b2d-43c0-96ee-2ecdbe094988,WATCHER,SlaversCollar,Skipped,1,57,1
+b89b99cd-1b2d-43c0-96ee-2ecdbe094988,WATCHER,Runic Pyramid,Picked,1,57,1
+b89b99cd-1b2d-43c0-96ee-2ecdbe094988,WATCHER,Calling Bell,Skipped,1,57,2
+b89b99cd-1b2d-43c0-96ee-2ecdbe094988,WATCHER,Astrolabe,Skipped,1,57,2
+b89b99cd-1b2d-43c0-96ee-2ecdbe094988,WATCHER,Busted Crown,Picked,1,57,2
+33b948a0-9282-4130-bbf6-c9458510ab4e,WATCHER,Empty Cage,Skipped,1,57,1
+33b948a0-9282-4130-bbf6-c9458510ab4e,WATCHER,Busted Crown,Skipped,1,57,1
+33b948a0-9282-4130-bbf6-c9458510ab4e,WATCHER,SlaversCollar,Picked,1,57,1
+33b948a0-9282-4130-bbf6-c9458510ab4e,WATCHER,VioletLotus,Skipped,1,57,2
+33b948a0-9282-4130-bbf6-c9458510ab4e,WATCHER,Philosopher's Stone,Skipped,1,57,2
+33b948a0-9282-4130-bbf6-c9458510ab4e,WATCHER,SacredBark,Picked,1,57,2
+354c0a6a-a904-4ad9-96e8-df4758c5acb6,WATCHER,Sozu,Skipped,0,56,1
+354c0a6a-a904-4ad9-96e8-df4758c5acb6,WATCHER,Snecko Eye,Skipped,0,56,1
+354c0a6a-a904-4ad9-96e8-df4758c5acb6,WATCHER,VioletLotus,Picked,0,56,1
+354c0a6a-a904-4ad9-96e8-df4758c5acb6,WATCHER,Calling Bell,Skipped,0,56,2
+354c0a6a-a904-4ad9-96e8-df4758c5acb6,WATCHER,Pandora's Box,Skipped,0,56,2
+354c0a6a-a904-4ad9-96e8-df4758c5acb6,WATCHER,SlaversCollar,Picked,0,56,2
+05ab3693-bdfe-492f-8db7-a9cf42b84777,WATCHER,Runic Dome,Skipped,0,56,1
+05ab3693-bdfe-492f-8db7-a9cf42b84777,WATCHER,Sozu,Skipped,0,56,1
+05ab3693-bdfe-492f-8db7-a9cf42b84777,WATCHER,SacredBark,Picked,0,56,1
+05ab3693-bdfe-492f-8db7-a9cf42b84777,WATCHER,Philosopher's Stone,Skipped,0,56,2
+05ab3693-bdfe-492f-8db7-a9cf42b84777,WATCHER,Tiny House,Skipped,0,56,2
+05ab3693-bdfe-492f-8db7-a9cf42b84777,WATCHER,Empty Cage,Picked,0,56,2
+52861dc4-fe57-4ec6-9e6e-f93e49ecf6fa,WATCHER,Philosopher's Stone,Skipped,1,57,1
+52861dc4-fe57-4ec6-9e6e-f93e49ecf6fa,WATCHER,VioletLotus,Skipped,1,57,1
+52861dc4-fe57-4ec6-9e6e-f93e49ecf6fa,WATCHER,Cursed Key,Picked,1,57,1
+52861dc4-fe57-4ec6-9e6e-f93e49ecf6fa,WATCHER,SacredBark,Skipped,1,57,2
+52861dc4-fe57-4ec6-9e6e-f93e49ecf6fa,WATCHER,Black Star,Skipped,1,57,2
+52861dc4-fe57-4ec6-9e6e-f93e49ecf6fa,WATCHER,Runic Pyramid,Picked,1,57,2
+46dbe5a1-d961-469c-9309-571bb868ac69,WATCHER,Snecko Eye,Skipped,1,57,1
+46dbe5a1-d961-469c-9309-571bb868ac69,WATCHER,Astrolabe,Skipped,1,57,1
+46dbe5a1-d961-469c-9309-571bb868ac69,WATCHER,Pandora's Box,Picked,1,57,1
+46dbe5a1-d961-469c-9309-571bb868ac69,WATCHER,Empty Cage,Skipped,1,57,2
+46dbe5a1-d961-469c-9309-571bb868ac69,WATCHER,Runic Dome,Skipped,1,57,2
+46dbe5a1-d961-469c-9309-571bb868ac69,WATCHER,VioletLotus,Picked,1,57,2
+82e3dbfe-efeb-4c1f-bc44-b105d1513e8f,WATCHER,Runic Pyramid,Skipped,1,57,1
+82e3dbfe-efeb-4c1f-bc44-b105d1513e8f,WATCHER,HolyWater,Skipped,1,57,1
+82e3dbfe-efeb-4c1f-bc44-b105d1513e8f,WATCHER,Black Star,Picked,1,57,1
+82e3dbfe-efeb-4c1f-bc44-b105d1513e8f,WATCHER,Pandora's Box,Skipped,1,57,2
+82e3dbfe-efeb-4c1f-bc44-b105d1513e8f,WATCHER,Snecko Eye,Skipped,1,57,2
+82e3dbfe-efeb-4c1f-bc44-b105d1513e8f,WATCHER,Astrolabe,Picked,1,57,2
+5f828f8b-9264-4fa6-a518-1e95e60d7eae,WATCHER,Calling Bell,Skipped,0,50,1
+5f828f8b-9264-4fa6-a518-1e95e60d7eae,WATCHER,Busted Crown,Skipped,0,50,1
+5f828f8b-9264-4fa6-a518-1e95e60d7eae,WATCHER,Astrolabe,Picked,0,50,1
+5f828f8b-9264-4fa6-a518-1e95e60d7eae,WATCHER,Snecko Eye,Skipped,0,50,2
+5f828f8b-9264-4fa6-a518-1e95e60d7eae,WATCHER,Cursed Key,Skipped,0,50,2
+5f828f8b-9264-4fa6-a518-1e95e60d7eae,WATCHER,Coffee Dripper,Picked,0,50,2
+1f618d21-3f49-44e8-a075-702c6584e60e,WATCHER,Velvet Choker,Skipped,1,57,1
+1f618d21-3f49-44e8-a075-702c6584e60e,WATCHER,VioletLotus,Skipped,1,57,1
+1f618d21-3f49-44e8-a075-702c6584e60e,WATCHER,Black Star,Picked,1,57,1
+1f618d21-3f49-44e8-a075-702c6584e60e,WATCHER,SlaversCollar,Skipped,1,57,2
+1f618d21-3f49-44e8-a075-702c6584e60e,WATCHER,Calling Bell,Skipped,1,57,2
+1f618d21-3f49-44e8-a075-702c6584e60e,WATCHER,Empty Cage,Picked,1,57,2
+579987cb-b567-4b45-869d-44cec423056f,WATCHER,Coffee Dripper,Skipped,0,30,1
+579987cb-b567-4b45-869d-44cec423056f,WATCHER,SacredBark,Skipped,0,30,1
+579987cb-b567-4b45-869d-44cec423056f,WATCHER,Pandora's Box,Picked,0,30,1
+afed2b42-d6a4-418e-a4ec-cbe55d988515,WATCHER,Cursed Key,Skipped,1,57,1
+afed2b42-d6a4-418e-a4ec-cbe55d988515,WATCHER,Sozu,Skipped,1,57,1
+afed2b42-d6a4-418e-a4ec-cbe55d988515,WATCHER,Pandora's Box,Picked,1,57,1
+afed2b42-d6a4-418e-a4ec-cbe55d988515,WATCHER,Black Star,Skipped,1,57,2
+afed2b42-d6a4-418e-a4ec-cbe55d988515,WATCHER,Astrolabe,Skipped,1,57,2
+afed2b42-d6a4-418e-a4ec-cbe55d988515,WATCHER,Coffee Dripper,Picked,1,57,2
+27638d75-4027-40de-8d68-5f8e9658a3fd,WATCHER,Runic Dome,Skipped,1,57,1
+27638d75-4027-40de-8d68-5f8e9658a3fd,WATCHER,VioletLotus,Skipped,1,57,1
+27638d75-4027-40de-8d68-5f8e9658a3fd,WATCHER,HolyWater,Picked,1,57,1
+27638d75-4027-40de-8d68-5f8e9658a3fd,WATCHER,Fusion Hammer,Skipped,1,57,2
+27638d75-4027-40de-8d68-5f8e9658a3fd,WATCHER,SacredBark,Skipped,1,57,2
+27638d75-4027-40de-8d68-5f8e9658a3fd,WATCHER,Coffee Dripper,Picked,1,57,2
+8d8f81ad-ad4a-4f55-99e8-f04b11dd7904,WATCHER,VioletLotus,Skipped,1,57,1
+8d8f81ad-ad4a-4f55-99e8-f04b11dd7904,WATCHER,Sozu,Skipped,1,57,1
+8d8f81ad-ad4a-4f55-99e8-f04b11dd7904,WATCHER,Pandora's Box,Picked,1,57,1
+8d8f81ad-ad4a-4f55-99e8-f04b11dd7904,WATCHER,Snecko Eye,Skipped,1,57,2
+8d8f81ad-ad4a-4f55-99e8-f04b11dd7904,WATCHER,Astrolabe,Skipped,1,57,2
+8d8f81ad-ad4a-4f55-99e8-f04b11dd7904,WATCHER,Cursed Key,Picked,1,57,2
+38c94d8e-9260-46b2-a09f-773ec005f0b2,WATCHER,Pandora's Box,Skipped,1,57,1
+38c94d8e-9260-46b2-a09f-773ec005f0b2,WATCHER,Runic Dome,Skipped,1,57,1
+38c94d8e-9260-46b2-a09f-773ec005f0b2,WATCHER,Empty Cage,Picked,1,57,1
+38c94d8e-9260-46b2-a09f-773ec005f0b2,WATCHER,Philosopher's Stone,Skipped,1,57,2
+38c94d8e-9260-46b2-a09f-773ec005f0b2,WATCHER,Busted Crown,Skipped,1,57,2
+38c94d8e-9260-46b2-a09f-773ec005f0b2,WATCHER,SlaversCollar,Picked,1,57,2
+cb4ce85f-4ff6-4c6d-b407-cdecd97cf9f6,WATCHER,Ectoplasm,Skipped,1,57,1
+cb4ce85f-4ff6-4c6d-b407-cdecd97cf9f6,WATCHER,Tiny House,Skipped,1,57,1
+cb4ce85f-4ff6-4c6d-b407-cdecd97cf9f6,WATCHER,Snecko Eye,Picked,1,57,1
+cb4ce85f-4ff6-4c6d-b407-cdecd97cf9f6,WATCHER,Velvet Choker,Skipped,1,57,2
+cb4ce85f-4ff6-4c6d-b407-cdecd97cf9f6,WATCHER,Empty Cage,Skipped,1,57,2
+cb4ce85f-4ff6-4c6d-b407-cdecd97cf9f6,WATCHER,Fusion Hammer,Picked,1,57,2
+cc0d911c-b1ed-44a0-b4d4-3486d336c1ac,WATCHER,Runic Pyramid,Skipped,1,57,1
+cc0d911c-b1ed-44a0-b4d4-3486d336c1ac,WATCHER,Philosopher's Stone,Skipped,1,57,1
+cc0d911c-b1ed-44a0-b4d4-3486d336c1ac,WATCHER,Empty Cage,Picked,1,57,1
+cc0d911c-b1ed-44a0-b4d4-3486d336c1ac,WATCHER,SacredBark,Skipped,1,57,2
+cc0d911c-b1ed-44a0-b4d4-3486d336c1ac,WATCHER,Pandora's Box,Skipped,1,57,2
+cc0d911c-b1ed-44a0-b4d4-3486d336c1ac,WATCHER,SlaversCollar,Picked,1,57,2
+7c3d7d41-df0f-4abd-b577-e9b8f1cade96,WATCHER,Black Star,Skipped,1,57,1
+7c3d7d41-df0f-4abd-b577-e9b8f1cade96,WATCHER,Astrolabe,Skipped,1,57,1
+7c3d7d41-df0f-4abd-b577-e9b8f1cade96,WATCHER,Pandora's Box,Picked,1,57,1
+7c3d7d41-df0f-4abd-b577-e9b8f1cade96,WATCHER,Busted Crown,Skipped,1,57,2
+7c3d7d41-df0f-4abd-b577-e9b8f1cade96,WATCHER,Sozu,Skipped,1,57,2
+7c3d7d41-df0f-4abd-b577-e9b8f1cade96,WATCHER,Fusion Hammer,Picked,1,57,2
+0f357053-2d90-4ead-b99e-3613ff69602b,WATCHER,Tiny House,Skipped,0,56,1
+0f357053-2d90-4ead-b99e-3613ff69602b,WATCHER,VioletLotus,Skipped,0,56,1
+0f357053-2d90-4ead-b99e-3613ff69602b,WATCHER,SlaversCollar,Picked,0,56,1
+0f357053-2d90-4ead-b99e-3613ff69602b,WATCHER,Fusion Hammer,Skipped,0,56,2
+0f357053-2d90-4ead-b99e-3613ff69602b,WATCHER,Snecko Eye,Skipped,0,56,2
+0f357053-2d90-4ead-b99e-3613ff69602b,WATCHER,Calling Bell,Picked,0,56,2
+0c368ac8-c0d7-454f-83f4-a5f43e764c42,WATCHER,Tiny House,Skipped,1,57,1
+0c368ac8-c0d7-454f-83f4-a5f43e764c42,WATCHER,SacredBark,Skipped,1,57,1
+0c368ac8-c0d7-454f-83f4-a5f43e764c42,WATCHER,Runic Pyramid,Picked,1,57,1
+0c368ac8-c0d7-454f-83f4-a5f43e764c42,WATCHER,Philosopher's Stone,Skipped,1,57,2
+0c368ac8-c0d7-454f-83f4-a5f43e764c42,WATCHER,VioletLotus,Skipped,1,57,2
+0c368ac8-c0d7-454f-83f4-a5f43e764c42,WATCHER,Cursed Key,Picked,1,57,2
+4b013e17-c5eb-4a94-ab92-322a88c5db39,WATCHER,Ectoplasm,Skipped,1,57,1
+4b013e17-c5eb-4a94-ab92-322a88c5db39,WATCHER,HolyWater,Skipped,1,57,1
+4b013e17-c5eb-4a94-ab92-322a88c5db39,WATCHER,Fusion Hammer,Picked,1,57,1
+4b013e17-c5eb-4a94-ab92-322a88c5db39,WATCHER,Cursed Key,Skipped,1,57,2
+4b013e17-c5eb-4a94-ab92-322a88c5db39,WATCHER,Velvet Choker,Skipped,1,57,2
+4b013e17-c5eb-4a94-ab92-322a88c5db39,WATCHER,Runic Dome,Picked,1,57,2
+7db7b8b4-5fa0-491b-9120-7ec84fa2fe53,WATCHER,Empty Cage,Skipped,1,57,1
+7db7b8b4-5fa0-491b-9120-7ec84fa2fe53,WATCHER,Coffee Dripper,Skipped,1,57,1
+7db7b8b4-5fa0-491b-9120-7ec84fa2fe53,WATCHER,Snecko Eye,Picked,1,57,1
+7db7b8b4-5fa0-491b-9120-7ec84fa2fe53,WATCHER,Velvet Choker,Skipped,1,57,2
+7db7b8b4-5fa0-491b-9120-7ec84fa2fe53,WATCHER,Runic Dome,Skipped,1,57,2
+7db7b8b4-5fa0-491b-9120-7ec84fa2fe53,WATCHER,Fusion Hammer,Picked,1,57,2
+a273a657-333f-451f-9bec-922dd4f618ab,WATCHER,Runic Dome,Skipped,1,57,1
+a273a657-333f-451f-9bec-922dd4f618ab,WATCHER,Velvet Choker,Skipped,1,57,1
+a273a657-333f-451f-9bec-922dd4f618ab,WATCHER,Cursed Key,Picked,1,57,1
+a273a657-333f-451f-9bec-922dd4f618ab,WATCHER,Busted Crown,Skipped,1,57,2
+a273a657-333f-451f-9bec-922dd4f618ab,WATCHER,Black Star,Skipped,1,57,2
+a273a657-333f-451f-9bec-922dd4f618ab,WATCHER,Runic Pyramid,Picked,1,57,2
+e3002ed8-08bc-44ed-955f-0cd4aa5a1b8c,WATCHER,Tiny House,Skipped,0,21,1
+e3002ed8-08bc-44ed-955f-0cd4aa5a1b8c,WATCHER,Busted Crown,Skipped,0,21,1
+e3002ed8-08bc-44ed-955f-0cd4aa5a1b8c,WATCHER,Philosopher's Stone,Picked,0,21,1
+899590a8-681d-4e28-b82e-c6caa4573ed7,WATCHER,Velvet Choker,Skipped,1,57,1
+899590a8-681d-4e28-b82e-c6caa4573ed7,WATCHER,Tiny House,Skipped,1,57,1
+899590a8-681d-4e28-b82e-c6caa4573ed7,WATCHER,Sozu,Picked,1,57,1
+899590a8-681d-4e28-b82e-c6caa4573ed7,WATCHER,SacredBark,Skipped,1,57,2
+899590a8-681d-4e28-b82e-c6caa4573ed7,WATCHER,Snecko Eye,Skipped,1,57,2
+899590a8-681d-4e28-b82e-c6caa4573ed7,WATCHER,Runic Pyramid,Picked,1,57,2
+2cb763e6-f469-48e6-8569-1f0b44f0e46d,WATCHER,Cursed Key,Skipped,1,57,1
+2cb763e6-f469-48e6-8569-1f0b44f0e46d,WATCHER,Empty Cage,Skipped,1,57,1
+2cb763e6-f469-48e6-8569-1f0b44f0e46d,WATCHER,Astrolabe,Picked,1,57,1
+2cb763e6-f469-48e6-8569-1f0b44f0e46d,WATCHER,Tiny House,Skipped,1,57,2
+2cb763e6-f469-48e6-8569-1f0b44f0e46d,WATCHER,Calling Bell,Skipped,1,57,2
+2cb763e6-f469-48e6-8569-1f0b44f0e46d,WATCHER,VioletLotus,Picked,1,57,2
+ae8b588f-d9a0-4763-ac1b-2d7e5d31285d,WATCHER,Calling Bell,Skipped,1,57,1
+ae8b588f-d9a0-4763-ac1b-2d7e5d31285d,WATCHER,Tiny House,Skipped,1,57,1
+ae8b588f-d9a0-4763-ac1b-2d7e5d31285d,WATCHER,VioletLotus,Picked,1,57,1
+ae8b588f-d9a0-4763-ac1b-2d7e5d31285d,WATCHER,Black Star,Skipped,1,57,2
+ae8b588f-d9a0-4763-ac1b-2d7e5d31285d,WATCHER,Fusion Hammer,Skipped,1,57,2
+ae8b588f-d9a0-4763-ac1b-2d7e5d31285d,WATCHER,Coffee Dripper,Picked,1,57,2
+304a66b1-94a6-4c10-be0c-fbbb983a6627,WATCHER,Empty Cage,Skipped,1,57,1
+304a66b1-94a6-4c10-be0c-fbbb983a6627,WATCHER,Snecko Eye,Skipped,1,57,1
+304a66b1-94a6-4c10-be0c-fbbb983a6627,WATCHER,Black Star,Picked,1,57,1
+304a66b1-94a6-4c10-be0c-fbbb983a6627,WATCHER,Runic Dome,Skipped,1,57,2
+304a66b1-94a6-4c10-be0c-fbbb983a6627,WATCHER,HolyWater,Skipped,1,57,2
+304a66b1-94a6-4c10-be0c-fbbb983a6627,WATCHER,Runic Pyramid,Picked,1,57,2
+8f4f0679-10c8-444a-b62f-f163adb30fd0,WATCHER,Tiny House,Skipped,1,57,1
+8f4f0679-10c8-444a-b62f-f163adb30fd0,WATCHER,Velvet Choker,Skipped,1,57,1
+8f4f0679-10c8-444a-b62f-f163adb30fd0,WATCHER,Busted Crown,Picked,1,57,1
+8f4f0679-10c8-444a-b62f-f163adb30fd0,WATCHER,Fusion Hammer,Skipped,1,57,2
+8f4f0679-10c8-444a-b62f-f163adb30fd0,WATCHER,Pandora's Box,Skipped,1,57,2
+8f4f0679-10c8-444a-b62f-f163adb30fd0,WATCHER,Astrolabe,Picked,1,57,2
+0f506977-581c-4e8e-9540-517d26506b0e,WATCHER,Snecko Eye,Skipped,1,57,1
+0f506977-581c-4e8e-9540-517d26506b0e,WATCHER,HolyWater,Skipped,1,57,1
+0f506977-581c-4e8e-9540-517d26506b0e,WATCHER,Black Star,Picked,1,57,1
+0f506977-581c-4e8e-9540-517d26506b0e,WATCHER,Tiny House,Skipped,1,57,2
+0f506977-581c-4e8e-9540-517d26506b0e,WATCHER,SacredBark,Skipped,1,57,2
+0f506977-581c-4e8e-9540-517d26506b0e,WATCHER,Busted Crown,Picked,1,57,2
+bc18c98f-1ace-4b7e-a232-c401396dfc07,WATCHER,Busted Crown,Skipped,0,33,1
+bc18c98f-1ace-4b7e-a232-c401396dfc07,WATCHER,Ectoplasm,Skipped,0,33,1
+bc18c98f-1ace-4b7e-a232-c401396dfc07,WATCHER,SlaversCollar,Picked,0,33,1
+100cc341-5f37-4ca0-ac15-6fb857b5112a,WATCHER,Runic Dome,Skipped,0,56,1
+100cc341-5f37-4ca0-ac15-6fb857b5112a,WATCHER,SlaversCollar,Skipped,0,56,1
+100cc341-5f37-4ca0-ac15-6fb857b5112a,WATCHER,Astrolabe,Picked,0,56,1
+100cc341-5f37-4ca0-ac15-6fb857b5112a,WATCHER,Pandora's Box,Skipped,0,56,2
+100cc341-5f37-4ca0-ac15-6fb857b5112a,WATCHER,Snecko Eye,Skipped,0,56,2
+100cc341-5f37-4ca0-ac15-6fb857b5112a,WATCHER,HolyWater,Picked,0,56,2
+42362b89-b051-44ac-a019-9744beeec923,WATCHER,Cursed Key,Skipped,1,57,1
+42362b89-b051-44ac-a019-9744beeec923,WATCHER,Astrolabe,Skipped,1,57,1
+42362b89-b051-44ac-a019-9744beeec923,WATCHER,Fusion Hammer,Picked,1,57,1
+42362b89-b051-44ac-a019-9744beeec923,WATCHER,Coffee Dripper,Skipped,1,57,2
+42362b89-b051-44ac-a019-9744beeec923,WATCHER,Pandora's Box,Skipped,1,57,2
+42362b89-b051-44ac-a019-9744beeec923,WATCHER,SlaversCollar,Picked,1,57,2
+fbcb5a62-6837-488d-87c8-9ef0c3eccbf1,WATCHER,Coffee Dripper,Skipped,1,57,1
+fbcb5a62-6837-488d-87c8-9ef0c3eccbf1,WATCHER,Snecko Eye,Skipped,1,57,1
+fbcb5a62-6837-488d-87c8-9ef0c3eccbf1,WATCHER,Runic Pyramid,Picked,1,57,1
+fbcb5a62-6837-488d-87c8-9ef0c3eccbf1,WATCHER,Philosopher's Stone,Skipped,1,57,2
+fbcb5a62-6837-488d-87c8-9ef0c3eccbf1,WATCHER,Calling Bell,Skipped,1,57,2
+fbcb5a62-6837-488d-87c8-9ef0c3eccbf1,WATCHER,Busted Crown,Picked,1,57,2
+c58f277d-bc87-4410-a3be-5a6ae9bfbe57,WATCHER,Runic Pyramid,Skipped,1,57,1
+c58f277d-bc87-4410-a3be-5a6ae9bfbe57,WATCHER,SacredBark,Skipped,1,57,1
+c58f277d-bc87-4410-a3be-5a6ae9bfbe57,WATCHER,Ectoplasm,Picked,1,57,1
+c58f277d-bc87-4410-a3be-5a6ae9bfbe57,WATCHER,Busted Crown,Skipped,1,57,2
+c58f277d-bc87-4410-a3be-5a6ae9bfbe57,WATCHER,Pandora's Box,Skipped,1,57,2
+c58f277d-bc87-4410-a3be-5a6ae9bfbe57,WATCHER,VioletLotus,Picked,1,57,2
+491594c9-e904-40a4-9e28-9db1413a3a3b,WATCHER,Cursed Key,Skipped,0,27,1
+491594c9-e904-40a4-9e28-9db1413a3a3b,WATCHER,Sozu,Skipped,0,27,1
+491594c9-e904-40a4-9e28-9db1413a3a3b,WATCHER,Fusion Hammer,Picked,0,27,1
+074d5bbd-6274-44e1-ae1f-803728aae8db,WATCHER,Busted Crown,Skipped,1,57,1
+074d5bbd-6274-44e1-ae1f-803728aae8db,WATCHER,Cursed Key,Skipped,1,57,1
+074d5bbd-6274-44e1-ae1f-803728aae8db,WATCHER,Astrolabe,Picked,1,57,1
+074d5bbd-6274-44e1-ae1f-803728aae8db,WATCHER,Pandora's Box,Skipped,1,57,2
+074d5bbd-6274-44e1-ae1f-803728aae8db,WATCHER,Runic Dome,Skipped,1,57,2
+074d5bbd-6274-44e1-ae1f-803728aae8db,WATCHER,Empty Cage,Picked,1,57,2
+c6108798-f3f4-45ed-8be1-f86de8649a35,WATCHER,Sozu,Skipped,1,57,1
+c6108798-f3f4-45ed-8be1-f86de8649a35,WATCHER,Ectoplasm,Skipped,1,57,1
+c6108798-f3f4-45ed-8be1-f86de8649a35,WATCHER,Tiny House,Picked,1,57,1
+c6108798-f3f4-45ed-8be1-f86de8649a35,WATCHER,Black Star,Skipped,1,57,2
+c6108798-f3f4-45ed-8be1-f86de8649a35,WATCHER,Empty Cage,Skipped,1,57,2
+c6108798-f3f4-45ed-8be1-f86de8649a35,WATCHER,Busted Crown,Picked,1,57,2
+6145e040-4cef-4ad8-ab6c-0234913465c4,WATCHER,Tiny House,Skipped,1,57,1
+6145e040-4cef-4ad8-ab6c-0234913465c4,WATCHER,Runic Pyramid,Skipped,1,57,1
+6145e040-4cef-4ad8-ab6c-0234913465c4,WATCHER,Astrolabe,Picked,1,57,1
+6145e040-4cef-4ad8-ab6c-0234913465c4,WATCHER,Black Star,Skipped,1,57,2
+6145e040-4cef-4ad8-ab6c-0234913465c4,WATCHER,Busted Crown,Skipped,1,57,2
+6145e040-4cef-4ad8-ab6c-0234913465c4,WATCHER,Fusion Hammer,Picked,1,57,2
+532e4037-ea46-4f67-84ae-abe19c927b4f,WATCHER,VioletLotus,Skipped,1,57,1
+532e4037-ea46-4f67-84ae-abe19c927b4f,WATCHER,Busted Crown,Skipped,1,57,1
+532e4037-ea46-4f67-84ae-abe19c927b4f,WATCHER,HolyWater,Picked,1,57,1
+532e4037-ea46-4f67-84ae-abe19c927b4f,WATCHER,Tiny House,Skipped,1,57,2
+532e4037-ea46-4f67-84ae-abe19c927b4f,WATCHER,Runic Pyramid,Skipped,1,57,2
+532e4037-ea46-4f67-84ae-abe19c927b4f,WATCHER,Philosopher's Stone,Picked,1,57,2
+230d4ad1-ce84-4c85-b946-74223b1701be,WATCHER,Cursed Key,Skipped,1,57,1
+230d4ad1-ce84-4c85-b946-74223b1701be,WATCHER,Astrolabe,Skipped,1,57,1
+230d4ad1-ce84-4c85-b946-74223b1701be,WATCHER,Runic Pyramid,Picked,1,57,1
+230d4ad1-ce84-4c85-b946-74223b1701be,WATCHER,SacredBark,Skipped,1,57,2
+230d4ad1-ce84-4c85-b946-74223b1701be,WATCHER,Tiny House,Skipped,1,57,2
+230d4ad1-ce84-4c85-b946-74223b1701be,WATCHER,Philosopher's Stone,Picked,1,57,2
+96f20743-98f7-42c2-8530-6c2deb0fedc9,WATCHER,Ectoplasm,Skipped,1,57,1
+96f20743-98f7-42c2-8530-6c2deb0fedc9,WATCHER,SacredBark,Skipped,1,57,1
+96f20743-98f7-42c2-8530-6c2deb0fedc9,WATCHER,SlaversCollar,Picked,1,57,1
+96f20743-98f7-42c2-8530-6c2deb0fedc9,WATCHER,Runic Dome,Skipped,1,57,2
+96f20743-98f7-42c2-8530-6c2deb0fedc9,WATCHER,Coffee Dripper,Skipped,1,57,2
+96f20743-98f7-42c2-8530-6c2deb0fedc9,WATCHER,Runic Pyramid,Picked,1,57,2
+85b56403-9c19-4281-8eff-bef71132171d,WATCHER,Empty Cage,Skipped,1,57,1
+85b56403-9c19-4281-8eff-bef71132171d,WATCHER,Ectoplasm,Skipped,1,57,1
+85b56403-9c19-4281-8eff-bef71132171d,WATCHER,Calling Bell,Picked,1,57,1
+85b56403-9c19-4281-8eff-bef71132171d,WATCHER,Sozu,Skipped,1,57,2
+85b56403-9c19-4281-8eff-bef71132171d,WATCHER,Black Star,Skipped,1,57,2
+85b56403-9c19-4281-8eff-bef71132171d,WATCHER,SacredBark,Picked,1,57,2
+26a631ca-6876-491a-9085-c593cc5160b8,WATCHER,Black Star,Skipped,1,57,1
+26a631ca-6876-491a-9085-c593cc5160b8,WATCHER,Runic Dome,Skipped,1,57,1
+26a631ca-6876-491a-9085-c593cc5160b8,WATCHER,Astrolabe,Picked,1,57,1
+26a631ca-6876-491a-9085-c593cc5160b8,WATCHER,Calling Bell,Skipped,1,57,2
+26a631ca-6876-491a-9085-c593cc5160b8,WATCHER,Fusion Hammer,Skipped,1,57,2
+26a631ca-6876-491a-9085-c593cc5160b8,WATCHER,SlaversCollar,Picked,1,57,2
+c076ecd2-7b70-45e3-8f70-ef07b5bb849e,WATCHER,Calling Bell,Skipped,1,57,1
+c076ecd2-7b70-45e3-8f70-ef07b5bb849e,WATCHER,Velvet Choker,Skipped,1,57,1
+c076ecd2-7b70-45e3-8f70-ef07b5bb849e,WATCHER,Runic Pyramid,Picked,1,57,1
+c076ecd2-7b70-45e3-8f70-ef07b5bb849e,WATCHER,Cursed Key,Skipped,1,57,2
+c076ecd2-7b70-45e3-8f70-ef07b5bb849e,WATCHER,Black Star,Skipped,1,57,2
+c076ecd2-7b70-45e3-8f70-ef07b5bb849e,WATCHER,Empty Cage,Picked,1,57,2
+bc744f5a-02ef-4414-b798-40f99feb0edb,WATCHER,Empty Cage,Skipped,1,57,1
+bc744f5a-02ef-4414-b798-40f99feb0edb,WATCHER,Tiny House,Skipped,1,57,1
+bc744f5a-02ef-4414-b798-40f99feb0edb,WATCHER,Fusion Hammer,Picked,1,57,1
+bc744f5a-02ef-4414-b798-40f99feb0edb,WATCHER,Coffee Dripper,Skipped,1,57,2
+bc744f5a-02ef-4414-b798-40f99feb0edb,WATCHER,Runic Dome,Skipped,1,57,2
+bc744f5a-02ef-4414-b798-40f99feb0edb,WATCHER,Black Star,Picked,1,57,2
+06dbe135-93d3-42b0-a625-d766ad802847,WATCHER,Coffee Dripper,Skipped,0,56,1
+06dbe135-93d3-42b0-a625-d766ad802847,WATCHER,Tiny House,Skipped,0,56,1
+06dbe135-93d3-42b0-a625-d766ad802847,WATCHER,HolyWater,Picked,0,56,1
+06dbe135-93d3-42b0-a625-d766ad802847,WATCHER,Cursed Key,Skipped,0,56,2
+06dbe135-93d3-42b0-a625-d766ad802847,WATCHER,Snecko Eye,Skipped,0,56,2
+06dbe135-93d3-42b0-a625-d766ad802847,WATCHER,Runic Dome,Picked,0,56,2
+11900d1b-3b09-4c55-97d6-1dc451bbcb99,WATCHER,Fusion Hammer,Skipped,1,57,1
+11900d1b-3b09-4c55-97d6-1dc451bbcb99,WATCHER,Empty Cage,Skipped,1,57,1
+11900d1b-3b09-4c55-97d6-1dc451bbcb99,WATCHER,HolyWater,Picked,1,57,1
+11900d1b-3b09-4c55-97d6-1dc451bbcb99,WATCHER,Velvet Choker,Skipped,1,57,2
+11900d1b-3b09-4c55-97d6-1dc451bbcb99,WATCHER,Busted Crown,Skipped,1,57,2
+11900d1b-3b09-4c55-97d6-1dc451bbcb99,WATCHER,Runic Dome,Picked,1,57,2
+4c32e016-ec15-4c7b-8662-4f5c33e486dc,WATCHER,Tiny House,Skipped,1,57,1
+4c32e016-ec15-4c7b-8662-4f5c33e486dc,WATCHER,Philosopher's Stone,Skipped,1,57,1
+4c32e016-ec15-4c7b-8662-4f5c33e486dc,WATCHER,Coffee Dripper,Picked,1,57,1
+4c32e016-ec15-4c7b-8662-4f5c33e486dc,WATCHER,Runic Pyramid,Skipped,1,57,2
+4c32e016-ec15-4c7b-8662-4f5c33e486dc,WATCHER,Fusion Hammer,Skipped,1,57,2
+4c32e016-ec15-4c7b-8662-4f5c33e486dc,WATCHER,Black Star,Picked,1,57,2
+20eb78c1-046a-4c5d-b54b-03255f8a794d,WATCHER,Philosopher's Stone,Skipped,1,57,1
+20eb78c1-046a-4c5d-b54b-03255f8a794d,WATCHER,Sozu,Skipped,1,57,1
+20eb78c1-046a-4c5d-b54b-03255f8a794d,WATCHER,SacredBark,Picked,1,57,1
+20eb78c1-046a-4c5d-b54b-03255f8a794d,WATCHER,Runic Dome,Skipped,1,57,2
+20eb78c1-046a-4c5d-b54b-03255f8a794d,WATCHER,Fusion Hammer,Skipped,1,57,2
+20eb78c1-046a-4c5d-b54b-03255f8a794d,WATCHER,Runic Pyramid,Picked,1,57,2
+3fd41828-7024-43bf-8bf9-07c4d949f52b,WATCHER,Fusion Hammer,Skipped,1,57,1
+3fd41828-7024-43bf-8bf9-07c4d949f52b,WATCHER,Philosopher's Stone,Skipped,1,57,1
+3fd41828-7024-43bf-8bf9-07c4d949f52b,WATCHER,HolyWater,Picked,1,57,1
+3fd41828-7024-43bf-8bf9-07c4d949f52b,WATCHER,Velvet Choker,Skipped,1,57,2
+3fd41828-7024-43bf-8bf9-07c4d949f52b,WATCHER,Black Star,Skipped,1,57,2
+3fd41828-7024-43bf-8bf9-07c4d949f52b,WATCHER,Busted Crown,Picked,1,57,2
+5d1bf127-dfca-414d-a134-fbdd3b566856,WATCHER,Ectoplasm,Skipped,0,33,1
+5d1bf127-dfca-414d-a134-fbdd3b566856,WATCHER,Velvet Choker,Skipped,0,33,1
+5d1bf127-dfca-414d-a134-fbdd3b566856,WATCHER,Cursed Key,Picked,0,33,1
+e4dfb210-2c6e-45c3-af1e-638a03e40ab8,WATCHER,Tiny House,Skipped,0,56,1
+e4dfb210-2c6e-45c3-af1e-638a03e40ab8,WATCHER,SlaversCollar,Skipped,0,56,1
+e4dfb210-2c6e-45c3-af1e-638a03e40ab8,WATCHER,VioletLotus,Picked,0,56,1
+e4dfb210-2c6e-45c3-af1e-638a03e40ab8,WATCHER,Philosopher's Stone,Skipped,0,56,2
+e4dfb210-2c6e-45c3-af1e-638a03e40ab8,WATCHER,Calling Bell,Skipped,0,56,2
+e4dfb210-2c6e-45c3-af1e-638a03e40ab8,WATCHER,Fusion Hammer,Picked,0,56,2
+147b26aa-f732-4bc8-92d2-73f950dc8d0b,WATCHER,Tiny House,Skipped,1,57,1
+147b26aa-f732-4bc8-92d2-73f950dc8d0b,WATCHER,Black Star,Skipped,1,57,1
+147b26aa-f732-4bc8-92d2-73f950dc8d0b,WATCHER,Astrolabe,Picked,1,57,1
+147b26aa-f732-4bc8-92d2-73f950dc8d0b,WATCHER,Empty Cage,Skipped,1,57,2
+147b26aa-f732-4bc8-92d2-73f950dc8d0b,WATCHER,Velvet Choker,Skipped,1,57,2
+147b26aa-f732-4bc8-92d2-73f950dc8d0b,WATCHER,Snecko Eye,Picked,1,57,2
+3969c5b1-901c-4011-a6f5-9b0929f6da97,WATCHER,Busted Crown,Skipped,1,57,1
+3969c5b1-901c-4011-a6f5-9b0929f6da97,WATCHER,Ectoplasm,Skipped,1,57,1
+3969c5b1-901c-4011-a6f5-9b0929f6da97,WATCHER,Cursed Key,Picked,1,57,1
+3969c5b1-901c-4011-a6f5-9b0929f6da97,WATCHER,SlaversCollar,Skipped,1,57,2
+3969c5b1-901c-4011-a6f5-9b0929f6da97,WATCHER,Philosopher's Stone,Skipped,1,57,2
+3969c5b1-901c-4011-a6f5-9b0929f6da97,WATCHER,Black Star,Picked,1,57,2

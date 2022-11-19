@@ -1,0 +1,343 @@
+play_id,character_chosen,first_elite,damage_taken,floor,victory
+0120db50-1c60-48d4-9f12-945451f97f57,IRONCLAD,Lagavulin,10.0,10.0,True
+01dd86f4-4f4a-49b8-904e-c84729adc2eb,DEFECT,Lagavulin,11.0,7.0,False
+023b1206-bc7a-4780-a98d-3216f9dc8e5a,DEFECT,Lagavulin,20.0,10.0,False
+03c54490-221a-4b43-bf6d-d0c19f667c2a,THE_SILENT,Gremlin Nob,1.0,7.0,True
+0504a493-9793-4e1b-92c1-192e7b18352c,IRONCLAD,Gremlin Nob,0.0,6.0,True
+05ab3693-bdfe-492f-8db7-a9cf42b84777,WATCHER,Lagavulin,4.0,7.0,False
+06dbe135-93d3-42b0-a625-d766ad802847,WATCHER,Gremlin Nob,0.0,6.0,False
+073c59b9-fddf-4371-9304-1c29c00bef70,IRONCLAD,Gremlin Nob,11.0,6.0,False
+074d5bbd-6274-44e1-ae1f-803728aae8db,WATCHER,3 Sentries,27.0,8.0,True
+07dd3c4c-f43e-4061-b97f-bb0b0b830e09,DEFECT,Gremlin Nob,30.0,6.0,True
+0b4abfed-86b4-46c2-a498-2a785428078e,DEFECT,Lagavulin,7.0,7.0,True
+0c368ac8-c0d7-454f-83f4-a5f43e764c42,WATCHER,3 Sentries,0.0,11.0,True
+0c4ab2db-4431-4cfc-99be-42744d2baf81,IRONCLAD,3 Sentries,0.0,8.0,True
+0c82fae6-be26-4913-b1d7-1ed79c354250,IRONCLAD,Gremlin Nob,13.0,6.0,True
+0e99c963-845f-4c3a-b8d8-4732c0ef8484,IRONCLAD,Lagavulin,63.0,6.0,True
+0f357053-2d90-4ead-b99e-3613ff69602b,WATCHER,3 Sentries,17.0,6.0,False
+0f506977-581c-4e8e-9540-517d26506b0e,WATCHER,3 Sentries,2.0,6.0,True
+0f97c635-95c4-49d3-9323-ce447df1f0d4,IRONCLAD,Gremlin Nob,8.0,6.0,False
+100cc341-5f37-4ca0-ac15-6fb857b5112a,WATCHER,Gremlin Nob,4.0,7.0,False
+1019ed6f-2c84-4d56-b2d2-a53ced95c234,THE_SILENT,Gremlin Nob,17.0,12.0,True
+103add4a-0049-49dc-8f62-c05c5368df11,THE_SILENT,Gremlin Nob,1.0,7.0,False
+11900d1b-3b09-4c55-97d6-1dc451bbcb99,WATCHER,3 Sentries,17.0,7.0,True
+11ed60ee-d684-4ed1-b2b1-8a2f23156e4f,DEFECT,Gremlin Nob,3.0,7.0,True
+1372bf77-8e2f-4d98-95ca-32cd69e9cf66,THE_SILENT,3 Sentries,14.0,7.0,False
+138f1459-d815-4a67-9086-01961204efed,DEFECT,Gremlin Nob,0.0,7.0,False
+14536cc5-14ba-40b7-b7d2-9637f18f7c7c,THE_SILENT,Gremlin Nob,37.0,6.0,True
+147b26aa-f732-4bc8-92d2-73f950dc8d0b,WATCHER,Lagavulin,10.0,10.0,True
+174ba3d2-09b3-464b-99a4-93726966d06f,THE_SILENT,Lagavulin,20.0,10.0,False
+17b8f665-df0d-40fa-93df-18d5295801e3,DEFECT,Gremlin Nob,11.0,8.0,False
+17c3cb39-bf29-46da-abe7-a9af69f3c3f1,THE_SILENT,Lagavulin,50.0,7.0,False
+1ba7e7de-26c0-4d6c-b140-0116ed6ca900,DEFECT,Lagavulin,8.0,8.0,True
+1bb9c959-f30a-488b-8bdd-1d568d7741f6,DEFECT,Gremlin Nob,25.0,8.0,False
+1c802c17-9bd1-491d-9c02-fc47a65f330e,DEFECT,3 Sentries,8.0,6.0,False
+1d1f6b70-5011-420a-8b62-ba24ff99e125,THE_SILENT,Lagavulin,44.0,8.0,True
+1d4c58be-406c-4a3e-8cdf-333c33036b18,THE_SILENT,3 Sentries,11.0,10.0,True
+1d6ed096-52e6-443e-af7c-e75c1a55b286,WATCHER,Gremlin Nob,6.0,6.0,True
+1dbb4750-a3a0-4410-b169-c992bc6447ea,THE_SILENT,3 Sentries,26.0,6.0,False
+1e06b5a9-f305-4c98-9e48-dc4c7cd5d694,IRONCLAD,Lagavulin,2.0,8.0,True
+1e7e2eae-7ff1-44cf-9ffb-df6cdd859403,IRONCLAD,Lagavulin,4.0,7.0,True
+1ecbc9fb-9691-473e-99d4-26edc60a83a4,THE_SILENT,Gremlin Nob,2.0,6.0,True
+1f2de10d-33da-43e5-ac1a-c9333cb139c4,THE_SILENT,Lagavulin,5.0,8.0,True
+1f618d21-3f49-44e8-a075-702c6584e60e,WATCHER,Lagavulin,0.0,10.0,True
+20eb78c1-046a-4c5d-b54b-03255f8a794d,WATCHER,Gremlin Nob,0.0,8.0,True
+21b1f1c7-9770-4e52-ac9a-3569202c63d3,IRONCLAD,Lagavulin,32.0,6.0,False
+230d4ad1-ce84-4c85-b946-74223b1701be,WATCHER,Lagavulin,0.0,6.0,True
+234199da-5102-491a-9403-ec916a24db83,IRONCLAD,3 Sentries,0.0,6.0,False
+2379da81-905f-4134-aec1-baaa465e3ddf,WATCHER,Gremlin Nob,0.0,8.0,True
+248069bd-fef9-47c2-b64d-9da0c3851f89,IRONCLAD,3 Sentries,16.0,7.0,False
+2494a155-d286-4bd1-9c38-4b83f50d5b26,THE_SILENT,3 Sentries,2.0,6.0,True
+24c182d8-a05a-4c81-ab70-2efa579ff6a3,THE_SILENT,Lagavulin,3.0,6.0,True
+2516e61f-bc00-4d33-bb6b-1a2db41840b8,WATCHER,Lagavulin,12.0,6.0,False
+25f087d3-22e2-4811-a8d8-9cbd090f398c,WATCHER,Gremlin Nob,24.0,12.0,False
+26a631ca-6876-491a-9085-c593cc5160b8,WATCHER,3 Sentries,7.0,7.0,True
+26ff7af3-d570-4282-b754-ce3adaafd477,THE_SILENT,Lagavulin,12.0,8.0,False
+27638d75-4027-40de-8d68-5f8e9658a3fd,WATCHER,Gremlin Nob,0.0,6.0,True
+2794780b-7373-4cb0-b5e9-449c379b53b0,THE_SILENT,3 Sentries,43.0,10.0,False
+284ccd9e-6a6e-4a29-a24d-9479804ac80f,THE_SILENT,3 Sentries,4.0,14.0,False
+2924a05d-d83d-400f-ab29-4151c56c7d39,DEFECT,3 Sentries,20.0,7.0,True
+2b851f7e-3614-4166-b105-c2b76403bf73,THE_SILENT,3 Sentries,2.0,7.0,False
+2b8697a0-acf7-4ef4-bb72-e345ae3b5bbf,DEFECT,3 Sentries,0.0,6.0,True
+2c8ebe48-eefd-4a78-bb0d-00f10f19b119,THE_SILENT,3 Sentries,6.0,11.0,False
+2cac282d-097b-4e4a-a61c-4d396be367e9,THE_SILENT,3 Sentries,2.0,11.0,False
+2cb763e6-f469-48e6-8569-1f0b44f0e46d,WATCHER,Gremlin Nob,0.0,8.0,True
+2dc51794-9778-46c0-a9ea-1fd6764d852e,THE_SILENT,Lagavulin,0.0,6.0,True
+2fc4bc10-68e2-4405-9c6d-9a4a192cd690,DEFECT,Lagavulin,14.0,7.0,False
+304a66b1-94a6-4c10-be0c-fbbb983a6627,WATCHER,Gremlin Nob,14.0,7.0,True
+311a20c4-bebb-4196-8d82-c7944221f6b5,IRONCLAD,3 Sentries,15.0,7.0,False
+32c9922a-26d1-4aa5-b7e0-75e38493b9e7,DEFECT,3 Sentries,8.0,11.0,True
+331a42ab-ce0a-4f2e-9b08-07aa17014dbf,DEFECT,3 Sentries,5.0,10.0,True
+3379fb58-d306-44ef-85f1-36e1648f823a,THE_SILENT,Gremlin Nob,20.0,7.0,False
+33b948a0-9282-4130-bbf6-c9458510ab4e,WATCHER,Lagavulin,25.0,6.0,True
+347fc094-4914-4c0b-8f37-3d4e013997aa,IRONCLAD,Gremlin Nob,0.0,6.0,False
+3486ec09-257d-42d7-b676-10c59f5e05f1,IRONCLAD,Gremlin Nob,24.0,8.0,True
+354c0a6a-a904-4ad9-96e8-df4758c5acb6,WATCHER,3 Sentries,12.0,11.0,False
+36cc1940-9273-4880-928e-9b4dd3d222bd,DEFECT,Lagavulin,0.0,6.0,True
+37cce07f-2ef3-422d-9de1-0ba37e58a4b0,DEFECT,3 Sentries,0.0,7.0,True
+3829b511-40ae-43d1-8199-d4fd3437c734,DEFECT,Gremlin Nob,45.0,7.0,False
+38c94d8e-9260-46b2-a09f-773ec005f0b2,WATCHER,3 Sentries,12.0,7.0,True
+399a24cf-7f77-4089-9a31-8700194bbd85,THE_SILENT,Gremlin Nob,0.0,8.0,True
+3b1905ff-d795-4933-b2c4-d25fa36b5b6d,WATCHER,3 Sentries,12.0,10.0,False
+3b25cb5f-f33d-4328-be7f-890b5517654b,THE_SILENT,3 Sentries,0.0,6.0,True
+3b864876-d4b7-48ad-9a65-1428c83cbb74,THE_SILENT,Lagavulin,15.0,6.0,False
+3c9e57be-92ad-4fcd-b0a0-f10c89ba771e,THE_SILENT,Gremlin Nob,79.0,6.0,False
+3d0e50e8-dc13-4699-91de-51e992b63e98,DEFECT,Lagavulin,0.0,10.0,False
+3d107bb1-40ef-4175-990a-437476e73421,IRONCLAD,Lagavulin,28.0,7.0,False
+3df262e3-f920-4ea2-b9cc-c31a22c3f780,IRONCLAD,3 Sentries,52.0,7.0,False
+3fd41828-7024-43bf-8bf9-07c4d949f52b,WATCHER,Gremlin Nob,0.0,7.0,True
+4144e039-acb5-4b9c-83ab-9ae44756545c,DEFECT,Lagavulin,14.0,14.0,True
+41b4e397-cdca-4af7-a7fa-8fb9b830ee9e,DEFECT,Lagavulin,15.0,10.0,False
+42362b89-b051-44ac-a019-9744beeec923,WATCHER,3 Sentries,16.0,7.0,True
+4254ffb0-c46a-4212-b203-f0510ecdee09,DEFECT,Gremlin Nob,0.0,6.0,True
+42ecd8cc-a8d2-4e46-8825-7934e21002fe,THE_SILENT,Gremlin Nob,20.0,7.0,False
+43251086-6c66-4cf5-b675-48bc5a6379f3,IRONCLAD,Gremlin Nob,41.0,7.0,True
+4544831a-2359-4a79-a5ed-c58113817be1,THE_SILENT,Lagavulin,12.0,8.0,False
+46dbe5a1-d961-469c-9309-571bb868ac69,WATCHER,Lagavulin,8.0,6.0,True
+48783f1a-0880-47a0-958b-e8c94a7dcf2c,IRONCLAD,3 Sentries,35.0,6.0,False
+491594c9-e904-40a4-9e28-9db1413a3a3b,WATCHER,Gremlin Nob,0.0,7.0,False
+49b7440f-db4c-4667-ae05-8db46ee82422,IRONCLAD,Gremlin Nob,19.0,6.0,False
+4a2e745d-fefe-4131-8893-56e994760056,IRONCLAD,Gremlin Nob,8.0,7.0,True
+4b013e17-c5eb-4a94-ab92-322a88c5db39,WATCHER,3 Sentries,0.0,7.0,True
+4b031649-15db-47bc-9b12-8da0afd15eb1,THE_SILENT,3 Sentries,0.0,7.0,False
+4b74c514-3e52-415e-bbb4-f2b170ad3a6b,DEFECT,3 Sentries,0.0,7.0,True
+4c32e016-ec15-4c7b-8662-4f5c33e486dc,WATCHER,3 Sentries,7.0,7.0,True
+4e03cb34-521c-4c84-81d9-ab5d6bc5ae32,DEFECT,Lagavulin,14.0,6.0,False
+4e26693c-3188-4e1d-8d2a-0042deaeddbc,DEFECT,3 Sentries,22.0,7.0,False
+4f7cfb97-52d2-4d21-8731-1708a36db9e2,IRONCLAD,Lagavulin,10.0,7.0,False
+4fab06f6-0b46-4965-994a-67ebaf755de6,IRONCLAD,Gremlin Nob,11.0,6.0,True
+4fdb36df-ce9d-41c7-9251-b86c67cea56e,DEFECT,Lagavulin,15.0,7.0,False
+507bb1d4-f290-4a4c-9f8b-04489119abba,IRONCLAD,Gremlin Nob,32.0,7.0,False
+50d09535-c1d6-4345-a387-ba55b2c445ec,IRONCLAD,3 Sentries,0.0,7.0,False
+52861dc4-fe57-4ec6-9e6e-f93e49ecf6fa,WATCHER,Lagavulin,1.0,6.0,True
+52ca800d-c38e-42df-af13-9a3f889e4020,THE_SILENT,Lagavulin,7.0,14.0,False
+532e4037-ea46-4f67-84ae-abe19c927b4f,WATCHER,Gremlin Nob,12.0,6.0,True
+53aeed5f-6a25-4977-a666-a68e71d0f8f7,DEFECT,Lagavulin,24.0,7.0,False
+54dd6213-5de8-40b5-94fe-a02c8506318c,WATCHER,Gremlin Nob,1.0,6.0,True
+552571f4-a742-4e79-8f1a-94bff813f3af,IRONCLAD,Lagavulin,48.0,7.0,True
+553ac303-dc19-4bac-94b8-de54333dc415,THE_SILENT,Lagavulin,24.0,11.0,True
+564fb9d1-1f7e-4f67-bff6-74578d9f138b,IRONCLAD,Lagavulin,13.0,6.0,True
+579987cb-b567-4b45-869d-44cec423056f,WATCHER,Gremlin Nob,12.0,7.0,False
+58635db8-0553-4adf-9ce0-1a3c0dba7eae,THE_SILENT,3 Sentries,10.0,8.0,True
+58753164-010e-44b6-8a77-29c1141e4c1d,IRONCLAD,Gremlin Nob,9.0,6.0,True
+5b655704-76ca-48a1-8d63-6f51b5a28211,IRONCLAD,Gremlin Nob,34.0,6.0,True
+5b99622a-7b9e-42fd-8d9a-c4b2b929b712,DEFECT,Lagavulin,17.0,7.0,True
+5c71d11d-1717-4310-8eb1-a14eb00fb474,THE_SILENT,Lagavulin,36.0,7.0,False
+5cbc1c16-3efc-4ef1-9aca-006518b230eb,THE_SILENT,Lagavulin,10.0,7.0,True
+5d1a9311-a3e8-4186-b53d-cc648f8125f0,THE_SILENT,3 Sentries,12.0,7.0,False
+5d1bf127-dfca-414d-a134-fbdd3b566856,WATCHER,Lagavulin,0.0,10.0,False
+5daa405d-097f-4a57-b6a2-56705f9d64b8,IRONCLAD,3 Sentries,28.0,7.0,True
+5e5117cc-fb91-4b32-a581-b6dc994fe2b2,IRONCLAD,Lagavulin,21.0,8.0,True
+5ec400cb-c905-43da-befa-cc8e36846658,IRONCLAD,3 Sentries,14.0,8.0,True
+5f27a447-8ee9-4f2a-addc-950e622a5169,IRONCLAD,3 Sentries,20.0,7.0,True
+5f828f8b-9264-4fa6-a518-1e95e60d7eae,WATCHER,Gremlin Nob,0.0,6.0,False
+5f944584-1d51-4dfa-8178-ca825ed0447c,THE_SILENT,3 Sentries,22.0,8.0,True
+6145e040-4cef-4ad8-ab6c-0234913465c4,WATCHER,3 Sentries,2.0,7.0,True
+61725a08-2d70-4750-a353-998f4b240236,THE_SILENT,Lagavulin,11.0,6.0,True
+62f06c46-2c1d-46f9-9629-003752ce20d1,THE_SILENT,3 Sentries,14.0,11.0,False
+6475ffb9-c684-4c19-b42c-6eb92cf705cd,DEFECT,Lagavulin,0.0,7.0,True
+6613cfcf-1040-4ecd-9c35-da1cf11ba94f,DEFECT,Gremlin Nob,25.0,7.0,False
+66fdfa23-6ec7-40d6-ac54-33c1ccc6e737,IRONCLAD,Gremlin Nob,6.0,6.0,True
+67b5d918-33a3-44bb-93bd-cb3b02a8c05c,DEFECT,Lagavulin,11.0,6.0,False
+67c13188-2ed6-43cd-a012-0c2a321e41c2,DEFECT,3 Sentries,11.0,10.0,True
+67cd4281-cd0d-4835-b100-de208b910934,THE_SILENT,Lagavulin,23.0,8.0,False
+68732316-acb9-4973-a323-553fd36240da,DEFECT,3 Sentries,6.0,7.0,True
+6942ac81-bd0d-47b7-98ea-b56d69872815,THE_SILENT,3 Sentries,15.0,12.0,False
+6a47cc19-f6fd-4f87-9b33-5b4ecec62bcc,IRONCLAD,Lagavulin,8.0,7.0,True
+6b188c31-5625-43ff-9309-26aaa914ba85,WATCHER,3 Sentries,19.0,6.0,False
+6c5cc1eb-8c3d-4fb5-9c13-2176d357e886,DEFECT,Gremlin Nob,7.0,7.0,True
+6d416ae7-c1b8-40b0-9c04-562b493f2da2,THE_SILENT,3 Sentries,0.0,10.0,True
+6d8652cb-3d5f-4a35-ae4d-14864359fe24,IRONCLAD,Lagavulin,21.0,6.0,True
+6df49aca-547c-4ed1-97c7-e71f008f2cfe,THE_SILENT,3 Sentries,6.0,7.0,True
+6e124dae-8278-4239-b522-aca0cd3b31d0,THE_SILENT,3 Sentries,19.0,7.0,False
+6effaa89-a9b0-4494-a2e5-3c2c911d102e,THE_SILENT,Lagavulin,32.0,7.0,True
+6f0d26bb-bd6b-4cc5-a1b9-e40dd18623b5,THE_SILENT,Lagavulin,25.0,8.0,False
+6f6159c6-19d8-4369-a405-2b27171aab34,THE_SILENT,Lagavulin,14.0,10.0,True
+6fdd94f8-8b71-4d18-8c61-edc92adb25d1,THE_SILENT,Gremlin Nob,3.0,12.0,False
+70852b5d-361f-404e-9e10-97340abc4a05,THE_SILENT,Lagavulin,1.0,7.0,False
+7089d152-6ae6-4dd3-b844-4fb64731cd56,THE_SILENT,3 Sentries,12.0,13.0,False
+71013dcf-caa9-4c6a-a3b3-c4e2fe726c0b,IRONCLAD,Gremlin Nob,34.0,8.0,False
+73c5a26d-82ee-4c17-a761-3709b94538f3,DEFECT,Lagavulin,20.0,7.0,True
+75e869ee-041f-4dd2-8187-e978db1f6d11,DEFECT,3 Sentries,10.0,7.0,True
+76c8992b-c608-478f-8797-4e801594c389,DEFECT,3 Sentries,17.0,6.0,True
+76d138b6-c5d9-4881-b7b9-ccac91ae9fa5,IRONCLAD,Gremlin Nob,0.0,6.0,True
+76f8be11-967d-45f7-9ed9-b72e91467640,DEFECT,3 Sentries,0.0,6.0,True
+78f04c32-1c6c-48d9-a697-ca3d2e5915e5,THE_SILENT,3 Sentries,0.0,7.0,False
+79541d23-8c79-4a61-962c-f033e3e28d09,THE_SILENT,3 Sentries,10.0,11.0,False
+79b2f366-9151-46cb-b1ea-c927541db0df,IRONCLAD,3 Sentries,10.0,7.0,True
+7c3d7d41-df0f-4abd-b577-e9b8f1cade96,WATCHER,Lagavulin,12.0,7.0,True
+7caca31b-01b8-4e14-a8bf-986b26242022,THE_SILENT,Lagavulin,0.0,7.0,True
+7cda9914-96e1-4181-ab32-af9b23d853a9,DEFECT,Gremlin Nob,6.0,6.0,False
+7db7b8b4-5fa0-491b-9120-7ec84fa2fe53,WATCHER,Lagavulin,0.0,6.0,True
+7e2f94c6-8075-43c0-8964-736707852f71,THE_SILENT,Lagavulin,5.0,12.0,True
+7eee5d08-9c86-46c3-9a32-9629f934a46e,DEFECT,Lagavulin,26.0,6.0,False
+80670be1-356c-44b3-8d07-552b04d502f1,THE_SILENT,Lagavulin,22.0,7.0,False
+80bfe387-eb34-4349-be81-3b7780d7b7d9,DEFECT,3 Sentries,0.0,6.0,True
+823b99ca-8c94-4a14-903f-935329ca465b,WATCHER,Gremlin Nob,29.0,6.0,False
+82e3dbfe-efeb-4c1f-bc44-b105d1513e8f,WATCHER,Gremlin Nob,0.0,6.0,True
+8396e8a9-2fc4-4c28-b37b-b163269609a7,THE_SILENT,3 Sentries,9.0,10.0,False
+85b56403-9c19-4281-8eff-bef71132171d,WATCHER,Lagavulin,18.0,6.0,True
+86b5c7f2-38d3-43aa-81c6-25f83ad56115,IRONCLAD,Lagavulin,8.0,8.0,True
+87155a19-c09b-4210-8882-fc2ed58c29ec,WATCHER,3 Sentries,20.0,7.0,False
+871692ed-1dc1-4566-b06d-515d565fc843,IRONCLAD,Gremlin Nob,28.0,6.0,True
+87331d7d-8245-491f-8292-4025cd5b4c91,IRONCLAD,3 Sentries,17.0,7.0,False
+87568b73-a56a-498f-b248-839a79a85e1c,IRONCLAD,Gremlin Nob,8.0,11.0,True
+882bfb1d-0224-413a-8179-6704325200e9,IRONCLAD,Gremlin Nob,10.0,6.0,True
+89935482-ae70-4f99-923c-57dc6454e145,THE_SILENT,Gremlin Nob,21.0,8.0,False
+899590a8-681d-4e28-b82e-c6caa4573ed7,WATCHER,Gremlin Nob,0.0,6.0,True
+8aa94ffa-5886-4256-a024-04ece874fcca,THE_SILENT,Gremlin Nob,26.0,7.0,True
+8b86cfff-a2e9-45e2-b256-5fd0360f047b,DEFECT,Lagavulin,10.0,8.0,False
+8c6893b7-2e37-4cde-ad86-3f09149b0511,DEFECT,3 Sentries,20.0,7.0,True
+8d8f81ad-ad4a-4f55-99e8-f04b11dd7904,WATCHER,Lagavulin,0.0,6.0,True
+8dbc68a3-c8de-4ae9-aa0b-c0128cc870fa,DEFECT,Gremlin Nob,6.0,8.0,True
+8f03ecb9-5799-4282-85c5-3dfe50475118,DEFECT,Gremlin Nob,11.0,7.0,False
+8f4f0679-10c8-444a-b62f-f163adb30fd0,WATCHER,Gremlin Nob,0.0,11.0,True
+905efa62-be47-4806-a8b3-bd1502fd3215,THE_SILENT,Gremlin Nob,6.0,11.0,True
+90c31d4c-0648-4e2d-80cc-2a74ade22fab,IRONCLAD,Lagavulin,15.0,6.0,False
+90dcded9-bb9b-49b0-8c41-49a5cc77fc89,IRONCLAD,Gremlin Nob,21.0,11.0,True
+91344672-2d01-47c6-b74e-712cb4bb5ed3,WATCHER,Lagavulin,0.0,6.0,True
+91aafad0-919b-46a8-8442-7a88320d14de,IRONCLAD,Lagavulin,18.0,11.0,False
+91ebdae5-8256-4994-8d2e-4cb1d6f93145,IRONCLAD,Gremlin Nob,11.0,7.0,True
+91ed5e82-e89c-437f-9df9-c7a239544ced,DEFECT,3 Sentries,18.0,6.0,True
+932ad893-58b6-46d9-8c77-3b05cb71b3cd,IRONCLAD,3 Sentries,0.0,6.0,True
+93840920-17e6-4685-a364-9d3bb3cea3dd,DEFECT,Gremlin Nob,0.0,6.0,True
+9411cd7c-5360-42d8-926d-c8b574bca689,DEFECT,3 Sentries,15.0,6.0,False
+95881b15-ef78-4e11-9c49-3a7733029ecb,THE_SILENT,3 Sentries,2.0,7.0,True
+95a41da3-6bd7-4468-ae00-8e979d61f2fb,DEFECT,3 Sentries,22.0,7.0,False
+962d9d35-1bec-4ed2-ba49-fc51688822e8,THE_SILENT,Lagavulin,30.0,6.0,False
+967923be-ebea-4cd3-82e6-afbb8bd9d96a,DEFECT,Gremlin Nob,23.0,11.0,False
+96f20743-98f7-42c2-8530-6c2deb0fedc9,WATCHER,3 Sentries,22.0,7.0,True
+96fe77cc-66ac-43ba-a42b-b73a48f428e6,THE_SILENT,Gremlin Nob,36.0,10.0,False
+97322c61-7f98-4ddf-9c7a-59735da27f40,DEFECT,Gremlin Nob,8.0,7.0,True
+97f7ea20-bfbf-4594-af84-bb29becc2911,DEFECT,3 Sentries,18.0,6.0,False
+987ed110-7ab1-47d8-b1fb-52738308941b,IRONCLAD,Lagavulin,47.0,6.0,False
+98df5485-3c9c-4036-a442-4b72e0bdb322,THE_SILENT,3 Sentries,5.0,11.0,True
+99d2ec37-d402-40f9-8778-46aaf88a790b,THE_SILENT,3 Sentries,16.0,7.0,False
+9c293dd0-8dfb-4c0a-b88d-37c3548b48ac,THE_SILENT,3 Sentries,15.0,7.0,False
+9c60a4bd-e374-4fcf-baf4-1944beac26b7,DEFECT,3 Sentries,9.0,7.0,True
+9d64e7a9-1718-42e9-8267-c33878b9c6c7,IRONCLAD,Lagavulin,6.0,11.0,True
+9d73b3ee-e353-4b8d-b651-defb667cf3d2,DEFECT,3 Sentries,30.0,7.0,False
+9dca7add-5a47-4bbb-8479-443ffbb39ac5,IRONCLAD,3 Sentries,23.0,7.0,True
+9eab083a-ce30-44cf-a56f-47c7356624b2,THE_SILENT,Lagavulin,13.0,6.0,False
+9f504e6a-0210-451e-ab67-ffbc6f74d5d2,IRONCLAD,3 Sentries,0.0,6.0,True
+9fc783ec-0593-4c2b-b2a1-b49b510e6b10,THE_SILENT,3 Sentries,6.0,7.0,True
+9fc7c435-0bb5-41c2-8d3f-5d70b5ebd109,IRONCLAD,3 Sentries,15.0,7.0,True
+a08d1c2b-791b-40fd-b4fe-5f101eb850d5,IRONCLAD,Gremlin Nob,43.0,6.0,False
+a1be7eb7-d490-4355-83ac-05f0567ce3f9,WATCHER,Gremlin Nob,12.0,7.0,True
+a273a657-333f-451f-9bec-922dd4f618ab,WATCHER,3 Sentries,15.0,6.0,True
+a3da8086-c7ba-4a89-929b-ee853e0b640d,IRONCLAD,3 Sentries,0.0,6.0,False
+a8b9c11d-06cf-4c84-8398-440e680e81c6,DEFECT,3 Sentries,5.0,8.0,False
+a8c76567-cdc4-450b-994c-1c0ef1d3794e,THE_SILENT,Lagavulin,26.0,7.0,True
+a95a6615-707f-457e-9e22-5ac58ca3e2ea,DEFECT,Lagavulin,23.0,8.0,True
+a9ac1f8e-97ce-4116-99c8-510a192b5b2d,DEFECT,Gremlin Nob,0.0,7.0,False
+a9e65a11-5f80-4b6c-b7f7-ad34a420b3ad,IRONCLAD,Gremlin Nob,8.0,8.0,True
+aba711e5-38e7-46d9-8401-5a54ee6e9565,WATCHER,3 Sentries,0.0,6.0,False
+ac08baaf-4a10-4919-aeca-6c319b276415,DEFECT,Gremlin Nob,11.0,6.0,False
+ad3c5954-b4ce-410e-aa42-fe03dbc5d91d,IRONCLAD,3 Sentries,25.0,8.0,True
+adea2f25-5863-4510-9eb7-9c6a96aaa2c8,IRONCLAD,Lagavulin,25.0,7.0,True
+ae8b588f-d9a0-4763-ac1b-2d7e5d31285d,WATCHER,Lagavulin,7.0,8.0,True
+af52ba3c-bab7-4be1-883d-88e7f50994a5,DEFECT,Gremlin Nob,0.0,7.0,True
+af8e9d0b-4357-43c1-84f8-79062efea7b3,DEFECT,3 Sentries,10.0,7.0,False
+afed2b42-d6a4-418e-a4ec-cbe55d988515,WATCHER,Lagavulin,0.0,7.0,True
+b090cadc-9ded-4a53-928f-9e0a05680a5d,THE_SILENT,Lagavulin,23.0,10.0,True
+b0d1847e-003c-403b-841b-6c441cc5a8e9,DEFECT,Lagavulin,16.0,10.0,False
+b1870242-e469-4105-a870-4171a8f31376,THE_SILENT,Lagavulin,17.0,6.0,False
+b27a57f9-1fd9-44c6-b773-3ad01b1961b8,THE_SILENT,3 Sentries,29.0,7.0,False
+b351b390-7407-4ade-b122-0dd35427f98b,THE_SILENT,Gremlin Nob,6.0,6.0,False
+b3b0fb68-acf9-417f-a049-4f0426e132ac,DEFECT,3 Sentries,0.0,6.0,False
+b4f246b6-2b21-4e75-94b9-28284d5cde27,THE_SILENT,Gremlin Nob,28.0,7.0,False
+b60d993e-3d12-454b-a63d-f912e206af9f,THE_SILENT,Lagavulin,20.0,6.0,True
+b89b99cd-1b2d-43c0-96ee-2ecdbe094988,WATCHER,3 Sentries,2.0,6.0,True
+bb6d1a5c-fafa-4589-93d4-de1d892124c8,IRONCLAD,3 Sentries,25.0,6.0,True
+bbecf6d2-50e5-4a53-943d-ca66ae2491ed,THE_SILENT,Gremlin Nob,0.0,6.0,True
+bc18c98f-1ace-4b7e-a232-c401396dfc07,WATCHER,Lagavulin,0.0,6.0,False
+bc4b7dff-16ae-4db2-805d-3692b0de657f,IRONCLAD,3 Sentries,13.0,10.0,True
+bc6e98eb-0d41-488f-b65a-10c24c9d27ea,THE_SILENT,Lagavulin,0.0,11.0,True
+bc744f5a-02ef-4414-b798-40f99feb0edb,WATCHER,3 Sentries,0.0,8.0,True
+be220fd2-69aa-4dc0-bc93-fddb1c1d8cbe,IRONCLAD,Gremlin Nob,6.0,10.0,True
+bf9ec967-3cf6-48fc-91bf-9da3627d2283,IRONCLAD,Gremlin Nob,10.0,7.0,False
+bfecaf04-3f00-46e8-bc01-7b663257061c,THE_SILENT,Lagavulin,3.0,6.0,False
+c07333df-616e-431a-9a56-ec6efd9ff144,THE_SILENT,Gremlin Nob,0.0,6.0,True
+c076ecd2-7b70-45e3-8f70-ef07b5bb849e,WATCHER,3 Sentries,0.0,6.0,True
+c4faf823-3fef-49ae-a531-ce64f9e6e02f,IRONCLAD,Lagavulin,21.0,7.0,True
+c55a7a06-46cd-4c6d-9479-4754e510e40c,THE_SILENT,3 Sentries,10.0,7.0,True
+c58f277d-bc87-4410-a3be-5a6ae9bfbe57,WATCHER,Lagavulin,0.0,6.0,True
+c6108798-f3f4-45ed-8be1-f86de8649a35,WATCHER,3 Sentries,15.0,6.0,True
+c668827b-8208-4cc3-aa3d-e8217da084c4,THE_SILENT,3 Sentries,10.0,7.0,False
+c8b143a3-191f-4bc2-b131-21e590dc981f,THE_SILENT,Gremlin Nob,0.0,7.0,False
+c9fb921e-0f7d-4246-9b97-919480703459,IRONCLAD,Lagavulin,18.0,6.0,False
+ca5c4d89-1f7d-41b9-a2fc-92368ce8c215,THE_SILENT,Gremlin Nob,6.0,6.0,False
+ca635a97-52e8-46ef-87da-a95cd2a5705b,DEFECT,Lagavulin,3.0,6.0,True
+cb4ce85f-4ff6-4c6d-b407-cdecd97cf9f6,WATCHER,3 Sentries,0.0,7.0,True
+cba1f271-6274-48f9-b2e7-1c75abffad23,THE_SILENT,3 Sentries,14.0,6.0,True
+cc0d911c-b1ed-44a0-b4d4-3486d336c1ac,WATCHER,3 Sentries,19.0,10.0,True
+cd28bc35-bed1-4d46-8c13-6b8f02ff7b59,DEFECT,3 Sentries,7.0,8.0,False
+cd6fd6ff-7c91-4b78-b021-f213bbe737d2,DEFECT,3 Sentries,14.0,11.0,True
+ce1c6c2a-792d-4a4c-b80f-9f70e1611d9b,THE_SILENT,3 Sentries,2.0,7.0,True
+ce5ce5f4-7aa3-4952-9df0-97d99946e1e9,DEFECT,Gremlin Nob,8.0,7.0,True
+cfeb6013-871d-477b-8af4-1cb683906e59,THE_SILENT,3 Sentries,3.0,7.0,False
+d0885eec-9c41-4cf1-b8f9-486a6eec6175,WATCHER,3 Sentries,0.0,7.0,True
+d372caae-e162-4519-aa23-164660069eac,THE_SILENT,3 Sentries,0.0,7.0,True
+d480078c-2a03-4d28-a9c3-66d399ab26f1,IRONCLAD,Lagavulin,22.0,10.0,True
+d53e443c-16e6-4165-ad8f-d55021c238f9,IRONCLAD,Lagavulin,9.0,7.0,True
+d586cc7c-cdf7-4ff7-b4ec-f2e8a03d9e0a,THE_SILENT,Gremlin Nob,0.0,10.0,False
+d5916db1-7e4c-44b4-b1f3-c238b02c722b,DEFECT,Gremlin Nob,33.0,7.0,False
+d6daf2f8-1679-44bd-80bf-4c9a19dcc253,DEFECT,Gremlin Nob,18.0,8.0,False
+d72ec51e-456a-4ffa-9e29-002a84cf6365,IRONCLAD,Gremlin Nob,35.0,7.0,True
+d73b3b21-f8e3-4254-953b-ac7f2297d986,DEFECT,Lagavulin,4.0,7.0,True
+d77d765d-edba-4a51-8ce5-68242677dd0b,THE_SILENT,3 Sentries,17.0,7.0,False
+d82a2d83-297c-44e8-8b33-fb34f459e9bd,DEFECT,3 Sentries,25.0,8.0,False
+dac6d00b-b5d2-40f9-be24-e18648dd35ef,DEFECT,Gremlin Nob,0.0,10.0,False
+db5a6ed5-a58e-4261-8177-b26bc2f5e34f,IRONCLAD,3 Sentries,25.0,12.0,False
+db99aff5-735a-4bfc-bb51-7051edcc9f8e,DEFECT,3 Sentries,17.0,8.0,True
+dca6d165-064a-425c-96c2-f108a83b684f,DEFECT,Lagavulin,0.0,8.0,True
+dcd797d2-3513-4928-a32b-09a50457a7b3,DEFECT,Gremlin Nob,13.0,7.0,False
+dd7d0c7b-0dde-4e2c-97c6-a370d9e126eb,DEFECT,Gremlin Nob,33.0,8.0,True
+ddd9ab66-1d1d-4353-b7b2-0e8760e1696c,THE_SILENT,Lagavulin,1.0,6.0,True
+de2b8ff4-9157-4134-8f0e-1c6e8d5223f0,THE_SILENT,Gremlin Nob,11.0,7.0,True
+df3ccdf5-0420-4d1c-8443-9415bdefb402,IRONCLAD,3 Sentries,20.0,7.0,False
+dfaa972d-f5cd-454e-a8e0-d5804d3aed75,WATCHER,Gremlin Nob,13.0,6.0,True
+e0d8573d-468b-4f1a-809a-eb32d12d47b6,IRONCLAD,Lagavulin,20.0,7.0,True
+e143a343-3f11-4105-a33c-dce25cd78f8f,THE_SILENT,Gremlin Nob,26.0,7.0,False
+e166cb10-bce6-4319-9a2c-79a2a4cdbc78,THE_SILENT,Lagavulin,20.0,6.0,True
+e26b0cd8-27da-4958-a1c3-4ae620ebf57c,THE_SILENT,Gremlin Nob,23.0,7.0,True
+e3002ed8-08bc-44ed-955f-0cd4aa5a1b8c,WATCHER,3 Sentries,10.0,6.0,False
+e373a21b-14fb-408e-b9ce-6476f091739b,THE_SILENT,Gremlin Nob,0.0,7.0,True
+e4dfb210-2c6e-45c3-af1e-638a03e40ab8,WATCHER,Lagavulin,0.0,10.0,False
+e58bf2fb-6cb1-4378-a3af-9b858ba7b5fd,IRONCLAD,3 Sentries,16.0,6.0,True
+e5d284b3-1aa8-4c35-93d7-2a466d8971d3,THE_SILENT,3 Sentries,3.0,13.0,True
+e6a28b4a-cc70-4949-993f-0b9bc8ac01a0,DEFECT,Gremlin Nob,7.0,6.0,True
+e84a2670-459c-4493-9c12-211d64d01d5c,IRONCLAD,Lagavulin,26.0,10.0,False
+e876e4d6-9fd0-414a-bd10-c46d3d267f0e,IRONCLAD,Gremlin Nob,8.0,6.0,True
+e979b0e2-4c51-4d75-9821-8b419ade5ed4,THE_SILENT,Lagavulin,1.0,7.0,False
+ea0b4170-e3c8-4da4-b522-23ba2fecaa82,IRONCLAD,Lagavulin,0.0,8.0,True
+ea4cf14a-ed4c-49e4-8d22-dfb0c09a1cfd,THE_SILENT,3 Sentries,22.0,6.0,True
+eaac00d8-765a-4737-b999-a62cd5cc4fa2,THE_SILENT,Gremlin Nob,38.0,11.0,False
+eb020847-b4e8-46ee-8498-4fa334d54a40,DEFECT,3 Sentries,12.0,6.0,True
+ec0abbe2-048d-44c6-91c6-ea333255cd78,DEFECT,Lagavulin,14.0,6.0,True
+ec20c424-c526-4070-96f6-cf8bf186756e,DEFECT,3 Sentries,30.0,8.0,True
+ecc3e9ce-d069-42b0-b0ef-89cc531226fe,DEFECT,Lagavulin,0.0,8.0,False
+ecc89d42-1c69-4966-89a4-0e0db723af0f,THE_SILENT,Lagavulin,0.0,7.0,True
+ed4c7308-4798-4bd4-bc6a-2903d02159fc,DEFECT,3 Sentries,26.0,7.0,True
+ed650fed-09e1-4b36-a6b9-7b8588ba2272,DEFECT,3 Sentries,20.0,6.0,True
+ed6839ab-3567-4dd4-b1c7-2c226e5f2733,THE_SILENT,Gremlin Nob,0.0,10.0,True
+edda5e27-0a1f-454f-8791-eded609977b1,IRONCLAD,Gremlin Nob,11.0,7.0,False
+ee6854a3-e0e6-41de-bee1-d6baf422d0bc,IRONCLAD,3 Sentries,20.0,7.0,False
+ef2d3808-f056-4f36-bb70-153385085da9,THE_SILENT,3 Sentries,3.0,14.0,False
+efb2c399-6493-45d2-b279-08a349eb7830,DEFECT,Lagavulin,0.0,11.0,False
+f04a947b-a39a-4d92-8a3b-24cf560ee150,WATCHER,3 Sentries,0.0,6.0,False
+f1e75724-33a8-4043-8b32-2bc839b31a6e,IRONCLAD,Gremlin Nob,8.0,7.0,True
+f205ee31-521b-4e71-b3bd-21e6ad4eae35,THE_SILENT,Lagavulin,0.0,6.0,True
+f226208e-a194-4625-a820-35d7fa65c938,THE_SILENT,3 Sentries,0.0,6.0,True
+f2d9c33a-72af-47cd-911e-bc5df6360827,DEFECT,Lagavulin,15.0,11.0,False
+f3d0c3ef-668f-40cf-a1a6-fa0a30316e30,DEFECT,3 Sentries,0.0,10.0,True
+f4240582-dc01-47ce-a9ea-a391e8e4680b,DEFECT,Lagavulin,0.0,6.0,False
+f42f05a5-330d-406b-9454-3ad87a5fdbf0,THE_SILENT,3 Sentries,24.0,12.0,False
+f6f0352c-ad11-452c-a84a-b31e11ebb16d,IRONCLAD,3 Sentries,39.0,6.0,False
+fb667b39-468b-4bbf-9f14-9a9980ffe01c,DEFECT,3 Sentries,0.0,7.0,False
+fb853c46-a572-476b-a626-69762f12df4f,DEFECT,Gremlin Nob,30.0,10.0,False
+fbcb5a62-6837-488d-87c8-9ef0c3eccbf1,WATCHER,Lagavulin,2.0,7.0,True
+fc23c39b-9d80-4dc2-8d50-b36f45c89704,IRONCLAD,3 Sentries,41.0,6.0,False
+fd126c32-429e-4b15-807e-93ab29e0a3d2,DEFECT,Gremlin Nob,34.0,6.0,True
+fed4ca28-c1f2-4ce5-8fab-04a9f759a17a,DEFECT,Lagavulin,7.0,10.0,True
+ffea87eb-925b-4514-afa6-3c9db1f3ecb0,WATCHER,Lagavulin,0.0,7.0,False
